@@ -1,1964 +1,1802 @@
 [
   {
-    "createdAt": "2024-12-07T02:12:56Z",
-    "description": "BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONaGLs88AAAAB0-sNYg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONaGLs88AAAAB0-sNZQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONaGLs88AAAAB0-sNaA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONaGLs88AAAAB0-sNaw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONaGLs88AAAAB0-sNcg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONaGLs88AAAAB0-sNbg",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONaGLs88AAAAB0-sNdQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONaGLs88AAAAB0-sNdw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONaGLs88AAAAB0-sNeQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "baml",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/baml",
-    "parent_url": "https://github.com/BoundaryML/baml"
+    "name": "ML2024repos",
+    "createdAt": "2024-12-29T00:29:44Z",
+    "description": "Machine Learning in 2024",
+    "url": "https://github.com/evelynmitchell/ML2024repos",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-05-09T23:59:18Z",
-    "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDOL5hod88AAAABnSB0zA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDOL5hod88AAAABnSB0zw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDOL5hod88AAAABnSB00w",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDOL5hod88AAAABnSB01w",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDOL5hod88AAAABnSB03Q",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDOL5hod88AAAABnSB02g",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDOL5hod88AAAABnSB03w",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDOL5hod88AAAABnSB04Q",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDOL5hod88AAAABnSB04g",
-        "name": "wontfix"
-      }
-    ],
-    "name": "ollama",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/ollama",
-    "parent_url": "https://github.com/ollama/ollama"
-  },
-  {
-    "createdAt": "2024-09-04T22:56:22Z",
-    "description": "\ud83d\ude4c OpenHands: Code Less, Make More",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDOMtAPQM8AAAABuklq4Q",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDOMtAPQM8AAAABuklq4w",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDOMtAPQM8AAAABuklq5Q",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDOMtAPQM8AAAABuklq5w",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDOMtAPQM8AAAABuklq7A",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDOMtAPQM8AAAABuklq6Q",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDOMtAPQM8AAAABuklq7Q",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDOMtAPQM8AAAABuklq7w",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDOMtAPQM8AAAABuklq8Q",
-        "name": "wontfix"
-      }
-    ],
-    "name": "OpenHands",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/OpenHands",
-    "parent_url": "https://github.com/All-Hands-AI/OpenHands"
-  },
-  {
-    "createdAt": "2024-12-22T20:24:26Z",
-    "description": "llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONhFQHs8AAAAB1-RH-g",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONhFQHs8AAAAB1-RH-w",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONhFQHs8AAAAB1-RH_A",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONhFQHs8AAAAB1-RH_Q",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONhFQHs8AAAAB1-RH_w",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONhFQHs8AAAAB1-RH_g",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONhFQHs8AAAAB1-RIAA",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONhFQHs8AAAAB1-RIAg",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONhFQHs8AAAAB1-RIBA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "llm-consortium",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/llm-consortium",
-    "parent_url": "https://github.com/irthomasthomas/llm-consortium"
-  },
-  {
+    "name": "SEAL-js",
     "createdAt": "2024-12-24T02:09:15Z",
     "description": "Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication to media.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONhkcWM8AAAAB2Csyag",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONhkcWM8AAAAB2Csyaw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONhkcWM8AAAAB2CsybQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONhkcWM8AAAAB2CsycA",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONhkcWM8AAAAB2Csydg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONhkcWM8AAAAB2Csycw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONhkcWM8AAAAB2CsyeQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONhkcWM8AAAAB2CsyfA",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONhkcWM8AAAAB2CsygA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "SEAL-js",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/SEAL-js",
-    "parent_url": "https://github.com/bgon/SEAL-js"
+    "parent_url": "https://github.com/bgon/SEAL-js",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "llm-consortium",
+    "createdAt": "2024-12-22T20:24:26Z",
+    "description": "llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus.",
+    "url": "https://github.com/evelynmitchell/llm-consortium",
+    "parent_url": "https://github.com/irthomasthomas/llm-consortium",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Genesis",
     "createdAt": "2024-12-20T22:30:14Z",
     "description": "A generative world for general-purpose robotics & embodied AI learning.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONgcFs88AAAAB14c4eA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONgcFs88AAAAB14c4fw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONgcFs88AAAAB14c4iQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONgcFs88AAAAB14c4lA",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONgcFs88AAAAB14c4qA",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONgcFs88AAAAB14c4nQ",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONgcFs88AAAAB14c4rw",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONgcFs88AAAAB14c4tg",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONgcFs88AAAAB14c4vg",
-        "name": "wontfix"
-      }
-    ],
-    "name": "Genesis",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/Genesis",
-    "parent_url": "https://github.com/Genesis-Embodied-AI/Genesis"
+    "parent_url": "https://github.com/Genesis-Embodied-AI/Genesis",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "AgentHands",
+    "createdAt": "2024-12-20T18:28:50Z",
+    "description": "OpenHands Agents",
+    "url": "https://github.com/evelynmitchell/AgentHands",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TheAgentCompany",
     "createdAt": "2024-12-19T15:15:06Z",
     "description": "An agent benchmark with tasks in a simulated software company.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONf2cL88AAAAB1zGuDw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONf2cL88AAAAB1zGuEg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONf2cL88AAAAB1zGuFg",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONf2cL88AAAAB1zGuGQ",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONf2cL88AAAAB1zGuHw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONf2cL88AAAAB1zGuHA",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONf2cL88AAAAB1zGuIw",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONf2cL88AAAAB1zGuKg",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONf2cL88AAAAB1zGuLw",
-        "name": "wontfix"
-      }
-    ],
-    "name": "TheAgentCompany",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/TheAgentCompany",
-    "parent_url": "https://github.com/TheAgentCompany/TheAgentCompany"
+    "parent_url": "https://github.com/TheAgentCompany/TheAgentCompany",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-11-26T20:22:46Z",
-    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONVP5j88AAAAB0SkSNA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONVP5j88AAAAB0SkSNg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONVP5j88AAAAB0SkSOQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONVP5j88AAAAB0SkSOw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONVP5j88AAAAB0SkSQg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONVP5j88AAAAB0SkSPw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONVP5j88AAAAB0SkSRQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONVP5j88AAAAB0SkSRw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONVP5j88AAAAB0SkSSg",
-        "name": "wontfix"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB0cbj6Q",
-        "name": "structs"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB0cbj6w",
-        "name": "telemetry"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB0cbj7Q",
-        "name": "tools"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB0cbj7w",
-        "name": "utils"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB1nrx6g",
-        "name": "agents"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB1nrx6w",
-        "name": "artifacts"
-      },
-      {
-        "color": "ededed",
-        "description": "",
-        "id": "LA_kwDONVP5j88AAAAB1r1-yQ",
-        "name": "tests"
-      }
-    ],
-    "name": "swarms",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/swarms",
-    "parent_url": "https://github.com/kyegomez/swarms"
-  },
-  {
+    "name": "EXA-1",
     "createdAt": "2024-12-19T03:11:50Z",
     "description": "An EXA-Scale repository of Multi-Modality AI resources from papers and models, to foundational libraries!",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONflmf88AAAAB1wthEw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONflmf88AAAAB1wthFA",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONflmf88AAAAB1wthFQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONflmf88AAAAB1wthFg",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONflmf88AAAAB1wthGQ",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONflmf88AAAAB1wthFw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONflmf88AAAAB1wthGw",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONflmf88AAAAB1wthHQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONflmf88AAAAB1wthHw",
-        "name": "wontfix"
-      }
-    ],
-    "name": "EXA-1",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/EXA-1",
-    "parent_url": "https://github.com/kyegomez/EXA-1"
+    "parent_url": "https://github.com/kyegomez/EXA-1",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-11-28T05:44:59Z",
-    "description": "A compilation of the best multi-agent papers",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_TA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_Tg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_UA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_UQ",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_Uw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_Ug",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_VA",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_VQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONV6LQM8AAAAB0Yk_Vg",
-        "name": "wontfix"
-      }
-    ],
-    "name": "awesome-multi-agent-papers",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/awesome-multi-agent-papers",
-    "parent_url": "https://github.com/kyegomez/awesome-multi-agent-papers"
-  },
-  {
+    "name": "PAE",
     "createdAt": "2024-12-18T16:37:32Z",
     "description": "",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONfaGi88AAAAB1vEuhg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONfaGi88AAAAB1vEuiQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONfaGi88AAAAB1vEujQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONfaGi88AAAAB1vEukQ",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONfaGi88AAAAB1vEunw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONfaGi88AAAAB1vEumA",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONfaGi88AAAAB1vEupA",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONfaGi88AAAAB1vEuqQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONfaGi88AAAAB1vEurg",
-        "name": "wontfix"
-      }
-    ],
-    "name": "PAE",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/PAE",
-    "parent_url": "https://github.com/amazon-science/PAE"
+    "parent_url": "https://github.com/amazon-science/PAE",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "Godel_Agent",
+    "createdAt": "2024-12-17T23:50:05Z",
+    "description": "G\u00f6del Agent: A Self-Referential Agent Framework for Recursive Self-Improvement",
+    "url": "https://github.com/evelynmitchell/Godel_Agent",
+    "parent_url": "https://github.com/Arvid-pku/Godel_Agent",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "pysa-action",
     "createdAt": "2024-12-17T18:46:55Z",
     "description": "GitHub Action for Pysa",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJKg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJLQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJMA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJMw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJOA",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJNg",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJOg",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJOw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONe-Qc88AAAAB1rGJPQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "pysa-action",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/pysa-action",
-    "parent_url": "https://github.com/facebook/pysa-action"
+    "parent_url": "https://github.com/facebook/pysa-action",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-02-13T21:25:09Z",
-    "description": "A flexible and efficient codebase for training visually-conditioned language models (VLMs)",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDOLSDbYc8AAAABhsg96Q",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDOLSDbYc8AAAABhsg97A",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDOLSDbYc8AAAABhsg97g",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDOLSDbYc8AAAABhsg98Q",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDOLSDbYc8AAAABhsg9-Q",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDOLSDbYc8AAAABhsg99A",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDOLSDbYc8AAAABhsg9_g",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDOLSDbYc8AAAABhsg-Aw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDOLSDbYc8AAAABhsg-Bw",
-        "name": "wontfix"
-      }
-    ],
-    "name": "prismatic-vlms",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/prismatic-vlms",
-    "parent_url": "https://github.com/TRI-ML/prismatic-vlms"
-  },
-  {
-    "createdAt": "2024-12-16T03:09:35Z",
-    "description": "the LLM vulnerability scanner",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Nw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Ow",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Pw",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Qw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Sg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Rw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9TQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9UA",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONeG9Hc8AAAAB1jM9Uw",
-        "name": "wontfix"
-      }
-    ],
-    "name": "garak",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/garak",
-    "parent_url": "https://github.com/NVIDIA/garak"
-  },
-  {
-    "createdAt": "2024-12-14T13:32:49Z",
-    "description": "Large Concept Models: Language modeling in a sentence representation space",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5aw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5bQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5bg",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5cA",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5cw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5cg",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5dA",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5dQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONdiaTM8AAAAB1eB5eA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "large_concept_model",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/large_concept_model",
-    "parent_url": "https://github.com/facebookresearch/large_concept_model"
-  },
-  {
-    "createdAt": "2024-12-14T13:31:09Z",
-    "description": "Code for TrackTheMind",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONdiXjM8AAAAB1eBgcg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONdiXjM8AAAAB1eBgdw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONdiXjM8AAAAB1eBgew",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONdiXjM8AAAAB1eBggg",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONdiXjM8AAAAB1eBgiw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONdiXjM8AAAAB1eBghw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONdiXjM8AAAAB1eBgjw",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONdiXjM8AAAAB1eBgkQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONdiXjM8AAAAB1eBglA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "ExploreToM",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/ExploreToM",
-    "parent_url": "https://github.com/facebookresearch/ExploreToM"
-  },
-  {
-    "createdAt": "2024-12-16T03:00:57Z",
-    "description": "Code for BLT research paper",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvJg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvKA",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvLA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvLw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvNQ",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvMQ",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvOg",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvPQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONeG0fc8AAAAB1jLvQQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "blt",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/blt",
-    "parent_url": "https://github.com/facebookresearch/blt"
-  },
-  {
+    "name": "evalica",
     "createdAt": "2024-12-17T16:26:23Z",
     "description": "Evalica, your favourite evaluation toolkit",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONe6iM88AAAAB1qkLIA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONe6iM88AAAAB1qkLKw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONe6iM88AAAAB1qkLNA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONe6iM88AAAAB1qkLOg",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONe6iM88AAAAB1qkLSg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONe6iM88AAAAB1qkLQg",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONe6iM88AAAAB1qkLUQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONe6iM88AAAAB1qkLWA",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONe6iM88AAAAB1qkLXQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "evalica",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/evalica",
-    "parent_url": "https://github.com/dustalov/evalica"
+    "parent_url": "https://github.com/dustalov/evalica",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-12-13T03:17:05Z",
-    "description": "No-code in the front, Python in the back. An open-source framework for creating data apps.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RSA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RSQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RSw",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RTg",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RUw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RUQ",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RVg",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RWQ",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONc2ufM8AAAAB1X1RXA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "writer-framework",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/writer-framework",
-    "parent_url": "https://github.com/writer/writer-framework"
-  },
-  {
+    "name": "tidybot2",
     "createdAt": "2024-12-17T16:20:38Z",
     "description": "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONe6Yec8AAAAB1qiyxw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONe6Yec8AAAAB1qiyzw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONe6Yec8AAAAB1qiy2g",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONe6Yec8AAAAB1qiy5w",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONe6Yec8AAAAB1qiy_A",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONe6Yec8AAAAB1qiy8g",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONe6Yec8AAAAB1qizAQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONe6Yec8AAAAB1qizCw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONe6Yec8AAAAB1qizFQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "tidybot2",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/tidybot2",
-    "parent_url": "https://github.com/jimmyyhwu/tidybot2"
+    "parent_url": "https://github.com/jimmyyhwu/tidybot2",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-12-11T16:50:09Z",
-    "description": "Official Codebase for GraPE: https://arxiv.org/abs/2412.06089",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONcL45s8AAAAB1RtVxw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONcL45s8AAAAB1RtVzA",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONcL45s8AAAAB1RtV0A",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONcL45s8AAAAB1RtV1w",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONcL45s8AAAAB1RtV4Q",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONcL45s8AAAAB1RtV2w",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONcL45s8AAAAB1RtV6A",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONcL45s8AAAAB1RtV7A",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONcL45s8AAAAB1RtV8g",
-        "name": "wontfix"
-      }
-    ],
-    "name": "GraPE",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/GraPE",
-    "parent_url": "https://github.com/dair-iitd/GraPE"
+    "name": "garak",
+    "createdAt": "2024-12-16T03:09:35Z",
+    "description": "the LLM vulnerability scanner",
+    "url": "https://github.com/evelynmitchell/garak",
+    "parent_url": "https://github.com/NVIDIA/garak",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "blt",
+    "createdAt": "2024-12-16T03:00:57Z",
+    "description": "Code for BLT research paper",
+    "url": "https://github.com/evelynmitchell/blt",
+    "parent_url": "https://github.com/facebookresearch/blt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "large_concept_model",
+    "createdAt": "2024-12-14T13:32:49Z",
+    "description": "Large Concept Models: Language modeling in a sentence representation space",
+    "url": "https://github.com/evelynmitchell/large_concept_model",
+    "parent_url": "https://github.com/facebookresearch/large_concept_model",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ExploreToM",
+    "createdAt": "2024-12-14T13:31:09Z",
+    "description": "Code for TrackTheMind",
+    "url": "https://github.com/evelynmitchell/ExploreToM",
+    "parent_url": "https://github.com/facebookresearch/ExploreToM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "writer-framework",
+    "createdAt": "2024-12-13T03:17:05Z",
+    "description": "No-code in the front, Python in the back. An open-source framework for creating data apps.",
+    "url": "https://github.com/evelynmitchell/writer-framework",
+    "parent_url": "https://github.com/writer/writer-framework",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "multi-agent-orchestrator",
     "createdAt": "2024-12-13T00:28:07Z",
     "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONc0NBM8AAAAB1XeS_Q",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTAg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTBQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTCA",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTEg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTDA",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTFg",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTGg",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONc0NBM8AAAAB1XeTHQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "multi-agent-orchestrator",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/multi-agent-orchestrator",
-    "parent_url": "https://github.com/awslabs/multi-agent-orchestrator"
+    "parent_url": "https://github.com/awslabs/multi-agent-orchestrator",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
-    "createdAt": "2024-12-11T16:22:37Z",
-    "description": "The Granite Guardian models are designed to detect risks in prompts and responses.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONcLHx88AAAAB1RmXZQ",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONcLHx88AAAAB1RmXcA",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONcLHx88AAAAB1RmXdQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONcLHx88AAAAB1RmXeQ",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONcLHx88AAAAB1RmXhA",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONcLHx88AAAAB1RmXfw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONcLHx88AAAAB1RmXiQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONcLHx88AAAAB1RmXjg",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONcLHx88AAAAB1RmXkg",
-        "name": "wontfix"
-      }
-    ],
-    "name": "granite-guardian",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/granite-guardian",
-    "parent_url": "https://github.com/ibm-granite/granite-guardian"
-  },
-  {
-    "createdAt": "2024-12-11T16:59:12Z",
-    "description": "A New Federated Learning Framework Against Gradient Inversion Attacks [AAAI 2025].",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONcMItM8AAAAB1RvlzQ",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl0Q",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl1w",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl3A",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl5g",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl4Q",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl6g",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl7A",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONcMItM8AAAAB1Rvl9A",
-        "name": "wontfix"
-      }
-    ],
-    "name": "HyperFL",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/HyperFL",
-    "parent_url": "https://github.com/Pengxin-Guo/HyperFL"
-  },
-  {
-    "createdAt": "2024-12-11T00:17:40Z",
-    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_IA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_Jg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_Kg",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_Lg",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_Ng",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_Mg",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_OQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_PA",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONb0vac8AAAAB1OZ_QA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "AutoHedge",
-    "repositoryTopics": null,
-    "url": "https://github.com/evelynmitchell/AutoHedge",
-    "parent_url": "https://github.com/The-Swarm-Corporation/AutoHedge"
-  },
-  {
+    "name": "openai-python",
     "createdAt": "2024-12-11T23:22:18Z",
     "description": "The official Python library for the OpenAI API",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VGw",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VHg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VIA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VJQ",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VLg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VKQ",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VMw",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VNw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONcUSUM8AAAAB1S6VPA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "openai-python",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/openai-python",
-    "parent_url": "https://github.com/openai/openai-python"
+    "parent_url": "https://github.com/openai/openai-python",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "HyperFL",
+    "createdAt": "2024-12-11T16:59:12Z",
+    "description": "A New Federated Learning Framework Against Gradient Inversion Attacks [AAAI 2025].",
+    "url": "https://github.com/evelynmitchell/HyperFL",
+    "parent_url": "https://github.com/Pengxin-Guo/HyperFL",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "GraPE",
+    "createdAt": "2024-12-11T16:50:09Z",
+    "description": "Official Codebase for GraPE: https://arxiv.org/abs/2412.06089",
+    "url": "https://github.com/evelynmitchell/GraPE",
+    "parent_url": "https://github.com/dair-iitd/GraPE",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Moxin-LLM",
     "createdAt": "2024-12-11T16:45:52Z",
     "description": "",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONcLxe88AAAAB1RsSig",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONcLxe88AAAAB1RsSjQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONcLxe88AAAAB1RsSkA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONcLxe88AAAAB1RsSkw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONcLxe88AAAAB1RsSmA",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONcLxe88AAAAB1RsSlg",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONcLxe88AAAAB1RsSmg",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONcLxe88AAAAB1RsSmw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONcLxe88AAAAB1RsSnA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "Moxin-LLM",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/Moxin-LLM",
-    "parent_url": "https://github.com/moxin-org/Moxin-LLM"
+    "parent_url": "https://github.com/moxin-org/Moxin-LLM",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "granite-guardian",
+    "createdAt": "2024-12-11T16:22:37Z",
+    "description": "The Granite Guardian models are designed to detect risks in prompts and responses.",
+    "url": "https://github.com/evelynmitchell/granite-guardian",
+    "parent_url": "https://github.com/ibm-granite/granite-guardian",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AutoHedge",
+    "createdAt": "2024-12-11T00:17:40Z",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "url": "https://github.com/evelynmitchell/AutoHedge",
+    "parent_url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "carbs",
+    "createdAt": "2024-12-10T00:31:15Z",
+    "description": "Cost aware hyperparameter tuning algorithm",
+    "url": "https://github.com/evelynmitchell/carbs",
+    "parent_url": "https://github.com/imbue-ai/carbs",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "skypilotswarms",
     "createdAt": "2024-12-09T03:39:58Z",
     "description": "SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQgg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQgw",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQhA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQhg",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQiw",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQiA",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQjA",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQjg",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONa2Cnc8AAAAB1FeQkA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "skypilotswarms",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/skypilotswarms",
-    "parent_url": "https://github.com/meta-introspector/skypilot"
+    "parent_url": "https://github.com/meta-introspector/skypilot",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "humanlayer",
+    "createdAt": "2024-12-08T03:39:55Z",
+    "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+    "url": "https://github.com/evelynmitchell/humanlayer",
+    "parent_url": "https://github.com/humanlayer/humanlayer",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "baml",
+    "createdAt": "2024-12-07T02:12:56Z",
+    "description": "BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground",
+    "url": "https://github.com/evelynmitchell/baml",
+    "parent_url": "https://github.com/BoundaryML/baml",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "greptimedb",
+    "createdAt": "2024-12-06T02:35:30Z",
+    "description": "An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.",
+    "url": "https://github.com/evelynmitchell/greptimedb",
+    "parent_url": "https://github.com/GreptimeTeam/greptimedb",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "swarm-models",
+    "createdAt": "2024-12-03T22:48:12Z",
+    "description": "A simple to use package to call various model providers such as openai, anthropic, and others with utmost reliability, security, and performance.",
+    "url": "https://github.com/evelynmitchell/swarm-models",
+    "parent_url": "https://github.com/The-Swarm-Corporation/swarm-models",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "DailyWork",
+    "createdAt": "2024-12-02T20:04:03Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/DailyWork",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "beans",
+    "createdAt": "2024-12-02T00:45:26Z",
+    "description": "BEANS: The Benchmark of Animal Sounds",
+    "url": "https://github.com/evelynmitchell/beans",
+    "parent_url": "https://github.com/earthspecies/beans",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "inform",
+    "createdAt": "2024-11-29T21:12:16Z",
+    "description": "The core software distribution for the Inform 7 programming language.",
+    "url": "https://github.com/evelynmitchell/inform",
+    "parent_url": "https://github.com/ganelson/inform",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ComfyUI-TPU",
+    "createdAt": "2024-11-28T18:12:54Z",
+    "description": "ComfyUI for TPUs/XLA devices",
+    "url": "https://github.com/evelynmitchell/ComfyUI-TPU",
+    "parent_url": "https://github.com/radna0/ComfyUI-XLA",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "awesome-multi-agent-papers",
+    "createdAt": "2024-11-28T05:44:59Z",
+    "description": "A compilation of the best multi-agent papers",
+    "url": "https://github.com/evelynmitchell/awesome-multi-agent-papers",
+    "parent_url": "https://github.com/kyegomez/awesome-multi-agent-papers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "swarms",
+    "createdAt": "2024-11-26T20:22:46Z",
+    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503",
+    "url": "https://github.com/evelynmitchell/swarms",
+    "parent_url": "https://github.com/kyegomez/swarms",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "adopt",
+    "createdAt": "2024-11-26T05:27:40Z",
+    "description": "Official Implementation of \"ADOPT: Modified Adam Can Converge with Any \u03b22 with the Optimal Rate\"",
+    "url": "https://github.com/evelynmitchell/adopt",
+    "parent_url": "https://github.com/iShohei220/adopt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SOAP",
+    "createdAt": "2024-11-26T05:22:49Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/SOAP",
+    "parent_url": "https://github.com/ClashLuke/SOAP",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "purejaxrl",
+    "createdAt": "2024-11-23T01:52:48Z",
+    "description": "Really Fast End-to-End Jax RL Implementations",
+    "url": "https://github.com/evelynmitchell/purejaxrl",
+    "parent_url": "https://github.com/luchris429/purejaxrl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "purejaxql",
+    "createdAt": "2024-11-22T14:12:46Z",
+    "description": "Simple single-file baselines for Q-Learning in pure-GPU setting",
+    "url": "https://github.com/evelynmitchell/purejaxql",
+    "parent_url": "https://github.com/mttga/purejaxql",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Craftax",
+    "createdAt": "2024-11-22T14:11:01Z",
+    "description": "(Crafter + NetHack) in JAX.  ICML 2024 Spotlight.",
+    "url": "https://github.com/evelynmitchell/Craftax",
+    "parent_url": "https://github.com/MichaelTMatthews/Craftax",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "stripe-agent-toolkit",
+    "createdAt": "2024-11-21T16:55:54Z",
+    "description": "Python and TypeScript library for integrating the Stripe API into agentic workflows",
+    "url": "https://github.com/evelynmitchell/stripe-agent-toolkit",
+    "parent_url": "https://github.com/stripe/agent-toolkit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ydata-synthetic",
+    "createdAt": "2024-11-20T19:51:58Z",
+    "description": "Synthetic data generators for tabular and time-series data",
+    "url": "https://github.com/evelynmitchell/ydata-synthetic",
+    "parent_url": "https://github.com/ydataai/ydata-synthetic",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ngpt",
+    "createdAt": "2024-11-18T19:24:17Z",
+    "description": "Normalized Transformer (nGPT)",
+    "url": "https://github.com/evelynmitchell/ngpt",
+    "parent_url": "https://github.com/NVIDIA/ngpt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "uni2ts",
     "createdAt": "2024-11-16T15:21:20Z",
     "description": "Unified Training of Universal Time Series Forecasting Transformers",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDONQU7ls8AAAABzlwoEA",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDONQU7ls8AAAABzlwoFQ",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDONQU7ls8AAAABzlwoGQ",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDONQU7ls8AAAABzlwoHA",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDONQU7ls8AAAABzlwoIg",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDONQU7ls8AAAABzlwoHw",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDONQU7ls8AAAABzlwoJQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDONQU7ls8AAAABzlwoJw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDONQU7ls8AAAABzlwoKA",
-        "name": "wontfix"
-      }
-    ],
-    "name": "uni2ts",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/uni2ts",
-    "parent_url": "https://github.com/SalesforceAIResearch/uni2ts"
+    "parent_url": "https://github.com/SalesforceAIResearch/uni2ts",
+    "labels": [],
+    "repositoryTopics": null
   },
   {
+    "name": "ort",
+    "createdAt": "2024-11-14T02:22:45Z",
+    "description": "Fast ML inference & training for Rust with ONNX Runtime",
+    "url": "https://github.com/evelynmitchell/ort",
+    "parent_url": "https://github.com/pykeio/ort",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "zizmor",
+    "createdAt": "2024-11-13T04:49:27Z",
+    "description": "A tool for finding security issues in GitHub Actions setups.",
+    "url": "https://github.com/evelynmitchell/zizmor",
+    "parent_url": "https://github.com/woodruffw/zizmor",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "openreplay",
+    "createdAt": "2024-11-13T02:43:52Z",
+    "description": "Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.",
+    "url": "https://github.com/evelynmitchell/openreplay",
+    "parent_url": "https://github.com/openreplay/openreplay",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "KeYmaeraX-release",
+    "createdAt": "2024-11-11T16:54:30Z",
+    "description": "KeYmaera X: An aXiomatic Tactical Theorem Prover for Hybrid Systems (release)",
+    "url": "https://github.com/evelynmitchell/KeYmaeraX-release",
+    "parent_url": "https://github.com/LS-Lab/KeYmaeraX-release",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "docling",
+    "createdAt": "2024-11-11T00:23:55Z",
+    "description": "Get your documents ready for gen AI",
+    "url": "https://github.com/evelynmitchell/docling",
+    "parent_url": "https://github.com/DS4SD/docling",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "kserve",
+    "createdAt": "2024-11-10T19:56:05Z",
+    "description": "Standardized Serverless ML Inference Platform on Kubernetes",
+    "url": "https://github.com/evelynmitchell/kserve",
+    "parent_url": "https://github.com/kserve/kserve",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "swarms-cloud",
+    "createdAt": "2024-11-09T02:38:22Z",
+    "description": "Deploy your autonomous agents to production grade environments with 99% Uptime Guarantee, Infinite Scalability, and self-healing.",
+    "url": "https://github.com/evelynmitchell/swarms-cloud",
+    "parent_url": "https://github.com/The-Swarm-Corporation/swarms-cloud",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "swarms-platform",
+    "createdAt": "2024-11-09T02:37:34Z",
+    "description": "The Agent Marketplace",
+    "url": "https://github.com/evelynmitchell/swarms-platform",
+    "parent_url": "https://github.com/The-Swarm-Corporation/swarms-platform",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "agoralab-website",
+    "createdAt": "2024-11-09T01:58:42Z",
+    "description": "The website of agoralab.ai",
+    "url": "https://github.com/evelynmitchell/agoralab-website",
+    "parent_url": "https://github.com/Agora-Lab-AI/agoralab-website",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "sophie",
+    "createdAt": "2024-11-06T17:27:46Z",
+    "description": "A personal assistant",
+    "url": "https://github.com/evelynmitchell/sophie",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "LeReT",
+    "createdAt": "2024-11-03T23:07:32Z",
+    "description": "Learning to Retrieve by Trying - Source code for Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval",
+    "url": "https://github.com/evelynmitchell/LeReT",
+    "parent_url": "https://github.com/sher222/LeReT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fictional-happiness",
+    "createdAt": "2024-11-01T20:06:53Z",
+    "description": "Trying out a few things",
+    "url": "https://github.com/evelynmitchell/fictional-happiness",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "paper-qa",
+    "createdAt": "2024-11-01T01:55:42Z",
+    "description": "High accuracy RAG for answering questions from scientific documents with citations",
+    "url": "https://github.com/evelynmitchell/paper-qa",
+    "parent_url": "https://github.com/Future-House/paper-qa",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "pglite",
+    "createdAt": "2024-10-31T21:13:01Z",
+    "description": "Lightweight WASM Postgres with real-time, reactive bindings.",
+    "url": "https://github.com/evelynmitchell/pglite",
+    "parent_url": "https://github.com/electric-sql/pglite",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "openpom",
+    "createdAt": "2024-10-31T02:57:48Z",
+    "description": "Replication of the Principal Odor Map paper by Lee et al (2022). The model is implemented such that it integrates with DeepChem",
+    "url": "https://github.com/evelynmitchell/openpom",
+    "parent_url": "https://github.com/BioMachineLearning/openpom",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "bootstrapFlywheel",
+    "createdAt": "2024-10-27T16:55:27Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/bootstrapFlywheel",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "PostMark",
+    "createdAt": "2024-10-26T15:43:39Z",
+    "description": "Official repository for \"PostMark: A Robust Blackbox Watermark for Large Language Models\"",
+    "url": "https://github.com/evelynmitchell/PostMark",
+    "parent_url": "https://github.com/lilakk/PostMark",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "bee-agent-framework",
+    "createdAt": "2024-10-26T02:32:19Z",
+    "description": "The framework for building scalable agentic applications.",
+    "url": "https://github.com/evelynmitchell/bee-agent-framework",
+    "parent_url": "https://github.com/i-am-bee/bee-agent-framework",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Daft",
+    "createdAt": "2024-10-26T01:49:56Z",
+    "description": "Distributed data engine for Python/SQL designed for the cloud, powered by Rust",
+    "url": "https://github.com/evelynmitchell/Daft",
+    "parent_url": "https://github.com/Eventual-Inc/Daft",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "hoppscotch",
+    "createdAt": "2024-10-25T17:29:06Z",
+    "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+    "url": "https://github.com/evelynmitchell/hoppscotch",
+    "parent_url": "https://github.com/hoppscotch/hoppscotch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "usearch12",
+    "createdAt": "2024-10-24T00:22:06Z",
+    "description": "Open-source usearch",
+    "url": "https://github.com/evelynmitchell/usearch12",
+    "parent_url": "https://github.com/rcedgar/usearch12",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AgentTorch",
+    "createdAt": "2024-10-22T22:06:19Z",
+    "description": "large population models",
+    "url": "https://github.com/evelynmitchell/AgentTorch",
+    "parent_url": "https://github.com/AgentTorch/AgentTorch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "plansearch",
+    "createdAt": "2024-10-22T21:56:24Z",
+    "description": "e",
+    "url": "https://github.com/evelynmitchell/plansearch",
+    "parent_url": "https://github.com/scaleapi/plansearch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "PufferLib",
+    "createdAt": "2024-10-22T15:15:18Z",
+    "description": "Simplifying reinforcement learning for complex game environments",
+    "url": "https://github.com/evelynmitchell/PufferLib",
+    "parent_url": "https://github.com/PufferAI/PufferLib",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "motleycrew",
+    "createdAt": "2024-10-21T22:53:16Z",
+    "description": "Flexible and powerful multi-agent AI framework",
+    "url": "https://github.com/evelynmitchell/motleycrew",
+    "parent_url": "https://github.com/ShoggothAI/motleycrew",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "BitNet",
+    "createdAt": "2024-10-20T01:58:09Z",
+    "description": "Official inference framework for 1-bit LLMs",
+    "url": "https://github.com/evelynmitchell/BitNet",
+    "parent_url": "https://github.com/microsoft/BitNet",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "swarm",
+    "createdAt": "2024-10-12T02:21:33Z",
+    "description": "Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.",
+    "url": "https://github.com/evelynmitchell/swarm",
+    "parent_url": "https://github.com/openai/swarm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Aria",
+    "createdAt": "2024-10-11T02:14:36Z",
+    "description": "Codebase for Aria - an Open Multimodal Native MoE",
+    "url": "https://github.com/evelynmitchell/Aria",
+    "parent_url": "https://github.com/rhymes-ai/Aria",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "KAN4TSF",
+    "createdAt": "2024-10-09T16:39:24Z",
+    "description": "Kolmogorov Arnold Network (KAN) for Time Series Forecasting (TSF)",
+    "url": "https://github.com/evelynmitchell/KAN4TSF",
+    "parent_url": "https://github.com/2448845600/EasyTSF",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "GOT-OCR2.0",
+    "createdAt": "2024-10-07T19:48:44Z",
+    "description": "Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model",
+    "url": "https://github.com/evelynmitchell/GOT-OCR2.0",
+    "parent_url": "https://github.com/Ucas-HaoranWei/GOT-OCR2.0",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MaskLLM",
+    "createdAt": "2024-10-07T01:52:56Z",
+    "description": "[NeurIPS 24 Spotlight] MaskLLM: Learnable Semi-structured Sparsity for Large Language Models",
+    "url": "https://github.com/evelynmitchell/MaskLLM",
+    "parent_url": "https://github.com/NVlabs/MaskLLM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "entropix",
+    "createdAt": "2024-10-05T22:55:40Z",
+    "description": "Entropy Based Sampling and Parallel CoT Decoding ",
+    "url": "https://github.com/evelynmitchell/entropix",
+    "parent_url": "https://github.com/xjdr-alt/entropix",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ProteinColabDesign",
+    "createdAt": "2024-10-03T16:46:06Z",
+    "description": "Making Protein Design accessible to all via Google Colab! ",
+    "url": "https://github.com/evelynmitchell/ProteinColabDesign",
+    "parent_url": "https://github.com/sokrypton/ColabDesign",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SO-ARM100",
+    "createdAt": "2024-10-03T16:22:35Z",
+    "description": "Standard Open Arm 100",
+    "url": "https://github.com/evelynmitchell/SO-ARM100",
+    "parent_url": "https://github.com/TheRobotStudio/SO-ARM100",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SeqVerify",
+    "createdAt": "2024-10-03T16:05:42Z",
+    "description": "Analyzes whole genome sequencing data for gene-editing verification",
+    "url": "https://github.com/evelynmitchell/SeqVerify",
+    "parent_url": "https://github.com/mpiersonsmela/SeqVerify",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "screenpipe",
+    "createdAt": "2024-09-30T15:23:55Z",
+    "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+    "url": "https://github.com/evelynmitchell/screenpipe",
+    "parent_url": "https://github.com/mediar-ai/screenpipe",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "PIXIU",
+    "createdAt": "2024-09-21T02:56:48Z",
+    "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+    "url": "https://github.com/evelynmitchell/PIXIU",
+    "parent_url": "https://github.com/The-FinAI/PIXIU",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SillyTavern",
+    "createdAt": "2024-09-15T20:31:23Z",
+    "description": "LLM Frontend for Power Users.",
+    "url": "https://github.com/evelynmitchell/SillyTavern",
+    "parent_url": "https://github.com/SillyTavern/SillyTavern",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "alphaflow",
+    "createdAt": "2024-09-13T17:18:18Z",
+    "description": "AlphaFold Meets Flow Matching for Generating Protein Ensembles",
+    "url": "https://github.com/evelynmitchell/alphaflow",
+    "parent_url": "https://github.com/bjing2016/alphaflow",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "optillm",
+    "createdAt": "2024-09-13T02:05:14Z",
+    "description": "Optimizing inference proxy for LLMs",
+    "url": "https://github.com/evelynmitchell/optillm",
+    "parent_url": "https://github.com/codelion/optillm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "llamafile",
+    "createdAt": "2024-09-11T20:27:47Z",
+    "description": "Distribute and run LLMs with a single file.",
+    "url": "https://github.com/evelynmitchell/llamafile",
+    "parent_url": "https://github.com/Mozilla-Ocho/llamafile",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "chai-lab",
+    "createdAt": "2024-09-09T23:06:26Z",
+    "description": "Chai-1, SOTA model for biomolecular structure prediction",
+    "url": "https://github.com/evelynmitchell/chai-lab",
+    "parent_url": "https://github.com/chaidiscovery/chai-lab",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "OpenHands",
+    "createdAt": "2024-09-04T22:56:22Z",
+    "description": "\ud83d\ude4c OpenHands: Code Less, Make More",
+    "url": "https://github.com/evelynmitchell/OpenHands",
+    "parent_url": "https://github.com/All-Hands-AI/OpenHands",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AlphaFold3",
+    "createdAt": "2024-09-04T14:30:58Z",
+    "description": "Open source implementation of AlphaFold3",
+    "url": "https://github.com/evelynmitchell/AlphaFold3",
+    "parent_url": "https://github.com/Ligo-Biosciences/AlphaFold3",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "anthropic-quickstarts",
+    "createdAt": "2024-09-04T01:51:13Z",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API",
+    "url": "https://github.com/evelynmitchell/anthropic-quickstarts",
+    "parent_url": "https://github.com/anthropics/anthropic-quickstarts",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "openaievals",
+    "createdAt": "2024-09-01T02:32:55Z",
+    "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+    "url": "https://github.com/evelynmitchell/openaievals",
+    "parent_url": "https://github.com/openai/evals",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Minitron",
+    "createdAt": "2024-08-26T21:37:36Z",
+    "description": "A family of compressed models obtained via pruning and knowledge distillation",
+    "url": "https://github.com/evelynmitchell/Minitron",
+    "parent_url": "https://github.com/NVlabs/Minitron",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "dataset-viber",
+    "createdAt": "2024-08-20T22:28:23Z",
+    "description": "Dataset Viber is your chill repo for data collection, annotation and vibe checks.",
+    "url": "https://github.com/evelynmitchell/dataset-viber",
+    "parent_url": "https://github.com/davidberenstein1957/dataset-viber",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ADAS",
+    "createdAt": "2024-08-19T16:44:34Z",
+    "description": "Automated Design of Agentic Systems",
+    "url": "https://github.com/evelynmitchell/ADAS",
+    "parent_url": "https://github.com/ShengranHu/ADAS",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "distilabel",
+    "createdAt": "2024-08-19T15:05:00Z",
+    "description": "Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.",
+    "url": "https://github.com/evelynmitchell/distilabel",
+    "parent_url": "https://github.com/argilla-io/distilabel",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ProxyCLIP",
+    "createdAt": "2024-08-19T15:03:15Z",
+    "description": "[ECCV2024] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation",
+    "url": "https://github.com/evelynmitchell/ProxyCLIP",
+    "parent_url": "https://github.com/mc-lan/ProxyCLIP",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "OSWorld",
+    "createdAt": "2024-08-19T00:46:09Z",
+    "description": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+    "url": "https://github.com/evelynmitchell/OSWorld",
+    "parent_url": "https://github.com/xlang-ai/OSWorld",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ScribeWizard",
+    "createdAt": "2024-08-17T16:13:57Z",
+    "description": "ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3",
+    "url": "https://github.com/evelynmitchell/ScribeWizard",
+    "parent_url": "https://github.com/Bklieger/ScribeWizard",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ai-toolkit",
+    "createdAt": "2024-08-16T21:31:38Z",
+    "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+    "url": "https://github.com/evelynmitchell/ai-toolkit",
+    "parent_url": "https://github.com/ostris/ai-toolkit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "duckdb",
+    "createdAt": "2024-08-16T14:53:47Z",
+    "description": "DuckDB is an analytical in-process SQL database management system",
+    "url": "https://github.com/evelynmitchell/duckdb",
+    "parent_url": "https://github.com/duckdb/duckdb",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Graph-CoT",
+    "createdAt": "2024-08-15T14:26:47Z",
+    "description": "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024)",
+    "url": "https://github.com/evelynmitchell/Graph-CoT",
+    "parent_url": "https://github.com/PeterGriffinJin/Graph-CoT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "OpenResearcher",
+    "createdAt": "2024-08-15T13:48:35Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/OpenResearcher",
+    "parent_url": "https://github.com/GAIR-NLP/OpenResearcher",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "LongWriter",
+    "createdAt": "2024-08-15T13:44:19Z",
+    "description": "LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs",
+    "url": "https://github.com/evelynmitchell/LongWriter",
+    "parent_url": "https://github.com/THUDM/LongWriter",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "multi-agent-concierge",
+    "createdAt": "2024-08-15T13:43:56Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/multi-agent-concierge",
+    "parent_url": "https://github.com/run-llama/multi-agent-concierge",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Zamba2",
+    "createdAt": "2024-08-14T21:07:23Z",
+    "description": "PyTorch implementation of models from the Zamba2 series.",
+    "url": "https://github.com/evelynmitchell/Zamba2",
+    "parent_url": "https://github.com/Zyphra/Zamba2",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "knitscape",
+    "createdAt": "2024-08-12T14:21:34Z",
+    "description": "Knitscape is a chart-based design and simulation tool for knitting stitch patterns.",
+    "url": "https://github.com/evelynmitchell/knitscape",
+    "parent_url": "https://github.com/knitscape/knitscape",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "tree_attention",
+    "createdAt": "2024-08-12T00:30:39Z",
+    "description": "Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters",
+    "url": "https://github.com/evelynmitchell/tree_attention",
+    "parent_url": "https://github.com/Zyphra/tree_attention",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "data-portraits",
+    "createdAt": "2024-08-11T18:41:31Z",
+    "description": "Documenting large text datasets \ud83d\uddbc\ufe0f \ud83d\udcda",
+    "url": "https://github.com/evelynmitchell/data-portraits",
+    "parent_url": "https://github.com/ruyimarone/data-portraits",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "StructEval",
+    "createdAt": "2024-08-11T00:28:16Z",
+    "description": "This is the office repository for ACL 2024 paper \"StructEval: Deepen and Broaden Large Language Assessment via Structured Evaluation\"",
+    "url": "https://github.com/evelynmitchell/StructEval",
+    "parent_url": "https://github.com/c-box/StructEval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "llmsec",
+    "createdAt": "2024-08-10T22:41:51Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/llmsec",
+    "parent_url": "https://github.com/gregretkowski/llmsec",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "savvi",
+    "createdAt": "2024-08-10T22:32:10Z",
+    "description": "savvi is a package for Safe Anytime Valid Inference",
+    "url": "https://github.com/evelynmitchell/savvi",
+    "parent_url": "https://github.com/assuncaolfi/savvi",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "DistillKit",
+    "createdAt": "2024-08-10T21:23:40Z",
+    "description": "An Open Source Toolkit For LLM Distillation",
+    "url": "https://github.com/evelynmitchell/DistillKit",
+    "parent_url": "https://github.com/arcee-ai/DistillKit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ZeroEval",
+    "createdAt": "2024-08-10T21:20:32Z",
+    "description": "A simple unified framework for evaluating LLMs",
+    "url": "https://github.com/evelynmitchell/ZeroEval",
+    "parent_url": "https://github.com/WildEval/ZeroEval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "CARBonAra",
+    "createdAt": "2024-08-07T18:29:58Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/CARBonAra",
+    "parent_url": "https://github.com/LBM-EPFL/CARBonAra",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "mosGraphFlow",
+    "createdAt": "2024-08-07T05:42:29Z",
+    "description": "Multi-Scale Multi-Hop Flow for Interpreting Mechanism of Signaling",
+    "url": "https://github.com/evelynmitchell/mosGraphFlow",
+    "parent_url": "https://github.com/FuhaiLiAiLab/mosGraphFlow",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "groq-api-cookbook",
+    "createdAt": "2024-08-03T20:42:15Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/groq-api-cookbook",
+    "parent_url": "https://github.com/groq/groq-api-cookbook",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fasthtml-example",
+    "createdAt": "2024-08-02T01:28:00Z",
+    "description": "Example fasthtml applications demonstrating a range of web programming techniques",
+    "url": "https://github.com/evelynmitchell/fasthtml-example",
+    "parent_url": "https://github.com/AnswerDotAI/fasthtml-example",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "agent-zero",
+    "createdAt": "2024-08-02T01:00:11Z",
+    "description": "Agent Zero AI framework",
+    "url": "https://github.com/evelynmitchell/agent-zero",
+    "parent_url": "https://github.com/frdel/agent-zero",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "firstnodejs",
+    "createdAt": "2024-08-01T23:32:15Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/firstnodejs",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "groq-python",
+    "createdAt": "2024-08-01T03:07:08Z",
+    "description": "The official Python Library for the Groq API",
+    "url": "https://github.com/evelynmitchell/groq-python",
+    "parent_url": "https://github.com/groq/groq-python",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "dataline",
+    "createdAt": "2024-07-31T23:01:52Z",
+    "description": "Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...",
+    "url": "https://github.com/evelynmitchell/dataline",
+    "parent_url": "https://github.com/RamiAwar/dataline",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AITinkerersDenver2024",
+    "createdAt": "2024-07-30T21:16:32Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/AITinkerersDenver2024",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "damo",
+    "createdAt": "2024-07-29T23:36:01Z",
+    "description": "DAMON user-space tool",
+    "url": "https://github.com/evelynmitchell/damo",
+    "parent_url": "https://github.com/awslabs/damo",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Open-Reasoning-Tasks",
+    "createdAt": "2024-07-26T17:57:02Z",
+    "description": "A comprehensive repository of reasoning tasks for LLMs (and beyond)",
+    "url": "https://github.com/evelynmitchell/Open-Reasoning-Tasks",
+    "parent_url": "https://github.com/NousResearch/Open-Reasoning-Tasks",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "wat",
+    "createdAt": "2024-07-26T15:39:55Z",
+    "description": "Deep inspection of Python objects",
+    "url": "https://github.com/evelynmitchell/wat",
+    "parent_url": "https://github.com/igrek51/wat",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "mandala",
+    "createdAt": "2024-07-24T21:33:52Z",
+    "description": "A simple & elegant experiment tracking framework that integrates persistence logic & best practices directly into Python",
+    "url": "https://github.com/evelynmitchell/mandala",
+    "parent_url": "https://github.com/amakelov/mandala",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "huggingface-llama-recipes",
+    "createdAt": "2024-07-24T20:39:19Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/huggingface-llama-recipes",
+    "parent_url": "https://github.com/huggingface/huggingface-llama-recipes",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "bayesian-flow-networks",
+    "createdAt": "2024-07-22T19:07:18Z",
+    "description": "This is the official code release for Bayesian Flow Networks.",
+    "url": "https://github.com/evelynmitchell/bayesian-flow-networks",
+    "parent_url": "https://github.com/nnaisense/bayesian-flow-networks",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "k8smanager",
+    "createdAt": "2024-07-22T16:11:32Z",
+    "description": "Autonomic computing 2407.14402",
+    "url": "https://github.com/evelynmitchell/k8smanager",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "OgbujiPT",
+    "createdAt": "2024-07-22T02:05:25Z",
+    "description": "Client-side toolkit for using large language models, including where self-hosted",
+    "url": "https://github.com/evelynmitchell/OgbujiPT",
+    "parent_url": "https://github.com/OoriData/OgbujiPT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "PlanRAG",
+    "createdAt": "2024-07-20T19:28:36Z",
+    "description": "Repository for \u201cPlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers\u201d, NAACL24",
+    "url": "https://github.com/evelynmitchell/PlanRAG",
+    "parent_url": "https://github.com/myeon9h/PlanRAG",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "LLaMA-Factory",
+    "createdAt": "2024-07-19T22:03:02Z",
+    "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+    "url": "https://github.com/evelynmitchell/LLaMA-Factory",
+    "parent_url": "https://github.com/hiyouga/LLaMA-Factory",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "storm",
+    "createdAt": "2024-07-19T22:02:38Z",
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "url": "https://github.com/evelynmitchell/storm",
+    "parent_url": "https://github.com/stanford-oval/storm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Streamlit_practice_oso",
+    "createdAt": "2024-07-18T22:48:15Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/Streamlit_practice_oso",
+    "parent_url": "https://github.com/OSOSerious/Streamlit_practice",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "GoldFinch-paper",
+    "createdAt": "2024-07-18T14:10:22Z",
+    "description": "GoldFinch and other hybrid transformer components",
+    "url": "https://github.com/evelynmitchell/GoldFinch-paper",
+    "parent_url": "https://github.com/recursal/GoldFinch-paper",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "streamlit",
+    "createdAt": "2024-07-17T18:45:39Z",
+    "description": "Streamlit \u2014 A faster way to build and share data apps.",
+    "url": "https://github.com/evelynmitchell/streamlit",
+    "parent_url": "https://github.com/streamlit/streamlit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "augmentoolkit",
+    "createdAt": "2024-07-17T16:47:38Z",
+    "description": "Convert Compute And Books Into Instruct-Tuning Datasets (or classifiers)!",
+    "url": "https://github.com/evelynmitchell/augmentoolkit",
+    "parent_url": "https://github.com/e-p-armstrong/augmentoolkit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "polylit",
+    "createdAt": "2024-07-16T21:56:35Z",
+    "description": "Streamlit  with polygon data",
+    "url": "https://github.com/evelynmitchell/polylit",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "M6-methods",
+    "createdAt": "2024-07-15T17:59:47Z",
+    "description": "Data, Benchmarks, and methods submitted to the M6 forecasting competition",
+    "url": "https://github.com/evelynmitchell/M6-methods",
+    "parent_url": "https://github.com/Mcompetitions/M6-methods",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SOPSelfOptimizingProcedures",
+    "createdAt": "2024-07-15T01:56:15Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/SOPSelfOptimizingProcedures",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "tiptap",
+    "createdAt": "2024-07-12T23:06:28Z",
+    "description": "The headless rich text editor framework for web artisans.",
+    "url": "https://github.com/evelynmitchell/tiptap",
+    "parent_url": "https://github.com/ueberdosis/tiptap",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "learn-generating-functions",
+    "createdAt": "2024-07-12T22:22:38Z",
+    "description": "I blog about learning generating functions.",
+    "url": "https://github.com/evelynmitchell/learn-generating-functions",
+    "parent_url": "https://github.com/jsh/learn-generating-functions",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "jetson-containers",
+    "createdAt": "2024-07-12T01:43:54Z",
+    "description": "Machine Learning Containers for NVIDIA Jetson and JetPack-L4T",
+    "url": "https://github.com/evelynmitchell/jetson-containers",
+    "parent_url": "https://github.com/dusty-nv/jetson-containers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "twenty",
+    "createdAt": "2024-07-10T23:50:45Z",
+    "description": "Building a modern alternative to Salesforce, powered by the community.",
+    "url": "https://github.com/evelynmitchell/twenty",
+    "parent_url": "https://github.com/twentyhq/twenty",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ttt-lm-pytorch",
+    "createdAt": "2024-07-08T20:48:49Z",
+    "description": "Official PyTorch implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+    "url": "https://github.com/evelynmitchell/ttt-lm-pytorch",
+    "parent_url": "https://github.com/test-time-training/ttt-lm-pytorch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Depth-Anything-V2",
+    "createdAt": "2024-07-08T20:48:27Z",
+    "description": "Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation",
+    "url": "https://github.com/evelynmitchell/Depth-Anything-V2",
+    "parent_url": "https://github.com/DepthAnything/Depth-Anything-V2",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ttt-lm-jax",
+    "createdAt": "2024-07-08T20:34:52Z",
+    "description": "Official JAX implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+    "url": "https://github.com/evelynmitchell/ttt-lm-jax",
+    "parent_url": "https://github.com/test-time-training/ttt-lm-jax",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "qsharp",
+    "createdAt": "2024-07-06T00:49:31Z",
+    "description": "Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas",
+    "url": "https://github.com/evelynmitchell/qsharp",
+    "parent_url": "https://github.com/microsoft/qsharp",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TokenPacker",
+    "createdAt": "2024-07-04T18:39:36Z",
+    "description": "The code for \"TokenPacker: Efficient Visual Projector for Multimodal LLM\".",
+    "url": "https://github.com/evelynmitchell/TokenPacker",
+    "parent_url": "https://github.com/CircleRadon/TokenPacker",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "guardrails",
+    "createdAt": "2024-07-04T18:04:10Z",
+    "description": "Adding guardrails to large language models.",
+    "url": "https://github.com/evelynmitchell/guardrails",
+    "parent_url": "https://github.com/guardrails-ai/guardrails",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "backstage",
     "createdAt": "2024-07-03T22:02:45Z",
     "description": "Backstage is an open framework for building developer portals",
-    "labels": [
-      {
-        "color": "d73a4a",
-        "description": "Something isn't working",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vlg",
-        "name": "bug"
-      },
-      {
-        "color": "0075ca",
-        "description": "Improvements or additions to documentation",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vmg",
-        "name": "documentation"
-      },
-      {
-        "color": "cfd3d7",
-        "description": "This issue or pull request already exists",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vnA",
-        "name": "duplicate"
-      },
-      {
-        "color": "a2eeef",
-        "description": "New feature or request",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vnw",
-        "name": "enhancement"
-      },
-      {
-        "color": "7057ff",
-        "description": "Good for newcomers",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vow",
-        "name": "good first issue"
-      },
-      {
-        "color": "008672",
-        "description": "Extra attention is needed",
-        "id": "LA_kwDOMRsgfc8AAAABqs7voQ",
-        "name": "help wanted"
-      },
-      {
-        "color": "e4e669",
-        "description": "This doesn't seem right",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vpQ",
-        "name": "invalid"
-      },
-      {
-        "color": "d876e3",
-        "description": "Further information is requested",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vpw",
-        "name": "question"
-      },
-      {
-        "color": "ffffff",
-        "description": "This will not be worked on",
-        "id": "LA_kwDOMRsgfc8AAAABqs7vqQ",
-        "name": "wontfix"
-      }
-    ],
-    "name": "backstage",
-    "repositoryTopics": null,
     "url": "https://github.com/evelynmitchell/backstage",
-    "parent_url": "https://github.com/backstage/backstage"
+    "parent_url": "https://github.com/backstage/backstage",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TeleVision",
+    "createdAt": "2024-07-03T14:39:28Z",
+    "description": "Open-TeleVision: Teleoperation with Immersive Active Visual Feedback",
+    "url": "https://github.com/evelynmitchell/TeleVision",
+    "parent_url": "https://github.com/OpenTeleVision/TeleVision",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "agentscope",
+    "createdAt": "2024-07-03T14:06:29Z",
+    "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+    "url": "https://github.com/evelynmitchell/agentscope",
+    "parent_url": "https://github.com/modelscope/agentscope",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "persona-hub",
+    "createdAt": "2024-07-01T13:31:41Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/persona-hub",
+    "parent_url": "https://github.com/tencent-ailab/persona-hub",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "LeanCopilot",
+    "createdAt": "2024-06-30T01:50:02Z",
+    "description": "LLMs as Copilots for Theorem Proving in Lean",
+    "url": "https://github.com/evelynmitchell/LeanCopilot",
+    "parent_url": "https://github.com/lean-dojo/LeanCopilot",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "namviek",
+    "createdAt": "2024-06-29T23:50:56Z",
+    "description": "The open-source project manager for tiny teams",
+    "url": "https://github.com/evelynmitchell/namviek",
+    "parent_url": "https://github.com/hudy9x/namviek",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AgentGym",
+    "createdAt": "2024-06-29T23:43:08Z",
+    "description": "Code and implementations for the paper \"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments\" by Zhiheng Xi et al.",
+    "url": "https://github.com/evelynmitchell/AgentGym",
+    "parent_url": "https://github.com/WooooDyy/AgentGym",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "shap",
+    "createdAt": "2024-06-29T23:36:49Z",
+    "description": "A game theoretic approach to explain the output of any machine learning model.",
+    "url": "https://github.com/evelynmitchell/shap",
+    "parent_url": "https://github.com/shap/shap",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "mirage",
+    "createdAt": "2024-06-27T15:54:32Z",
+    "description": "A multi-level tensor algebra superoptimizer",
+    "url": "https://github.com/evelynmitchell/mirage",
+    "parent_url": "https://github.com/mirage-project/mirage",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ml-4m",
+    "createdAt": "2024-06-26T14:10:18Z",
+    "description": "4M: Massively Multimodal Masked Modeling",
+    "url": "https://github.com/evelynmitchell/ml-4m",
+    "parent_url": "https://github.com/apple/ml-4m",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "pgai",
+    "createdAt": "2024-06-25T21:27:58Z",
+    "description": "Bring AI models closer to your PostgreSQL data",
+    "url": "https://github.com/evelynmitchell/pgai",
+    "parent_url": "https://github.com/timescale/pgai",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MARS5-TTS",
+    "createdAt": "2024-06-24T20:59:35Z",
+    "description": "MARS5 speech model (TTS) from CAMB.AI",
+    "url": "https://github.com/evelynmitchell/MARS5-TTS",
+    "parent_url": "https://github.com/Camb-ai/MARS5-TTS",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MixEval",
+    "createdAt": "2024-06-22T21:09:13Z",
+    "description": "The official evaluation suite and dynamic data release for MixEval.",
+    "url": "https://github.com/evelynmitchell/MixEval",
+    "parent_url": "https://github.com/Psycoy/MixEval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "grokfast",
+    "createdAt": "2024-06-22T13:06:11Z",
+    "description": "Official repository for the paper \"Grokfast: Accelerated Grokking by Amplifying Slow Gradients\"",
+    "url": "https://github.com/evelynmitchell/grokfast",
+    "parent_url": "https://github.com/ironjr/grokfast",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "nablaDFT",
+    "createdAt": "2024-06-21T20:42:14Z",
+    "description": "nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset",
+    "url": "https://github.com/evelynmitchell/nablaDFT",
+    "parent_url": "https://github.com/AIRI-Institute/nablaDFT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "inspect_ai",
+    "createdAt": "2024-06-19T20:28:52Z",
+    "description": "Inspect: A framework for large language model evaluations",
+    "url": "https://github.com/evelynmitchell/inspect_ai",
+    "parent_url": "https://github.com/UKGovernmentBEIS/inspect_ai",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "goldfish-loss",
+    "createdAt": "2024-06-19T17:06:24Z",
+    "description": "Official implementation of Goldfish Loss: Mitigating Memorization in Generative LLMs",
+    "url": "https://github.com/evelynmitchell/goldfish-loss",
+    "parent_url": "https://github.com/ahans30/goldfish-loss",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "audioseal",
+    "createdAt": "2024-06-18T18:21:36Z",
+    "description": "Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector",
+    "url": "https://github.com/evelynmitchell/audioseal",
+    "parent_url": "https://github.com/facebookresearch/audioseal",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "gs-quant",
+    "createdAt": "2024-06-18T00:59:16Z",
+    "description": "Python toolkit for quantitative finance",
+    "url": "https://github.com/evelynmitchell/gs-quant",
+    "parent_url": "https://github.com/goldmansachs/gs-quant",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "burr",
+    "createdAt": "2024-06-17T22:09:51Z",
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, persist, and execute on your own infrastructure.",
+    "url": "https://github.com/evelynmitchell/burr",
+    "parent_url": "https://github.com/DAGWorks-Inc/burr",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fabric",
+    "createdAt": "2024-06-17T21:55:04Z",
+    "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "url": "https://github.com/evelynmitchell/fabric",
+    "parent_url": "https://github.com/danielmiessler/fabric",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MM-NIAH",
+    "createdAt": "2024-06-17T13:38:04Z",
+    "description": "This is the official implementation of the paper \"Needle In A Multimodal Haystack\"",
+    "url": "https://github.com/evelynmitchell/MM-NIAH",
+    "parent_url": "https://github.com/OpenGVLab/MM-NIAH",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "schemathesis",
+    "createdAt": "2024-06-16T23:40:42Z",
+    "description": "Supercharge your API testing, catch bugs, and ensure compliance",
+    "url": "https://github.com/evelynmitchell/schemathesis",
+    "parent_url": "https://github.com/schemathesis/schemathesis",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "LiveBench",
+    "createdAt": "2024-06-14T01:23:24Z",
+    "description": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
+    "url": "https://github.com/evelynmitchell/LiveBench",
+    "parent_url": "https://github.com/LiveBench/LiveBench",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "swarms-evals",
+    "createdAt": "2024-06-13T23:27:04Z",
+    "description": "Implementation of all the evals of the swarm evals for the swarm paper.",
+    "url": "https://github.com/evelynmitchell/swarms-evals",
+    "parent_url": "https://github.com/The-Swarm-Corporation/swarms-evals",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "DiscoPOP",
+    "createdAt": "2024-06-13T22:07:14Z",
+    "description": "Code for Discovering Preference Optimization Algorithms with and for Large Language Models",
+    "url": "https://github.com/evelynmitchell/DiscoPOP",
+    "parent_url": "https://github.com/luchris429/DiscoPOP",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "textgrad",
+    "createdAt": "2024-06-12T13:41:34Z",
+    "description": "Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients.",
+    "url": "https://github.com/evelynmitchell/textgrad",
+    "parent_url": "https://github.com/zou-group/textgrad",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ARC-AGI",
+    "createdAt": "2024-06-12T03:39:58Z",
+    "description": "The Abstraction and Reasoning Corpus",
+    "url": "https://github.com/evelynmitchell/ARC-AGI",
+    "parent_url": "https://github.com/fchollet/ARC-AGI",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "or-tools",
+    "createdAt": "2024-06-06T16:46:51Z",
+    "description": "Google's Operations Research tools:",
+    "url": "https://github.com/evelynmitchell/or-tools",
+    "parent_url": "https://github.com/google/or-tools",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "firecrawl",
+    "createdAt": "2024-05-25T02:40:53Z",
+    "description": "\ud83d\udd25 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
+    "url": "https://github.com/evelynmitchell/firecrawl",
+    "parent_url": "https://github.com/mendableai/firecrawl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "openfold",
+    "createdAt": "2024-05-13T01:54:51Z",
+    "description": "Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2",
+    "url": "https://github.com/evelynmitchell/openfold",
+    "parent_url": "https://github.com/aqlaboratory/openfold",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ThunderKittens",
+    "createdAt": "2024-05-13T00:06:57Z",
+    "description": "Tile primitives for speedy kernels",
+    "url": "https://github.com/evelynmitchell/ThunderKittens",
+    "parent_url": "https://github.com/HazyResearch/ThunderKittens",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "timesfm",
+    "createdAt": "2024-05-11T15:21:50Z",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "url": "https://github.com/evelynmitchell/timesfm",
+    "parent_url": "https://github.com/google-research/timesfm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ollama",
+    "createdAt": "2024-05-09T23:59:18Z",
+    "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+    "url": "https://github.com/evelynmitchell/ollama",
+    "parent_url": "https://github.com/ollama/ollama",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Sequoia",
+    "createdAt": "2024-05-05T15:50:05Z",
+    "description": "scalable and robust tree-based speculative decoding algorithm",
+    "url": "https://github.com/evelynmitchell/Sequoia",
+    "parent_url": "https://github.com/Infini-AI-Lab/Sequoia",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "kanrl",
+    "createdAt": "2024-05-04T15:09:10Z",
+    "description": "Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments",
+    "url": "https://github.com/evelynmitchell/kanrl",
+    "parent_url": "https://github.com/riiswa/kanrl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "shouldersOfGiants.rs",
+    "createdAt": "2024-04-08T22:39:32Z",
+    "description": "I have no idea what I'm doing , but llm.c in rust",
+    "url": "https://github.com/evelynmitchell/shouldersOfGiants.rs",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ragflow",
+    "createdAt": "2024-04-05T18:00:18Z",
+    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "url": "https://github.com/evelynmitchell/ragflow",
+    "parent_url": "https://github.com/infiniflow/ragflow",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "nvidia-container-toolkit",
+    "createdAt": "2024-04-01T19:43:19Z",
+    "description": "Build and run containers leveraging NVIDIA GPUs",
+    "url": "https://github.com/evelynmitchell/nvidia-container-toolkit",
+    "parent_url": "https://github.com/NVIDIA/nvidia-container-toolkit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "chronos-forecasting",
+    "createdAt": "2024-03-25T02:17:18Z",
+    "description": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+    "url": "https://github.com/evelynmitchell/chronos-forecasting",
+    "parent_url": "https://github.com/amazon-science/chronos-forecasting",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ib_async",
+    "createdAt": "2024-03-19T19:12:42Z",
+    "description": "Python sync/async framework for Interactive Brokers API (replaces ib_insync)",
+    "url": "https://github.com/evelynmitchell/ib_async",
+    "parent_url": "https://github.com/ib-api-reloaded/ib_async",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "aici",
+    "createdAt": "2024-03-11T20:00:35Z",
+    "description": "AICI: Prompts as (Wasm) Programs",
+    "url": "https://github.com/evelynmitchell/aici",
+    "parent_url": "https://github.com/microsoft/aici",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "evo",
+    "createdAt": "2024-02-27T18:21:26Z",
+    "description": "DNA foundation modeling from molecular to genome scale",
+    "url": "https://github.com/evelynmitchell/evo",
+    "parent_url": "https://github.com/evo-design/evo",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "prismatic-vlms",
+    "createdAt": "2024-02-13T21:25:09Z",
+    "description": "A flexible and efficient codebase for training visually-conditioned language models (VLMs)",
+    "url": "https://github.com/evelynmitchell/prismatic-vlms",
+    "parent_url": "https://github.com/TRI-ML/prismatic-vlms",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "tsmixer",
+    "createdAt": "2024-02-11T16:36:53Z",
+    "description": "Time Series Mixer forecasting multivariate time series",
+    "url": "https://github.com/evelynmitchell/tsmixer",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AQLM",
+    "createdAt": "2024-02-08T15:51:35Z",
+    "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf",
+    "url": "https://github.com/evelynmitchell/AQLM",
+    "parent_url": "https://github.com/Vahe1994/AQLM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TinyTimeMixers",
+    "createdAt": "2024-02-02T20:11:08Z",
+    "description": "Tiny Time Mixers - a time series model 2401.03955",
+    "url": "https://github.com/evelynmitchell/TinyTimeMixers",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MyWay",
+    "createdAt": "2024-01-19T19:02:52Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/MyWay",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "DimensionMixer",
+    "createdAt": "2024-01-18T23:18:22Z",
+    "description": "Dimension Mixer model ",
+    "url": "https://github.com/evelynmitchell/DimensionMixer",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "spacedrepetition",
+    "createdAt": "2024-01-15T18:39:42Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/spacedrepetition",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
   }
 ]
