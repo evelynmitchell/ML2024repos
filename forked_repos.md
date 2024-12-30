@@ -272,7 +272,27 @@
 | Sequoia | 2024-05-05 | scalable and robust tree-based speculative decoding algorithm | https://github.com/evelynmitchell/Sequoia | https://github.com/Infini-AI-Lab/Sequoia |
 | kanrl | 2024-05-04 | Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments | https://github.com/evelynmitchell/kanrl | https://github.com/riiswa/kanrl |
 | cuda-convnet | 2024-05-03 | Alex Krizhevsky's original code from Google Code | https://github.com/evelynmitchell/cuda-convnet | https://github.com/ulrichstern/cuda-convnet |
+| cuda-convnet | 2024-05-03 | Alex Krizhevsky's original code from Google Code | https://github.com/evelynmitchell/cuda-convnet | https://github.com/ulrichstern/cuda-convnet |
+| NeMo-Aligner | 2024-05-03 | Scalable toolkit for efficient model alignment | https://github.com/evelynmitchell/NeMo-Aligner | https://github.com/NVIDIA/NeMo-Aligner |
+| reka-vibe-eval | 2024-05-03 | Multimodal language model benchmark, featuring challenging examples | https://github.com/evelynmitchell/reka-vibe-eval | https://github.com/reka-ai/reka-vibe-eval |
+| outlines | 2024-05-02 | Structured Text Generation | https://github.com/evelynmitchell/outlines | https://github.com/dottxt-ai/outlines |
+| lxmert | 2024-05-02 | PyTorch code for EMNLP 2019 paper "LXMERT: Learning Cross-Modality Encoder Representations from Transformers". | https://github.com/evelynmitchell/lxmert | https://github.com/airsplay/lxmert |
+| torchtitan | 2024-05-01 | A native PyTorch Library for large model training | https://github.com/evelynmitchell/torchtitan | https://github.com/pytorch/torchtitan |
+| pykan | 2024-05-01 | Kolmogorov Arnold Networks | https://github.com/evelynmitchell/pykan | https://github.com/KindXiaoming/pykan |
+| Garment-Pattern-Generator | 2024-04-30 | Official implementation of Generating Datasets of 3D Garments with Sewing Patterns | https://github.com/evelynmitchell/Garment-Pattern-Generator | https://github.com/maria-korosteleva/Garment-Pattern-Generator |
+| loraplus | 2024-04-30 |  | https://github.com/evelynmitchell/loraplus | https://github.com/nikhil-ghosh-berkeley/loraplus |
+| cuda-checkpoint | 2024-04-29 | CUDA checkpoint and restore utility | https://github.com/evelynmitchell/cuda-checkpoint | https://github.com/NVIDIA/cuda-checkpoint |
+| openCypher | 2024-04-28 | Specification of the Cypher property graph query language | https://github.com/evelynmitchell/openCypher | https://github.com/opencypher/openCypher |
+| foyle | 2024-04-26 | AI For Software Operations | https://github.com/evelynmitchell/foyle | https://github.com/jlewi/foyle |
+| opentofu | 2024-04-26 | OpenTofu lets you declaratively manage your cloud infrastructure. | https://github.com/evelynmitchell/opentofu | https://github.com/opentofu/opentofu |
+| llm-transparency-tool | 2024-04-25 | LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models. *Check out demo at* https://huggingface.co/spaces/facebook/llm-transparency-tool-demo | https://github.com/evelynmitchell/llm-transparency-tool | https://github.com/facebookresearch/llm-transparency-tool |
+| insanely-fast-whisper | 2024-04-25 |  | https://github.com/evelynmitchell/insanely-fast-whisper | https://github.com/Vaibhavs10/insanely-fast-whisper |
+| jat | 2024-04-24 | Distributed online training of a general multi-task Deep RL Agent | https://github.com/evelynmitchell/jat | https://github.com/huggingface/jat |
+| corenet | 2024-04-24 | CoreNet: A library for training deep neural networks | https://github.com/evelynmitchell/corenet | https://github.com/apple/corenet |
 | GPT-Fathom | 2024-04-23 | [NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings. | https://github.com/evelynmitchell/GPT-Fathom | https://github.com/GPT-Fathom/GPT-Fathom |
+| GPT-Fathom | 2024-04-23 | [NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings. | https://github.com/evelynmitchell/GPT-Fathom | https://github.com/GPT-Fathom/GPT-Fathom |
+| Groma | 2024-04-22 | Official Implementation of "Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models" | https://github.com/evelynmitchell/Groma | https://github.com/FoundationVision/Groma |
+| modelbench | 2024-04-21 | Run safety benchmarks against AI models and view detailed reports showing how well they performed. | https://github.com/evelynmitchell/modelbench | https://github.com/mlcommons/modelbench |
 | codellama | 2024-04-21 | Inference code for CodeLlama models | https://github.com/evelynmitchell/codellama | https://github.com/meta-llama/codellama |
 | llamafile-convert_gguf_UI | 2024-04-19 | This GUI aims to simplify the process of converting GGUF files to llamafile format by providing an intuitive and convenient way for users to interact with the underlying conversion script. | https://github.com/evelynmitchell/llamafile-convert_gguf_UI | https://github.com/DjagbleyEmmanuel/llamafile-convert_gguf_UI |
 | recurrentgemma | 2024-04-13 | Open weights language model from Google DeepMind, based on Griffin. | https://github.com/evelynmitchell/recurrentgemma | https://github.com/google-deepmind/recurrentgemma |

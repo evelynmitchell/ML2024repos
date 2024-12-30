@@ -2430,11 +2430,191 @@
     "repositoryTopics": null
   },
   {
+    "name": "cuda-convnet",
+    "createdAt": "2024-05-03T23:41:46Z",
+    "description": "Alex Krizhevsky's original code from Google Code",
+    "url": "https://github.com/evelynmitchell/cuda-convnet",
+    "parent_url": "https://github.com/ulrichstern/cuda-convnet",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "NeMo-Aligner",
+    "createdAt": "2024-05-03T20:07:21Z",
+    "description": "Scalable toolkit for efficient model alignment",
+    "url": "https://github.com/evelynmitchell/NeMo-Aligner",
+    "parent_url": "https://github.com/NVIDIA/NeMo-Aligner",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "reka-vibe-eval",
+    "createdAt": "2024-05-03T02:12:50Z",
+    "description": "Multimodal language model benchmark, featuring challenging examples",
+    "url": "https://github.com/evelynmitchell/reka-vibe-eval",
+    "parent_url": "https://github.com/reka-ai/reka-vibe-eval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "outlines",
+    "createdAt": "2024-05-02T19:20:31Z",
+    "description": "Structured Text Generation",
+    "url": "https://github.com/evelynmitchell/outlines",
+    "parent_url": "https://github.com/dottxt-ai/outlines",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "lxmert",
+    "createdAt": "2024-05-02T15:03:49Z",
+    "description": "PyTorch code for EMNLP 2019 paper \"LXMERT: Learning Cross-Modality Encoder Representations from Transformers\".",
+    "url": "https://github.com/evelynmitchell/lxmert",
+    "parent_url": "https://github.com/airsplay/lxmert",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "torchtitan",
+    "createdAt": "2024-05-01T15:52:17Z",
+    "description": "A native PyTorch Library for large model training",
+    "url": "https://github.com/evelynmitchell/torchtitan",
+    "parent_url": "https://github.com/pytorch/torchtitan",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "pykan",
+    "createdAt": "2024-05-01T14:04:00Z",
+    "description": "Kolmogorov Arnold Networks",
+    "url": "https://github.com/evelynmitchell/pykan",
+    "parent_url": "https://github.com/KindXiaoming/pykan",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Garment-Pattern-Generator",
+    "createdAt": "2024-04-30T15:49:38Z",
+    "description": "Official implementation of Generating Datasets of 3D Garments with Sewing Patterns",
+    "url": "https://github.com/evelynmitchell/Garment-Pattern-Generator",
+    "parent_url": "https://github.com/maria-korosteleva/Garment-Pattern-Generator",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "loraplus",
+    "createdAt": "2024-04-30T00:30:28Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/loraplus",
+    "parent_url": "https://github.com/nikhil-ghosh-berkeley/loraplus",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "cuda-checkpoint",
+    "createdAt": "2024-04-29T23:40:47Z",
+    "description": "CUDA checkpoint and restore utility",
+    "url": "https://github.com/evelynmitchell/cuda-checkpoint",
+    "parent_url": "https://github.com/NVIDIA/cuda-checkpoint",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "openCypher",
+    "createdAt": "2024-04-28T13:45:33Z",
+    "description": "Specification of the Cypher property graph query language",
+    "url": "https://github.com/evelynmitchell/openCypher",
+    "parent_url": "https://github.com/opencypher/openCypher",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "foyle",
+    "createdAt": "2024-04-26T17:23:15Z",
+    "description": "AI For Software Operations",
+    "url": "https://github.com/evelynmitchell/foyle",
+    "parent_url": "https://github.com/jlewi/foyle",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "opentofu",
+    "createdAt": "2024-04-26T14:27:03Z",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+    "url": "https://github.com/evelynmitchell/opentofu",
+    "parent_url": "https://github.com/opentofu/opentofu",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "llm-transparency-tool",
+    "createdAt": "2024-04-25T19:49:17Z",
+    "description": "LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models. *Check out demo at* https://huggingface.co/spaces/facebook/llm-transparency-tool-demo",
+    "url": "https://github.com/evelynmitchell/llm-transparency-tool",
+    "parent_url": "https://github.com/facebookresearch/llm-transparency-tool",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "insanely-fast-whisper",
+    "createdAt": "2024-04-25T19:41:12Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/insanely-fast-whisper",
+    "parent_url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "jat",
+    "createdAt": "2024-04-24T22:10:54Z",
+    "description": "Distributed online training of a general multi-task Deep RL Agent",
+    "url": "https://github.com/evelynmitchell/jat",
+    "parent_url": "https://github.com/huggingface/jat",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "corenet",
+    "createdAt": "2024-04-24T14:00:09Z",
+    "description": "CoreNet: A library for training deep neural networks",
+    "url": "https://github.com/evelynmitchell/corenet",
+    "parent_url": "https://github.com/apple/corenet",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "GPT-Fathom",
     "createdAt": "2024-04-23T00:50:54Z",
     "description": "[NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.",
     "url": "https://github.com/evelynmitchell/GPT-Fathom",
     "parent_url": "https://github.com/GPT-Fathom/GPT-Fathom",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "GPT-Fathom",
+    "createdAt": "2024-04-23T00:50:54Z",
+    "description": "[NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.",
+    "url": "https://github.com/evelynmitchell/GPT-Fathom",
+    "parent_url": "https://github.com/GPT-Fathom/GPT-Fathom",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Groma",
+    "createdAt": "2024-04-22T14:42:33Z",
+    "description": "Official Implementation of \"Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models\"",
+    "url": "https://github.com/evelynmitchell/Groma",
+    "parent_url": "https://github.com/FoundationVision/Groma",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "modelbench",
+    "createdAt": "2024-04-21T14:26:21Z",
+    "description": "Run safety benchmarks against AI models and view detailed reports showing how well they performed.",
+    "url": "https://github.com/evelynmitchell/modelbench",
+    "parent_url": "https://github.com/mlcommons/modelbench",
     "labels": [],
     "repositoryTopics": null
   },
