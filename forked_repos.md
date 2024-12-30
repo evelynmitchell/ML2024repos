@@ -164,6 +164,7 @@
 | CodeR | 2024-06-29 |  | https://github.com/evelynmitchell/CodeR | https://github.com/NL2Code/CodeR |
 | shap | 2024-06-29 | A game theoretic approach to explain the output of any machine learning model. | https://github.com/evelynmitchell/shap | https://github.com/shap/shap |
 | mirage | 2024-06-27 | A multi-level tensor algebra superoptimizer | https://github.com/evelynmitchell/mirage | https://github.com/mirage-project/mirage |
+| golem | 2024-06-27 | A Framework for Building Robust Shiny Apps  | https://github.com/evelynmitchell/golem | https://github.com/ThinkR-open/golem |
 | ml-4m | 2024-06-26 | 4M: Massively Multimodal Masked Modeling | https://github.com/evelynmitchell/ml-4m | https://github.com/apple/ml-4m |
 | pgai | 2024-06-25 | Bring AI models closer to your PostgreSQL data | https://github.com/evelynmitchell/pgai | https://github.com/timescale/pgai |
 | bug-in-the-code-stack | 2024-06-24 | A new benchmark for measuring LLM's capability to detect bugs in large codebase. | https://github.com/evelynmitchell/bug-in-the-code-stack | https://github.com/HammingHQ/bug-in-the-code-stack |
@@ -199,6 +200,7 @@
 | firecrawl | 2024-05-25 | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API. | https://github.com/evelynmitchell/firecrawl | https://github.com/mendableai/firecrawl |
 | indexify | 2024-05-24 | A scalable realtime and continuous indexing and structured extraction engine for Unstructured Data to build Generative AI Applications | https://github.com/evelynmitchell/indexify | https://github.com/tensorlakeai/indexify |
 | langtrace | 2024-05-23 | Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊 | https://github.com/evelynmitchell/langtrace | https://github.com/Scale3-Labs/langtrace |
+| ml-ogen | 2024-05-20 |  | https://github.com/evelynmitchell/ml-ogen | https://github.com/apple/ml-ogen |
 | openfold | 2024-05-13 | Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2 | https://github.com/evelynmitchell/openfold | https://github.com/aqlaboratory/openfold |
 | ThunderKittens | 2024-05-13 | Tile primitives for speedy kernels | https://github.com/evelynmitchell/ThunderKittens | https://github.com/HazyResearch/ThunderKittens |
 | timesfm | 2024-05-11 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | https://github.com/evelynmitchell/timesfm | https://github.com/google-research/timesfm |
@@ -206,9 +208,26 @@
 | efficient-kan | 2024-05-08 | An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). | https://github.com/evelynmitchell/efficient-kan | https://github.com/Blealtan/efficient-kan |
 | Sequoia | 2024-05-05 | scalable and robust tree-based speculative decoding algorithm | https://github.com/evelynmitchell/Sequoia | https://github.com/Infini-AI-Lab/Sequoia |
 | kanrl | 2024-05-04 | Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments | https://github.com/evelynmitchell/kanrl | https://github.com/riiswa/kanrl |
+| GPT-Fathom | 2024-04-23 | [NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings. | https://github.com/evelynmitchell/GPT-Fathom | https://github.com/GPT-Fathom/GPT-Fathom |
+| codellama | 2024-04-21 | Inference code for CodeLlama models | https://github.com/evelynmitchell/codellama | https://github.com/meta-llama/codellama |
+| recurrentgemma | 2024-04-13 | Open weights language model from Google DeepMind, based on Griffin. | https://github.com/evelynmitchell/recurrentgemma | https://github.com/google-deepmind/recurrentgemma |
+| open-eqa | 2024-04-13 | OpenEQA Embodied Question Answering in the Era of Foundation Models | https://github.com/evelynmitchell/open-eqa | https://github.com/facebookresearch/open-eqa |
+| open-gpu-kernel-modules | 2024-04-13 | NVIDIA Linux open GPU with P2P support | https://github.com/evelynmitchell/open-gpu-kernel-modules | https://github.com/tinygrad/open-gpu-kernel-modules |
+| survey | 2024-04-11 | A golang library for building interactive and accessible prompts with full support for windows and posix terminals. | https://github.com/evelynmitchell/survey | https://github.com/plandex-ai/survey |
+| plandex | 2024-04-11 | An AI coding engine for complex tasks | https://github.com/evelynmitchell/plandex | https://github.com/plandex-ai/plandex |
 | shouldersOfGiants.rs | 2024-04-08 | I have no idea what I'm doing , but llm.c in rust | https://github.com/evelynmitchell/shouldersOfGiants.rs |  |
+| clevergpt | 2024-04-08 | Training GPTs to solve interaction nets | https://github.com/evelynmitchell/clevergpt | https://github.com/reissbaker/clevergpt |
+| dbrx | 2024-04-08 | Code examples and resources for DBRX, a large language model developed by Databricks | https://github.com/evelynmitchell/dbrx | https://github.com/databricks/dbrx |
 | ragflow | 2024-04-05 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | https://github.com/evelynmitchell/ragflow | https://github.com/infiniflow/ragflow |
+| partykit | 2024-04-05 | PartyKit simplifies developing multiplayer applications | https://github.com/evelynmitchell/partykit | https://github.com/partykit/partykit |
+| magic-spell | 2024-04-05 | 🪄 AI prompting built into your <textarea> | https://github.com/evelynmitchell/magic-spell | https://github.com/ai-ng/magic-spell |
+| devika | 2024-04-04 | Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. | https://github.com/evelynmitchell/devika | https://github.com/stitionai/devika |
+| serving | 2024-04-01 | Kubernetes-based, scale-to-zero, request-driven compute | https://github.com/evelynmitchell/serving | https://github.com/knative/serving |
+| OLMo | 2024-04-01 | Modeling, training, eval, and inference code for OLMo | https://github.com/evelynmitchell/OLMo | https://github.com/allenai/OLMo |
 | nvidia-container-toolkit | 2024-04-01 | Build and run containers leveraging NVIDIA GPUs | https://github.com/evelynmitchell/nvidia-container-toolkit | https://github.com/NVIDIA/nvidia-container-toolkit |
+| MiniGemini | 2024-04-01 | Official implementation for Mini-Gemini | https://github.com/evelynmitchell/MiniGemini | https://github.com/dvlab-research/MGM |
+| lightning-thunder | 2024-03-29 | Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once. | https://github.com/evelynmitchell/lightning-thunder | https://github.com/Lightning-AI/lightning-thunder |
+| AIOS | 2024-03-27 | AIOS: LLM Agent Operating System | https://github.com/evelynmitchell/AIOS | https://github.com/agiresearch/AIOS |
 | chronos-forecasting | 2024-03-25 | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting | https://github.com/evelynmitchell/chronos-forecasting | https://github.com/amazon-science/chronos-forecasting |
 | ib_async | 2024-03-19 | Python sync/async framework for Interactive Brokers API (replaces ib_insync) | https://github.com/evelynmitchell/ib_async | https://github.com/ib-api-reloaded/ib_async |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/evelynmitchell/aici | https://github.com/microsoft/aici |
@@ -217,6 +236,7 @@
 | tsmixer | 2024-02-11 | Time Series Mixer forecasting multivariate time series | https://github.com/evelynmitchell/tsmixer |  |
 | AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/evelynmitchell/AQLM | https://github.com/Vahe1994/AQLM |
 | cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/evelynmitchell/cleanrl | https://github.com/vwxyzjn/cleanrl |
+| tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/evelynmitchell/tsfm | https://github.com/ibm-granite/granite-tsfm |
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | https://github.com/evelynmitchell/TinyTimeMixers |  |
 | open-instruct | 2024-02-02 |  | https://github.com/evelynmitchell/open-instruct | https://github.com/allenai/open-instruct |
 | MyWay | 2024-01-19 |  | https://github.com/evelynmitchell/MyWay |  |

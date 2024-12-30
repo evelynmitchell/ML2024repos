@@ -1458,6 +1458,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "golem",
+    "createdAt": "2024-06-27T02:40:28Z",
+    "description": "A Framework for Building Robust Shiny Apps ",
+    "url": "https://github.com/evelynmitchell/golem",
+    "parent_url": "https://github.com/ThinkR-open/golem",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "ml-4m",
     "createdAt": "2024-06-26T14:10:18Z",
     "description": "4M: Massively Multimodal Masked Modeling",
@@ -1773,6 +1782,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "ml-ogen",
+    "createdAt": "2024-05-20T00:12:18Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/ml-ogen",
+    "parent_url": "https://github.com/apple/ml-ogen",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "openfold",
     "createdAt": "2024-05-13T01:54:51Z",
     "description": "Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2",
@@ -1836,11 +1854,92 @@
     "repositoryTopics": null
   },
   {
+    "name": "GPT-Fathom",
+    "createdAt": "2024-04-23T00:50:54Z",
+    "description": "[NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.",
+    "url": "https://github.com/evelynmitchell/GPT-Fathom",
+    "parent_url": "https://github.com/GPT-Fathom/GPT-Fathom",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "codellama",
+    "createdAt": "2024-04-21T01:52:46Z",
+    "description": "Inference code for CodeLlama models",
+    "url": "https://github.com/evelynmitchell/codellama",
+    "parent_url": "https://github.com/meta-llama/codellama",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "recurrentgemma",
+    "createdAt": "2024-04-13T02:09:21Z",
+    "description": "Open weights language model from Google DeepMind, based on Griffin.",
+    "url": "https://github.com/evelynmitchell/recurrentgemma",
+    "parent_url": "https://github.com/google-deepmind/recurrentgemma",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "open-eqa",
+    "createdAt": "2024-04-13T01:44:20Z",
+    "description": "OpenEQA Embodied Question Answering in the Era of Foundation Models",
+    "url": "https://github.com/evelynmitchell/open-eqa",
+    "parent_url": "https://github.com/facebookresearch/open-eqa",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "open-gpu-kernel-modules",
+    "createdAt": "2024-04-13T01:38:40Z",
+    "description": "NVIDIA Linux open GPU with P2P support",
+    "url": "https://github.com/evelynmitchell/open-gpu-kernel-modules",
+    "parent_url": "https://github.com/tinygrad/open-gpu-kernel-modules",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "survey",
+    "createdAt": "2024-04-11T13:41:23Z",
+    "description": "A golang library for building interactive and accessible prompts with full support for windows and posix terminals.",
+    "url": "https://github.com/evelynmitchell/survey",
+    "parent_url": "https://github.com/plandex-ai/survey",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "plandex",
+    "createdAt": "2024-04-11T13:40:09Z",
+    "description": "An AI coding engine for complex tasks",
+    "url": "https://github.com/evelynmitchell/plandex",
+    "parent_url": "https://github.com/plandex-ai/plandex",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "shouldersOfGiants.rs",
     "createdAt": "2024-04-08T22:39:32Z",
     "description": "I have no idea what I'm doing , but llm.c in rust",
     "url": "https://github.com/evelynmitchell/shouldersOfGiants.rs",
     "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "clevergpt",
+    "createdAt": "2024-04-08T16:39:19Z",
+    "description": "Training GPTs to solve interaction nets",
+    "url": "https://github.com/evelynmitchell/clevergpt",
+    "parent_url": "https://github.com/reissbaker/clevergpt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "dbrx",
+    "createdAt": "2024-04-08T14:46:02Z",
+    "description": "Code examples and resources for DBRX, a large language model developed by Databricks",
+    "url": "https://github.com/evelynmitchell/dbrx",
+    "parent_url": "https://github.com/databricks/dbrx",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1854,11 +1953,83 @@
     "repositoryTopics": null
   },
   {
+    "name": "partykit",
+    "createdAt": "2024-04-05T16:30:00Z",
+    "description": "PartyKit simplifies developing multiplayer applications",
+    "url": "https://github.com/evelynmitchell/partykit",
+    "parent_url": "https://github.com/partykit/partykit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "magic-spell",
+    "createdAt": "2024-04-05T01:54:03Z",
+    "description": "\ud83e\ude84 AI prompting built into your <textarea>",
+    "url": "https://github.com/evelynmitchell/magic-spell",
+    "parent_url": "https://github.com/ai-ng/magic-spell",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "devika",
+    "createdAt": "2024-04-04T18:03:05Z",
+    "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+    "url": "https://github.com/evelynmitchell/devika",
+    "parent_url": "https://github.com/stitionai/devika",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "serving",
+    "createdAt": "2024-04-01T22:44:39Z",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+    "url": "https://github.com/evelynmitchell/serving",
+    "parent_url": "https://github.com/knative/serving",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "OLMo",
+    "createdAt": "2024-04-01T22:00:24Z",
+    "description": "Modeling, training, eval, and inference code for OLMo",
+    "url": "https://github.com/evelynmitchell/OLMo",
+    "parent_url": "https://github.com/allenai/OLMo",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "nvidia-container-toolkit",
     "createdAt": "2024-04-01T19:43:19Z",
     "description": "Build and run containers leveraging NVIDIA GPUs",
     "url": "https://github.com/evelynmitchell/nvidia-container-toolkit",
     "parent_url": "https://github.com/NVIDIA/nvidia-container-toolkit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MiniGemini",
+    "createdAt": "2024-04-01T02:40:53Z",
+    "description": "Official implementation for Mini-Gemini",
+    "url": "https://github.com/evelynmitchell/MiniGemini",
+    "parent_url": "https://github.com/dvlab-research/MGM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "lightning-thunder",
+    "createdAt": "2024-03-29T00:27:10Z",
+    "description": "Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once.",
+    "url": "https://github.com/evelynmitchell/lightning-thunder",
+    "parent_url": "https://github.com/Lightning-AI/lightning-thunder",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AIOS",
+    "createdAt": "2024-03-27T21:08:18Z",
+    "description": "AIOS: LLM Agent Operating System",
+    "url": "https://github.com/evelynmitchell/AIOS",
+    "parent_url": "https://github.com/agiresearch/AIOS",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1931,6 +2102,15 @@
     "description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
     "url": "https://github.com/evelynmitchell/cleanrl",
     "parent_url": "https://github.com/vwxyzjn/cleanrl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "tsfm",
+    "createdAt": "2024-02-03T18:44:52Z",
+    "description": "Foundation Models for Time Series",
+    "url": "https://github.com/evelynmitchell/tsfm",
+    "parent_url": "https://github.com/ibm-granite/granite-tsfm",
     "labels": [],
     "repositoryTopics": null
   },
