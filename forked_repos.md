@@ -318,14 +318,64 @@
 | structureshrink | 2024-03-18 | Structured shrinking of unknown file formats | https://github.com/evelynmitchell/structureshrink | https://github.com/DRMacIver/structureshrink |
 | ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/evelynmitchell/ArxivPapers | https://github.com/imelnyk/ArxivPapers |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/evelynmitchell/aici | https://github.com/microsoft/aici |
+| bruno | 2024-03-10 | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) | https://github.com/evelynmitchell/bruno | https://github.com/usebruno/bruno |
+| LlamaGym | 2024-03-10 | Fine-tune LLM agents with online reinforcement learning | https://github.com/evelynmitchell/LlamaGym | https://github.com/KhoomeiK/LlamaGym |
+| s3bucket_exporter | 2024-03-10 | S3 bucket exporter exposing metrics size and number of objects | https://github.com/evelynmitchell/s3bucket_exporter | https://github.com/molu8bits/s3bucket_exporter |
+| ib_insync | 2024-03-09 | Sadly, the orignial creator Ewald has died and now we must continue without his years of experience creating and growing this project. See the 'Discussions' tab for organization planning. Python sync/async framework for Interactive Brokers API | https://github.com/evelynmitchell/ib_insync | https://github.com/mattsta/ib_insync |
+| numpy-100 | 2024-03-08 | 100 numpy exercises (with solutions) | https://github.com/evelynmitchell/numpy-100 | https://github.com/rougier/numpy-100 |
+| CAME | 2024-03-08 | The official implementation of "CAME: Confidence-guided Adaptive Memory Optimization" | https://github.com/evelynmitchell/CAME | https://github.com/yangluo7/CAME |
+| fsdp_qlora | 2024-03-07 | Training LLMs with QLoRA + FSDP | https://github.com/evelynmitchell/fsdp_qlora | https://github.com/AnswerDotAI/fsdp_qlora |
+| carving | 2024-03-03 | Package to optimize Adversarial Attacks against (Large) Language Models with Varied Objectives | https://github.com/evelynmitchell/carving | https://github.com/JonasGeiping/carving |
+| sktime | 2024-03-03 | A unified framework for machine learning with time series | https://github.com/evelynmitchell/sktime | https://github.com/sktime/sktime |
+| bonito | 2024-03-02 | A lightweight library for generating synthetic instruction tuning datasets for your data without GPT. | https://github.com/evelynmitchell/bonito | https://github.com/BatsResearch/bonito |
+| resource-stream | 2024-03-02 | CUDA related news and material links | https://github.com/evelynmitchell/resource-stream | https://github.com/gpu-mode/resource-stream |
+| HILP | 2024-03-01 | Foundation Policies with Hilbert Representations | https://github.com/evelynmitchell/HILP | https://github.com/seohongpark/HILP |
+| ao | 2024-03-01 | The torchao repository contains api's and workflows for quantization and pruning gpu models. | https://github.com/evelynmitchell/ao | https://github.com/pytorch/ao |
+| MambaMorph | 2024-02-29 | MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration | https://github.com/evelynmitchell/MambaMorph | https://github.com/Guo-Stone/MambaMorph |
+| floneum | 2024-02-28 | A toolkit for controllable, private AI on consumer hardware in rust | https://github.com/evelynmitchell/floneum | https://github.com/floneum/floneum |
+| massive-activations | 2024-02-28 | Code accompanying the paper "Massive Activations in Large Language Models" | https://github.com/evelynmitchell/massive-activations | https://github.com/locuslab/massive-activations |
+| iTransformer_orig | 2024-02-27 | Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting" (ICLR 2024 Spotlight), https://openreview.net/forum?id=JePfAI8fah | https://github.com/evelynmitchell/iTransformer_orig | https://github.com/thuml/iTransformer |
 | evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evelynmitchell/evo | https://github.com/evo-design/evo |
+| evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evelynmitchell/evo | https://github.com/evo-design/evo |
+| gluonts | 2024-02-26 | Probabilistic time series modeling in Python | https://github.com/evelynmitchell/gluonts | https://github.com/awslabs/gluonts |
+| iTransformer | 2024-02-25 | Unofficial implementation of iTransformer - SOTA Time Series Forecasting using Attention networks, out of Tsinghua / Ant group | https://github.com/evelynmitchell/iTransformer | https://github.com/lucidrains/iTransformer |
+| LLMs-from-scratch | 2024-02-24 | Implementing a ChatGPT-like LLM from scratch, step by step | https://github.com/evelynmitchell/LLMs-from-scratch | https://github.com/rasbt/LLMs-from-scratch |
+| Neural-Circuit-Diagrams | 2024-02-24 |  | https://github.com/evelynmitchell/Neural-Circuit-Diagrams | https://github.com/vtabbott/Neural-Circuit-Diagrams |
+| browserless | 2024-02-24 | Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. | https://github.com/evelynmitchell/browserless | https://github.com/browserless/browserless |
+| OptiMUS | 2024-02-24 | Optimization Modeling Using mip Solvers and large language models | https://github.com/evelynmitchell/OptiMUS | https://github.com/teshnizi/OptiMUS |
+| Runes | 2024-02-23 | A package for mapping pseudo code to real world languages for increased clarity and ease of use  | https://github.com/evelynmitchell/Runes | https://github.com/ZackBradshaw/Runes |
+| Awesome-Mamba | 2024-02-23 | Awesome list of papers that extend Mamba to various applications. | https://github.com/evelynmitchell/Awesome-Mamba | https://github.com/pengzhangzhi/Awesome-Mamba |
+| pybullet-blender-recorder | 2024-02-23 |  | https://github.com/evelynmitchell/pybullet-blender-recorder | https://github.com/huy-ha/pybullet-blender-recorder |
+| pytorch-tsmixer | 2024-02-23 | A pip-installable PyTorch implementation of TSMixer, providing an easy-to-use and efficient solution for time-series forecasting. | https://github.com/evelynmitchell/pytorch-tsmixer | https://github.com/ditschuk/pytorch-tsmixer |
+| spacetime | 2024-02-23 | Code for SpaceTime 🌌⏱️. Proposed in Effectively Modeling Time Series with Simple Discrete State Spaces, ICLR 2023. | https://github.com/evelynmitchell/spacetime | https://github.com/HazyResearch/spacetime |
+| LLM-Optimizers-Papers | 2024-02-23 | Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optimization for Prompting LLMs. | https://github.com/evelynmitchell/LLM-Optimizers-Papers | https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers |
+| llmsherpa | 2024-02-22 | Developer APIs to Accelerate LLM Projects | https://github.com/evelynmitchell/llmsherpa | https://github.com/nlmatics/llmsherpa |
 | py-llm-core | 2024-02-22 | A pythonic library providing light-weighted interface with LLMs | https://github.com/evelynmitchell/py-llm-core | https://github.com/advanced-stack/py-llm-core |
+| py-llm-core | 2024-02-22 | A pythonic library providing light-weighted interface with LLMs | https://github.com/evelynmitchell/py-llm-core | https://github.com/advanced-stack/py-llm-core |
+| gemma.cpp | 2024-02-22 | lightweight, standalone C++ inference engine for Google's Gemma models. | https://github.com/evelynmitchell/gemma.cpp | https://github.com/google/gemma.cpp |
+| bpeasy | 2024-02-21 | Fast bare-bones BPE for modern tokenizer training | https://github.com/evelynmitchell/bpeasy | https://github.com/gautierdag/bpeasy |
+| actions-batch | 2024-02-21 | Time-sharing supercomputer built on GitHub Actions | https://github.com/evelynmitchell/actions-batch | https://github.com/alexellis/actions-batch |
+| LNSym | 2024-02-20 | Armv8 Native Code Symbolic Simulator in Lean | https://github.com/evelynmitchell/LNSym | https://github.com/leodemoura/LNSym |
+| yet-another-applied-llm-benchmark | 2024-02-20 |  | https://github.com/evelynmitchell/yet-another-applied-llm-benchmark | https://github.com/carlini/yet-another-applied-llm-benchmark |
 | RingAttention | 2024-02-20 | Transformers with Arbitrarily Large Context | https://github.com/evelynmitchell/RingAttention | https://github.com/haoliuhl/ringattention |
+| RingAttention | 2024-02-20 | Transformers with Arbitrarily Large Context | https://github.com/evelynmitchell/RingAttention | https://github.com/haoliuhl/ringattention |
+| universal_manipulation_interface | 2024-02-20 | Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots | https://github.com/evelynmitchell/universal_manipulation_interface | https://github.com/real-stanford/universal_manipulation_interface |
+| professional-programming | 2024-02-19 | A collection of learning resources for curious software engineers | https://github.com/evelynmitchell/professional-programming | https://github.com/charlax/professional-programming |
+| jepa | 2024-02-19 | PyTorch code and models for V-JEPA self-supervised learning from video. | https://github.com/evelynmitchell/jepa | https://github.com/facebookresearch/jepa |
+| DataDreamer | 2024-02-19 | DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤 | https://github.com/evelynmitchell/DataDreamer | https://github.com/datadreamer-dev/DataDreamer |
+| PiPPy | 2024-02-19 | Pipeline Parallelism for PyTorch | https://github.com/evelynmitchell/PiPPy | https://github.com/pytorch/PiPPy |
+| gpt_paper_assistant | 2024-02-18 | GPT4 based personalized ArXiv paper assistant bot | https://github.com/evelynmitchell/gpt_paper_assistant | https://github.com/tatsu-lab/gpt_paper_assistant |
 | gpt_paper_assistant | 2024-02-18 | GPT4 based personalized ArXiv paper assistant bot | https://github.com/evelynmitchell/gpt_paper_assistant | https://github.com/tatsu-lab/gpt_paper_assistant |
 | SPIN | 2024-02-18 | The official implementation of Self-Play Fine-Tuning (SPIN) | https://github.com/evelynmitchell/SPIN | https://github.com/uclaml/SPIN |
+| SPIN | 2024-02-18 | The official implementation of Self-Play Fine-Tuning (SPIN) | https://github.com/evelynmitchell/SPIN | https://github.com/uclaml/SPIN |
+| security-policies | 2024-02-18 | Security policies for Tailscale | https://github.com/evelynmitchell/security-policies | https://github.com/tailscale/security-policies |
 | security-policies | 2024-02-18 | Security policies for Tailscale | https://github.com/evelynmitchell/security-policies | https://github.com/tailscale/security-policies |
 | universal_neural_functional | 2024-02-18 |  | https://github.com/evelynmitchell/universal_neural_functional | https://github.com/AllanYangZhou/universal_neural_functional |
+| universal_neural_functional | 2024-02-18 |  | https://github.com/evelynmitchell/universal_neural_functional | https://github.com/AllanYangZhou/universal_neural_functional |
 | FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/evelynmitchell/FRIDAY | https://github.com/OS-Copilot/OS-Copilot |
+| FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/evelynmitchell/FRIDAY | https://github.com/OS-Copilot/OS-Copilot |
+| DiT | 2024-02-17 | Official PyTorch Implementation of "Scalable Diffusion Models with Transformers" | https://github.com/evelynmitchell/DiT | https://github.com/facebookresearch/DiT |
+| LESS | 2024-02-17 | Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning | https://github.com/evelynmitchell/LESS | https://github.com/princeton-nlp/LESS |
 | LESS | 2024-02-17 | Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning | https://github.com/evelynmitchell/LESS | https://github.com/princeton-nlp/LESS |
 | contrastors | 2024-02-16 | Train Models Contrastively in Pytorch | https://github.com/evelynmitchell/contrastors | https://github.com/nomic-ai/contrastors |
 | StableCascade | 2024-02-14 |  | https://github.com/evelynmitchell/StableCascade | https://github.com/Stability-AI/StableCascade |
