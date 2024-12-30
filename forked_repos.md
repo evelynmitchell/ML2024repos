@@ -390,29 +390,126 @@
 | gsplat | 2024-02-10 | CUDA accelerated rasterization of gaussian splatting | https://github.com/evelynmitchell/gsplat | https://github.com/nerfstudio-project/gsplat |
 | AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/evelynmitchell/AQLM | https://github.com/Vahe1994/AQLM |
 | cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/evelynmitchell/cleanrl | https://github.com/vwxyzjn/cleanrl |
+| cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/evelynmitchell/cleanrl | https://github.com/vwxyzjn/cleanrl |
+| PufferTank | 2024-02-04 |  | https://github.com/evelynmitchell/PufferTank | https://github.com/PufferAI/PufferTank |
+| high_performance_python_2e | 2024-02-04 | Code for the book "High Performance Python 2e" by Micha Gorelick and Ian Ozsvald with OReilly  | https://github.com/evelynmitchell/high_performance_python_2e | https://github.com/mynameisfiber/high_performance_python_2e |
+| BlackMamba | 2024-02-03 | Code repository for Black Mamba | https://github.com/evelynmitchell/BlackMamba | https://github.com/Zyphra/BlackMamba |
 | tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/evelynmitchell/tsfm | https://github.com/ibm-granite/granite-tsfm |
+| tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/evelynmitchell/tsfm | https://github.com/ibm-granite/granite-tsfm |
+| Trailblazer | 2024-02-03 | TrailBlazer: Trajectory Control for Diffusion-Based Video Generation | https://github.com/evelynmitchell/Trailblazer | https://github.com/hohonu-vicml/TrailBlazer |
+| TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | https://github.com/evelynmitchell/TinyTimeMixers |  |
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | https://github.com/evelynmitchell/TinyTimeMixers |  |
 | open-instruct | 2024-02-02 |  | https://github.com/evelynmitchell/open-instruct | https://github.com/allenai/open-instruct |
+| open-instruct | 2024-02-02 |  | https://github.com/evelynmitchell/open-instruct | https://github.com/allenai/open-instruct |
+| Trilinos | 2024-02-01 | Primary repository for the Trilinos Project | https://github.com/evelynmitchell/Trilinos | https://github.com/trilinos/Trilinos |
+| TensorRT-LLM | 2024-01-31 | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. | https://github.com/evelynmitchell/TensorRT-LLM | https://github.com/NVIDIA/TensorRT-LLM |
+| serl | 2024-01-30 | SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning | https://github.com/evelynmitchell/serl | https://github.com/rail-berkeley/serl |
+| rfcs | 2024-01-30 | PyTorch RFCs (experimental) | https://github.com/evelynmitchell/rfcs | https://github.com/pytorch/rfcs |
+| llm-app-stack | 2024-01-30 |  | https://github.com/evelynmitchell/llm-app-stack | https://github.com/a16z-infra/llm-app-stack |
+| LeanQC | 2024-01-29 | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) | https://github.com/evelynmitchell/LeanQC | https://github.com/QuantConnect/Lean |
+| neural_networks_solomonoff_induction | 2024-01-29 | Learning Universal Predictors - Google Deepmind 2401.14953 | https://github.com/evelynmitchell/neural_networks_solomonoff_induction | https://github.com/google-deepmind/neural_networks_solomonoff_induction |
+| Python-Type-Challenges | 2024-01-29 | Master Python typing (type hints) with interactive online exercises!  | https://github.com/evelynmitchell/Python-Type-Challenges | https://github.com/laike9m/Python-Type-Challenges |
+| SparsePrimingRepresentations | 2024-01-29 | Public repo to document some SPR stuff | https://github.com/evelynmitchell/SparsePrimingRepresentations | https://github.com/daveshap/SparsePrimingRepresentations |
+| DI-engine | 2024-01-28 | OpenDILab Decision AI Engine | https://github.com/evelynmitchell/DI-engine | https://github.com/opendilab/DI-engine |
+| discopy | 2024-01-28 | The Python toolkit for computing with string diagrams. | https://github.com/evelynmitchell/discopy | https://github.com/discopy/discopy |
+| classification-with-qttn | 2024-01-28 |  | https://github.com/evelynmitchell/classification-with-qttn | https://github.com/CQCL/classification-with-qttn |
+| lecture2 | 2024-01-27 | lecture 2 - 2024-01-20 | https://github.com/evelynmitchell/lecture2 | https://github.com/gpu-mode/lectures |
+| nccl | 2024-01-27 | Optimized primitives for collective multi-GPU communication | https://github.com/evelynmitchell/nccl | https://github.com/NVIDIA/nccl |
+| EdgeTransformer | 2024-01-27 |  | https://github.com/evelynmitchell/EdgeTransformer | https://github.com/bergen/EdgeTransformer |
+| cutlass | 2024-01-27 | CUDA Templates for Linear Algebra Subroutines | https://github.com/evelynmitchell/cutlass | https://github.com/NVIDIA/cutlass |
+| datatrove | 2024-01-27 | Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks. | https://github.com/evelynmitchell/datatrove | https://github.com/huggingface/datatrove |
 | pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/evelynmitchell/pychatml | https://github.com/deployradiant/pychatml |
+| pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/evelynmitchell/pychatml | https://github.com/deployradiant/pychatml |
+| langgraph | 2024-01-27 |  | https://github.com/evelynmitchell/langgraph | https://github.com/langchain-ai/langgraph |
+| GenerativeAIExamples | 2024-01-26 | Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture. | https://github.com/evelynmitchell/GenerativeAIExamples | https://github.com/NVIDIA/GenerativeAIExamples |
+| dobb-e | 2024-01-25 | Dobb·E: An open-source, general framework for learning household robotic manipulation | https://github.com/evelynmitchell/dobb-e | https://github.com/notmahi/dobb-e |
+| trustfall | 2024-01-24 | A query engine for any combination of data sources. Query your files and APIs as if they were databases! | https://github.com/evelynmitchell/trustfall | https://github.com/obi1kenobi/trustfall |
+| dynamax | 2024-01-24 | State Space Models library in JAX | https://github.com/evelynmitchell/dynamax | https://github.com/probml/dynamax |
+| sof-elk | 2024-01-24 | Configuration files for the SOF-ELK VM, used in SANS FOR572 | https://github.com/evelynmitchell/sof-elk | https://github.com/philhagen/sof-elk |
+| liquid-s4 | 2024-01-24 | Liquid Structural State-Space Models | https://github.com/evelynmitchell/liquid-s4 | https://github.com/raminmh/liquid-s4 |
+| liquid_time_constant_networks | 2024-01-24 | Code Repository for Liquid Time-Constant Networks (LTCs) | https://github.com/evelynmitchell/liquid_time_constant_networks | https://github.com/raminmh/liquid_time_constant_networks |
+| zigzag | 2024-01-23 | HW Architecture-Mapping Design Space Exploration Framework for Deep Learning Accelerators | https://github.com/evelynmitchell/zigzag | https://github.com/KULeuven-MICAS/zigzag |
+| prompt-lookup-decoding | 2024-01-23 |  | https://github.com/evelynmitchell/prompt-lookup-decoding | https://github.com/apoorvumang/prompt-lookup-decoding |
+| ml-agents | 2024-01-23 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. | https://github.com/evelynmitchell/ml-agents | https://github.com/Unity-Technologies/ml-agents |
 | self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/evelynmitchell/self-rewarding-lm-pytorch | https://github.com/lucidrains/self-rewarding-lm-pytorch |
+| self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/evelynmitchell/self-rewarding-lm-pytorch | https://github.com/lucidrains/self-rewarding-lm-pytorch |
+| profiling-cuda-in-torch | 2024-01-22 |  | https://github.com/evelynmitchell/profiling-cuda-in-torch | https://github.com/gpu-mode/profiling-cuda-in-torch |
+| Medusa | 2024-01-22 | Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads | https://github.com/evelynmitchell/Medusa | https://github.com/FasterDecoding/Medusa |
+| deepFashion3D | 2024-01-22 | Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images (ECCV2020) | https://github.com/evelynmitchell/deepFashion3D | https://github.com/GAP-LAB-CUHK-SZ/deepFashion3D |
+| evol-instruct | 2024-01-21 |  | https://github.com/evelynmitchell/evol-instruct | https://github.com/nlpxucan/evol-instruct |
+| mamba.rs | 2024-01-21 |  | https://github.com/evelynmitchell/mamba.rs | https://github.com/LaurentMazare/mamba.rs |
+| easy-to-hard-generalization | 2024-01-20 | Code for the arXiv preprint "The Unreasonable Effectiveness of Easy Training Data" | https://github.com/evelynmitchell/easy-to-hard-generalization | https://github.com/allenai/easy-to-hard-generalization |
+| awesome-pydantic | 2024-01-20 | A curated list of awesome things related to Pydantic! 🌪️ | https://github.com/evelynmitchell/awesome-pydantic | https://github.com/Kludex/awesome-pydantic |
+| demo-ai-app | 2024-01-20 | Sample AI movies app built with ❍ Ion | https://github.com/evelynmitchell/demo-ai-app | https://github.com/sst/demo-ai-app |
+| AlphaCodium | 2024-01-19 |  | https://github.com/evelynmitchell/AlphaCodium | https://github.com/Codium-ai/AlphaCodium |
+| DeepSpeed | 2024-01-19 | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | https://github.com/evelynmitchell/DeepSpeed | https://github.com/microsoft/DeepSpeed |
 | MyWay | 2024-01-19 |  | https://github.com/evelynmitchell/MyWay |  |
+| einx | 2024-01-19 | Tensor Operations in Einstein-Inspired Notation for Python. | https://github.com/evelynmitchell/einx | https://github.com/fferflo/einx |
+| embed-encode | 2024-01-19 | Base64-encoded embeddings from the OpenAI API | https://github.com/evelynmitchell/embed-encode | https://github.com/EliahKagan/embed-encode |
 | DimensionMixer | 2024-01-18 | Dimension Mixer model  | https://github.com/evelynmitchell/DimensionMixer |  |
+| DimensionMixer | 2024-01-18 | Dimension Mixer model  | https://github.com/evelynmitchell/DimensionMixer |  |
+| cppdocs | 2024-01-18 | PyTorch C++ API Documentation | https://github.com/evelynmitchell/cppdocs | https://github.com/pytorch/cppdocs |
+| Vim | 2024-01-18 |  | https://github.com/evelynmitchell/Vim | https://github.com/hustvl/Vim |
+| alphageometry | 2024-01-18 |  | https://github.com/evelynmitchell/alphageometry | https://github.com/google-deepmind/alphageometry |
 | privy | 2024-01-18 | Your private coding assistant | https://github.com/evelynmitchell/privy | https://github.com/srikanth235/privy |
+| privy | 2024-01-18 | Your private coding assistant | https://github.com/evelynmitchell/privy | https://github.com/srikanth235/privy |
+| rlkit | 2024-01-18 | Collection of reinforcement learning algorithms | https://github.com/evelynmitchell/rlkit | https://github.com/rail-berkeley/rlkit |
+| sglang | 2024-01-17 | SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable. | https://github.com/evelynmitchell/sglang | https://github.com/sgl-project/sglang |
+| vstar | 2024-01-16 | PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs" | https://github.com/evelynmitchell/vstar | https://github.com/penghao-wu/vstar |
 | vstar | 2024-01-16 | PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs" | https://github.com/evelynmitchell/vstar | https://github.com/penghao-wu/vstar |
 | sleeper-agents-paper | 2024-01-16 | Contains random samples referenced in the paper "Sleeper Agents: Training Robustly Deceptive LLMs that Persist Through Safety Training". | https://github.com/evelynmitchell/sleeper-agents-paper | https://github.com/anthropics/sleeper-agents-paper |
+| sleeper-agents-paper | 2024-01-16 | Contains random samples referenced in the paper "Sleeper Agents: Training Robustly Deceptive LLMs that Persist Through Safety Training". | https://github.com/evelynmitchell/sleeper-agents-paper | https://github.com/anthropics/sleeper-agents-paper |
+| easylkb | 2024-01-16 | easylkb - Easy Linux Kernel Builder | https://github.com/evelynmitchell/easylkb | https://github.com/deepseagirl/easylkb |
+| cccl | 2024-01-16 | CUDA C++ Core Libraries | https://github.com/evelynmitchell/cccl | https://github.com/NVIDIA/cccl |
+| pythontemplate | 2024-01-15 | A python project template with dockerfile, poetry, pytest | https://github.com/evelynmitchell/pythontemplate |  |
 | spacedrepetition | 2024-01-15 |  | https://github.com/evelynmitchell/spacedrepetition |  |
+| bioplanner | 2024-01-15 | Data from BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology paper | https://github.com/evelynmitchell/bioplanner | https://github.com/bioplanner/bioplanner |
+| stable-diffusion-webui | 2024-01-15 | Stable Diffusion web UI | https://github.com/evelynmitchell/stable-diffusion-webui | https://github.com/AUTOMATIC1111/stable-diffusion-webui |
+| instructor | 2024-01-14 | structured outputs for llms  | https://github.com/evelynmitchell/instructor | https://github.com/instructor-ai/instructor |
+| mamba.c | 2024-01-14 | Inference of Mamba models in pure C | https://github.com/evelynmitchell/mamba.c | https://github.com/kroggen/mamba.c |
+| what_are_embeddings | 2024-01-13 | A deep dive into embeddings starting from fundamentals | https://github.com/evelynmitchell/what_are_embeddings | https://github.com/veekaybee/what_are_embeddings |
+| SubjQA | 2024-01-13 | A question-answering dataset with a focus on subjective information | https://github.com/evelynmitchell/SubjQA | https://github.com/megagonlabs/SubjQA |
 | SubjQA | 2024-01-13 | A question-answering dataset with a focus on subjective information | https://github.com/evelynmitchell/SubjQA | https://github.com/megagonlabs/SubjQA |
 | libdwarf-code | 2024-01-12 | Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake. | https://github.com/evelynmitchell/libdwarf-code | https://github.com/davea42/libdwarf-code |
+| libdwarf-code | 2024-01-12 | Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake. | https://github.com/evelynmitchell/libdwarf-code | https://github.com/davea42/libdwarf-code |
+| back_to_basics | 2024-01-12 | A learning project for zeta | https://github.com/evelynmitchell/back_to_basics |  |
+| LongLM | 2024-01-12 | LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning | https://github.com/evelynmitchell/LongLM | https://github.com/datamllab/LongLM |
+| run-job | 2024-01-12 | Run a Kubernetes Job and get the logs when it's done 🏃‍♂️ | https://github.com/evelynmitchell/run-job | https://github.com/alexellis/run-job |
+| torch | 2024-01-12 | R Interface to Torch | https://github.com/evelynmitchell/torch | https://github.com/mlverse/torch |
+| ast_t5 | 2024-01-10 |  | https://github.com/evelynmitchell/ast_t5 | https://github.com/gonglinyuan/ast_t5 |
 | ast_t5 | 2024-01-10 |  | https://github.com/evelynmitchell/ast_t5 | https://github.com/gonglinyuan/ast_t5 |
 | HeCBench | 2024-01-10 |  | https://github.com/evelynmitchell/HeCBench | https://github.com/zjin-lcf/HeCBench |
+| HeCBench | 2024-01-10 |  | https://github.com/evelynmitchell/HeCBench | https://github.com/zjin-lcf/HeCBench |
+| python-graphslam | 2024-01-10 | Graph SLAM solver in Python | https://github.com/evelynmitchell/python-graphslam | https://github.com/JeffLIrion/python-graphslam |
+| llm-autoeval | 2024-01-10 | Automatically evaluate your LLMs in Google Colab | https://github.com/evelynmitchell/llm-autoeval | https://github.com/mlabonne/llm-autoeval |
 | llm-autoeval | 2024-01-10 | Automatically evaluate your LLMs in Google Colab | https://github.com/evelynmitchell/llm-autoeval | https://github.com/mlabonne/llm-autoeval |
 | persuasive_jailbreaker | 2024-01-10 | Persuasive Jailbreaker: we can persuade LLMs to jailbreak them! | https://github.com/evelynmitchell/persuasive_jailbreaker | https://github.com/CHATS-lab/persuasive_jailbreaker |
+| persuasive_jailbreaker | 2024-01-10 | Persuasive Jailbreaker: we can persuade LLMs to jailbreak them! | https://github.com/evelynmitchell/persuasive_jailbreaker | https://github.com/CHATS-lab/persuasive_jailbreaker |
+| smtrat | 2024-01-10 |  | https://github.com/evelynmitchell/smtrat | https://github.com/ths-rwth/smtrat |
+| AliceMind | 2024-01-10 | ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab | https://github.com/evelynmitchell/AliceMind | https://github.com/alibaba/AliceMind |
+| Fault | 2024-01-08 | a language for building system dynamic models | https://github.com/evelynmitchell/Fault | https://github.com/Fault-lang/Fault |
+| selfextend | 2024-01-08 | an implementation of Self-Extend, to expand the context window via grouped attention | https://github.com/evelynmitchell/selfextend | https://github.com/sdan/selfextend |
 | selfextend | 2024-01-08 | an implementation of Self-Extend, to expand the context window via grouped attention | https://github.com/evelynmitchell/selfextend | https://github.com/sdan/selfextend |
 | open-muse | 2024-01-07 | Open reproduction of MUSE for fast text2image generation.  | https://github.com/evelynmitchell/open-muse | https://github.com/huggingface/open-muse |
+| open-muse | 2024-01-07 | Open reproduction of MUSE for fast text2image generation.  | https://github.com/evelynmitchell/open-muse | https://github.com/huggingface/open-muse |
+| graph-theory-with-python | 2024-01-07 | Code from the Graph Theory with Python YouTube Series | https://github.com/evelynmitchell/graph-theory-with-python | https://github.com/somacdivad/graph-theory-with-python |
+| PubSuppl | 2024-01-07 | A collection of supplementary script files of publications | https://github.com/evelynmitchell/PubSuppl | https://github.com/he-hai/PubSuppl |
+| gunrock | 2024-01-06 | Programmable CUDA/C++ GPU Graph Analytics | https://github.com/evelynmitchell/gunrock | https://github.com/gunrock/gunrock |
+| Faithful-COT | 2024-01-06 | Code and data accompanying our paper on arXiv "Faithful Chain-of-Thought Reasoning". | https://github.com/evelynmitchell/Faithful-COT | https://github.com/veronica320/Faithful-COT |
 | Faithful-COT | 2024-01-06 | Code and data accompanying our paper on arXiv "Faithful Chain-of-Thought Reasoning". | https://github.com/evelynmitchell/Faithful-COT | https://github.com/veronica320/Faithful-COT |
 | TinyLlama | 2024-01-05 | The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. | https://github.com/evelynmitchell/TinyLlama | https://github.com/jzhang38/TinyLlama |
+| TinyLlama | 2024-01-05 | The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. | https://github.com/evelynmitchell/TinyLlama | https://github.com/jzhang38/TinyLlama |
+| rr | 2024-01-05 | RR - Railroad Diagram Generator | https://github.com/evelynmitchell/rr | https://github.com/GuntherRademacher/rr |
+| laser-code | 2024-01-05 | The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction | https://github.com/evelynmitchell/laser-code | https://github.com/pratyushasharma/laser |
 | laser-code | 2024-01-05 | The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction | https://github.com/evelynmitchell/laser-code | https://github.com/pratyushasharma/laser |
 | act-plus-plus | 2024-01-05 | Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN | https://github.com/evelynmitchell/act-plus-plus | https://github.com/MarkFzp/act-plus-plus |
+| act-plus-plus | 2024-01-05 | Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN | https://github.com/evelynmitchell/act-plus-plus | https://github.com/MarkFzp/act-plus-plus |
 | mobile-aloha | 2024-01-05 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | https://github.com/evelynmitchell/mobile-aloha | https://github.com/MarkFzp/mobile-aloha |
+| mobile-aloha | 2024-01-05 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | https://github.com/evelynmitchell/mobile-aloha | https://github.com/MarkFzp/mobile-aloha |
+| python_koans | 2024-01-03 | Python Koans - Learn Python through TDD | https://github.com/evelynmitchell/python_koans | https://github.com/gregmalcolm/python_koans |
+| mdbook-quiz | 2024-01-03 | Interactive quizzes for Markdown | https://github.com/evelynmitchell/mdbook-quiz | https://github.com/cognitive-engineering-lab/mdbook-quiz |
+| Rust_algorithms | 2024-01-02 |  All Algorithms implemented in Rust  | https://github.com/evelynmitchell/Rust_algorithms | https://github.com/TheAlgorithms/Rust |
 | Rust_algorithms | 2024-01-02 |  All Algorithms implemented in Rust  | https://github.com/evelynmitchell/Rust_algorithms | https://github.com/TheAlgorithms/Rust |
 | tch-rs | 2024-01-02 | Rust bindings for the C++ api of PyTorch. | https://github.com/evelynmitchell/tch-rs | https://github.com/LaurentMazare/tch-rs |
+| tch-rs | 2024-01-02 | Rust bindings for the C++ api of PyTorch. | https://github.com/evelynmitchell/tch-rs | https://github.com/LaurentMazare/tch-rs |
+| ControlNet | 2024-01-01 | Let us control diffusion models! | https://github.com/evelynmitchell/ControlNet | https://github.com/lllyasviel/ControlNet |
