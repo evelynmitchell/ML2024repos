@@ -2097,6 +2097,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "py-llm-core",
+    "createdAt": "2024-02-22T17:22:54Z",
+    "description": "A pythonic library providing light-weighted interface with LLMs",
+    "url": "https://github.com/evelynmitchell/py-llm-core",
+    "parent_url": "https://github.com/advanced-stack/py-llm-core",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "RingAttention",
     "createdAt": "2024-02-20T17:27:48Z",
     "description": "Transformers with Arbitrarily Large Context",
@@ -2120,6 +2129,15 @@
     "description": "The official implementation of Self-Play Fine-Tuning (SPIN)",
     "url": "https://github.com/evelynmitchell/SPIN",
     "parent_url": "https://github.com/uclaml/SPIN",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "security-policies",
+    "createdAt": "2024-02-18T01:20:19Z",
+    "description": "Security policies for Tailscale",
+    "url": "https://github.com/evelynmitchell/security-policies",
+    "parent_url": "https://github.com/tailscale/security-policies",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2295,6 +2313,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "pychatml",
+    "createdAt": "2024-01-27T01:07:32Z",
+    "description": "Chat Markup Language conversation library",
+    "url": "https://github.com/evelynmitchell/pychatml",
+    "parent_url": "https://github.com/deployradiant/pychatml",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "self-rewarding-lm-pytorch",
     "createdAt": "2024-01-22T21:41:11Z",
     "description": "Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI",
@@ -2322,6 +2349,33 @@
     "repositoryTopics": null
   },
   {
+    "name": "privy",
+    "createdAt": "2024-01-18T00:10:00Z",
+    "description": "Your private coding assistant",
+    "url": "https://github.com/evelynmitchell/privy",
+    "parent_url": "https://github.com/srikanth235/privy",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "vstar",
+    "createdAt": "2024-01-16T20:37:32Z",
+    "description": "PyTorch Implementation of \"V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs\"",
+    "url": "https://github.com/evelynmitchell/vstar",
+    "parent_url": "https://github.com/penghao-wu/vstar",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "sleeper-agents-paper",
+    "createdAt": "2024-01-16T19:16:19Z",
+    "description": "Contains random samples referenced in the paper \"Sleeper Agents: Training Robustly Deceptive LLMs that Persist Through Safety Training\".",
+    "url": "https://github.com/evelynmitchell/sleeper-agents-paper",
+    "parent_url": "https://github.com/anthropics/sleeper-agents-paper",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "spacedrepetition",
     "createdAt": "2024-01-15T18:39:42Z",
     "description": "",
@@ -2331,11 +2385,137 @@
     "repositoryTopics": null
   },
   {
+    "name": "SubjQA",
+    "createdAt": "2024-01-13T17:40:35Z",
+    "description": "A question-answering dataset with a focus on subjective information",
+    "url": "https://github.com/evelynmitchell/SubjQA",
+    "parent_url": "https://github.com/megagonlabs/SubjQA",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "libdwarf-code",
+    "createdAt": "2024-01-12T23:22:25Z",
+    "description": "Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake.",
+    "url": "https://github.com/evelynmitchell/libdwarf-code",
+    "parent_url": "https://github.com/davea42/libdwarf-code",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ast_t5",
+    "createdAt": "2024-01-10T04:22:42Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/ast_t5",
+    "parent_url": "https://github.com/gonglinyuan/ast_t5",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "HeCBench",
+    "createdAt": "2024-01-10T02:17:41Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/HeCBench",
+    "parent_url": "https://github.com/zjin-lcf/HeCBench",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "llm-autoeval",
     "createdAt": "2024-01-10T02:07:23Z",
     "description": "Automatically evaluate your LLMs in Google Colab",
     "url": "https://github.com/evelynmitchell/llm-autoeval",
     "parent_url": "https://github.com/mlabonne/llm-autoeval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "persuasive_jailbreaker",
+    "createdAt": "2024-01-10T01:13:44Z",
+    "description": "Persuasive Jailbreaker: we can persuade LLMs to jailbreak them!",
+    "url": "https://github.com/evelynmitchell/persuasive_jailbreaker",
+    "parent_url": "https://github.com/CHATS-lab/persuasive_jailbreaker",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "selfextend",
+    "createdAt": "2024-01-08T00:34:56Z",
+    "description": "an implementation of Self-Extend, to expand the context window via grouped attention",
+    "url": "https://github.com/evelynmitchell/selfextend",
+    "parent_url": "https://github.com/sdan/selfextend",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "open-muse",
+    "createdAt": "2024-01-07T23:59:28Z",
+    "description": "Open reproduction of MUSE for fast text2image generation. ",
+    "url": "https://github.com/evelynmitchell/open-muse",
+    "parent_url": "https://github.com/huggingface/open-muse",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Faithful-COT",
+    "createdAt": "2024-01-06T20:15:17Z",
+    "description": "Code and data accompanying our paper on arXiv \"Faithful Chain-of-Thought Reasoning\".",
+    "url": "https://github.com/evelynmitchell/Faithful-COT",
+    "parent_url": "https://github.com/veronica320/Faithful-COT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TinyLlama",
+    "createdAt": "2024-01-05T17:10:37Z",
+    "description": "The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.",
+    "url": "https://github.com/evelynmitchell/TinyLlama",
+    "parent_url": "https://github.com/jzhang38/TinyLlama",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "laser-code",
+    "createdAt": "2024-01-05T04:21:44Z",
+    "description": "The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction",
+    "url": "https://github.com/evelynmitchell/laser-code",
+    "parent_url": "https://github.com/pratyushasharma/laser",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "act-plus-plus",
+    "createdAt": "2024-01-05T03:20:21Z",
+    "description": "Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN",
+    "url": "https://github.com/evelynmitchell/act-plus-plus",
+    "parent_url": "https://github.com/MarkFzp/act-plus-plus",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "mobile-aloha",
+    "createdAt": "2024-01-05T03:20:07Z",
+    "description": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
+    "url": "https://github.com/evelynmitchell/mobile-aloha",
+    "parent_url": "https://github.com/MarkFzp/mobile-aloha",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Rust_algorithms",
+    "createdAt": "2024-01-02T17:38:14Z",
+    "description": " All Algorithms implemented in Rust ",
+    "url": "https://github.com/evelynmitchell/Rust_algorithms",
+    "parent_url": "https://github.com/TheAlgorithms/Rust",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "tch-rs",
+    "createdAt": "2024-01-02T17:34:56Z",
+    "description": "Rust bindings for the C++ api of PyTorch.",
+    "url": "https://github.com/evelynmitchell/tch-rs",
+    "parent_url": "https://github.com/LaurentMazare/tch-rs",
     "labels": [],
     "repositoryTopics": null
   }

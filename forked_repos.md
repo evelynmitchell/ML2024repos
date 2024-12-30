@@ -235,9 +235,11 @@
 | ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/evelynmitchell/ArxivPapers | https://github.com/imelnyk/ArxivPapers |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/evelynmitchell/aici | https://github.com/microsoft/aici |
 | evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evelynmitchell/evo | https://github.com/evo-design/evo |
+| py-llm-core | 2024-02-22 | A pythonic library providing light-weighted interface with LLMs | https://github.com/evelynmitchell/py-llm-core | https://github.com/advanced-stack/py-llm-core |
 | RingAttention | 2024-02-20 | Transformers with Arbitrarily Large Context | https://github.com/evelynmitchell/RingAttention | https://github.com/haoliuhl/ringattention |
 | gpt_paper_assistant | 2024-02-18 | GPT4 based personalized ArXiv paper assistant bot | https://github.com/evelynmitchell/gpt_paper_assistant | https://github.com/tatsu-lab/gpt_paper_assistant |
 | SPIN | 2024-02-18 | The official implementation of Self-Play Fine-Tuning (SPIN) | https://github.com/evelynmitchell/SPIN | https://github.com/uclaml/SPIN |
+| security-policies | 2024-02-18 | Security policies for Tailscale | https://github.com/evelynmitchell/security-policies | https://github.com/tailscale/security-policies |
 | universal_neural_functional | 2024-02-18 |  | https://github.com/evelynmitchell/universal_neural_functional | https://github.com/AllanYangZhou/universal_neural_functional |
 | FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/evelynmitchell/FRIDAY | https://github.com/OS-Copilot/OS-Copilot |
 | LESS | 2024-02-17 | Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning | https://github.com/evelynmitchell/LESS | https://github.com/princeton-nlp/LESS |
@@ -257,8 +259,26 @@
 | tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/evelynmitchell/tsfm | https://github.com/ibm-granite/granite-tsfm |
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | https://github.com/evelynmitchell/TinyTimeMixers |  |
 | open-instruct | 2024-02-02 |  | https://github.com/evelynmitchell/open-instruct | https://github.com/allenai/open-instruct |
+| pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/evelynmitchell/pychatml | https://github.com/deployradiant/pychatml |
 | self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/evelynmitchell/self-rewarding-lm-pytorch | https://github.com/lucidrains/self-rewarding-lm-pytorch |
 | MyWay | 2024-01-19 |  | https://github.com/evelynmitchell/MyWay |  |
 | DimensionMixer | 2024-01-18 | Dimension Mixer model  | https://github.com/evelynmitchell/DimensionMixer |  |
+| privy | 2024-01-18 | Your private coding assistant | https://github.com/evelynmitchell/privy | https://github.com/srikanth235/privy |
+| vstar | 2024-01-16 | PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs" | https://github.com/evelynmitchell/vstar | https://github.com/penghao-wu/vstar |
+| sleeper-agents-paper | 2024-01-16 | Contains random samples referenced in the paper "Sleeper Agents: Training Robustly Deceptive LLMs that Persist Through Safety Training". | https://github.com/evelynmitchell/sleeper-agents-paper | https://github.com/anthropics/sleeper-agents-paper |
 | spacedrepetition | 2024-01-15 |  | https://github.com/evelynmitchell/spacedrepetition |  |
+| SubjQA | 2024-01-13 | A question-answering dataset with a focus on subjective information | https://github.com/evelynmitchell/SubjQA | https://github.com/megagonlabs/SubjQA |
+| libdwarf-code | 2024-01-12 | Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake. | https://github.com/evelynmitchell/libdwarf-code | https://github.com/davea42/libdwarf-code |
+| ast_t5 | 2024-01-10 |  | https://github.com/evelynmitchell/ast_t5 | https://github.com/gonglinyuan/ast_t5 |
+| HeCBench | 2024-01-10 |  | https://github.com/evelynmitchell/HeCBench | https://github.com/zjin-lcf/HeCBench |
 | llm-autoeval | 2024-01-10 | Automatically evaluate your LLMs in Google Colab | https://github.com/evelynmitchell/llm-autoeval | https://github.com/mlabonne/llm-autoeval |
+| persuasive_jailbreaker | 2024-01-10 | Persuasive Jailbreaker: we can persuade LLMs to jailbreak them! | https://github.com/evelynmitchell/persuasive_jailbreaker | https://github.com/CHATS-lab/persuasive_jailbreaker |
+| selfextend | 2024-01-08 | an implementation of Self-Extend, to expand the context window via grouped attention | https://github.com/evelynmitchell/selfextend | https://github.com/sdan/selfextend |
+| open-muse | 2024-01-07 | Open reproduction of MUSE for fast text2image generation.  | https://github.com/evelynmitchell/open-muse | https://github.com/huggingface/open-muse |
+| Faithful-COT | 2024-01-06 | Code and data accompanying our paper on arXiv "Faithful Chain-of-Thought Reasoning". | https://github.com/evelynmitchell/Faithful-COT | https://github.com/veronica320/Faithful-COT |
+| TinyLlama | 2024-01-05 | The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. | https://github.com/evelynmitchell/TinyLlama | https://github.com/jzhang38/TinyLlama |
+| laser-code | 2024-01-05 | The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction | https://github.com/evelynmitchell/laser-code | https://github.com/pratyushasharma/laser |
+| act-plus-plus | 2024-01-05 | Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN | https://github.com/evelynmitchell/act-plus-plus | https://github.com/MarkFzp/act-plus-plus |
+| mobile-aloha | 2024-01-05 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | https://github.com/evelynmitchell/mobile-aloha | https://github.com/MarkFzp/mobile-aloha |
+| Rust_algorithms | 2024-01-02 |  All Algorithms implemented in Rust  | https://github.com/evelynmitchell/Rust_algorithms | https://github.com/TheAlgorithms/Rust |
+| tch-rs | 2024-01-02 | Rust bindings for the C++ api of PyTorch. | https://github.com/evelynmitchell/tch-rs | https://github.com/LaurentMazare/tch-rs |
