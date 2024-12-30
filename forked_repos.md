@@ -91,6 +91,7 @@
 | chai-lab | 2024-09-09 | Chai-1, SOTA model for biomolecular structure prediction | https://github.com/evelynmitchell/chai-lab | https://github.com/chaidiscovery/chai-lab |
 | OpenHands | 2024-09-04 | 🙌 OpenHands: Code Less, Make More | https://github.com/evelynmitchell/OpenHands | https://github.com/All-Hands-AI/OpenHands |
 | AlphaFold3 | 2024-09-04 | Open source implementation of AlphaFold3 | https://github.com/evelynmitchell/AlphaFold3 | https://github.com/Ligo-Biosciences/AlphaFold3 |
+| ProteinFlow | 2024-09-04 | Versatile computational pipeline for processing protein structure data for deep learning applications. | https://github.com/evelynmitchell/ProteinFlow | https://github.com/adaptyvbio/ProteinFlow |
 | anthropic-quickstarts | 2024-09-04 | A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API | https://github.com/evelynmitchell/anthropic-quickstarts | https://github.com/anthropics/anthropic-quickstarts |
 | openaievals | 2024-09-01 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | https://github.com/evelynmitchell/openaievals | https://github.com/openai/evals |
 | Minitron | 2024-08-26 | A family of compressed models obtained via pruning and knowledge distillation | https://github.com/evelynmitchell/Minitron | https://github.com/NVlabs/Minitron |
@@ -210,6 +211,7 @@
 | kanrl | 2024-05-04 | Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments | https://github.com/evelynmitchell/kanrl | https://github.com/riiswa/kanrl |
 | GPT-Fathom | 2024-04-23 | [NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings. | https://github.com/evelynmitchell/GPT-Fathom | https://github.com/GPT-Fathom/GPT-Fathom |
 | codellama | 2024-04-21 | Inference code for CodeLlama models | https://github.com/evelynmitchell/codellama | https://github.com/meta-llama/codellama |
+| llamafile-convert_gguf_UI | 2024-04-19 | This GUI aims to simplify the process of converting GGUF files to llamafile format by providing an intuitive and convenient way for users to interact with the underlying conversion script. | https://github.com/evelynmitchell/llamafile-convert_gguf_UI | https://github.com/DjagbleyEmmanuel/llamafile-convert_gguf_UI |
 | recurrentgemma | 2024-04-13 | Open weights language model from Google DeepMind, based on Griffin. | https://github.com/evelynmitchell/recurrentgemma | https://github.com/google-deepmind/recurrentgemma |
 | open-eqa | 2024-04-13 | OpenEQA Embodied Question Answering in the Era of Foundation Models | https://github.com/evelynmitchell/open-eqa | https://github.com/facebookresearch/open-eqa |
 | open-gpu-kernel-modules | 2024-04-13 | NVIDIA Linux open GPU with P2P support | https://github.com/evelynmitchell/open-gpu-kernel-modules | https://github.com/tinygrad/open-gpu-kernel-modules |
@@ -230,15 +232,33 @@
 | AIOS | 2024-03-27 | AIOS: LLM Agent Operating System | https://github.com/evelynmitchell/AIOS | https://github.com/agiresearch/AIOS |
 | chronos-forecasting | 2024-03-25 | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting | https://github.com/evelynmitchell/chronos-forecasting | https://github.com/amazon-science/chronos-forecasting |
 | ib_async | 2024-03-19 | Python sync/async framework for Interactive Brokers API (replaces ib_insync) | https://github.com/evelynmitchell/ib_async | https://github.com/ib-api-reloaded/ib_async |
+| ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/evelynmitchell/ArxivPapers | https://github.com/imelnyk/ArxivPapers |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/evelynmitchell/aici | https://github.com/microsoft/aici |
 | evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evelynmitchell/evo | https://github.com/evo-design/evo |
+| RingAttention | 2024-02-20 | Transformers with Arbitrarily Large Context | https://github.com/evelynmitchell/RingAttention | https://github.com/haoliuhl/ringattention |
+| gpt_paper_assistant | 2024-02-18 | GPT4 based personalized ArXiv paper assistant bot | https://github.com/evelynmitchell/gpt_paper_assistant | https://github.com/tatsu-lab/gpt_paper_assistant |
+| SPIN | 2024-02-18 | The official implementation of Self-Play Fine-Tuning (SPIN) | https://github.com/evelynmitchell/SPIN | https://github.com/uclaml/SPIN |
+| universal_neural_functional | 2024-02-18 |  | https://github.com/evelynmitchell/universal_neural_functional | https://github.com/AllanYangZhou/universal_neural_functional |
+| FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/evelynmitchell/FRIDAY | https://github.com/OS-Copilot/OS-Copilot |
+| LESS | 2024-02-17 | Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning | https://github.com/evelynmitchell/LESS | https://github.com/princeton-nlp/LESS |
+| contrastors | 2024-02-16 | Train Models Contrastively in Pytorch | https://github.com/evelynmitchell/contrastors | https://github.com/nomic-ai/contrastors |
+| StableCascade | 2024-02-14 |  | https://github.com/evelynmitchell/StableCascade | https://github.com/Stability-AI/StableCascade |
 | prismatic-vlms | 2024-02-13 | A flexible and efficient codebase for training visually-conditioned language models (VLMs) | https://github.com/evelynmitchell/prismatic-vlms | https://github.com/TRI-ML/prismatic-vlms |
+| llama-cpp-wasm | 2024-02-13 | WebAssembly (Wasm) Build and Bindings for llama.cpp | https://github.com/evelynmitchell/llama-cpp-wasm | https://github.com/tangledgroup/llama-cpp-wasm |
+| awesome-ssm-ml | 2024-02-12 |  | https://github.com/evelynmitchell/awesome-ssm-ml | https://github.com/AvivBick/awesome-ssm-ml |
+| hulyplatform | 2024-02-12 | Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more | https://github.com/evelynmitchell/hulyplatform | https://github.com/hcengineering/platform |
+| OpenToM | 2024-02-12 | The official repository of the OpenToM dataset | https://github.com/evelynmitchell/OpenToM | https://github.com/seacowx/OpenToM |
 | tsmixer | 2024-02-11 | Time Series Mixer forecasting multivariate time series | https://github.com/evelynmitchell/tsmixer |  |
+| TensorRT | 2024-02-10 | NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. | https://github.com/evelynmitchell/TensorRT | https://github.com/NVIDIA/TensorRT |
+| ScalableVectorSearch | 2024-02-10 |  | https://github.com/evelynmitchell/ScalableVectorSearch | https://github.com/intel/ScalableVectorSearch |
+| gsplat | 2024-02-10 | CUDA accelerated rasterization of gaussian splatting | https://github.com/evelynmitchell/gsplat | https://github.com/nerfstudio-project/gsplat |
 | AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/evelynmitchell/AQLM | https://github.com/Vahe1994/AQLM |
 | cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/evelynmitchell/cleanrl | https://github.com/vwxyzjn/cleanrl |
 | tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/evelynmitchell/tsfm | https://github.com/ibm-granite/granite-tsfm |
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | https://github.com/evelynmitchell/TinyTimeMixers |  |
 | open-instruct | 2024-02-02 |  | https://github.com/evelynmitchell/open-instruct | https://github.com/allenai/open-instruct |
+| self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/evelynmitchell/self-rewarding-lm-pytorch | https://github.com/lucidrains/self-rewarding-lm-pytorch |
 | MyWay | 2024-01-19 |  | https://github.com/evelynmitchell/MyWay |  |
 | DimensionMixer | 2024-01-18 | Dimension Mixer model  | https://github.com/evelynmitchell/DimensionMixer |  |
 | spacedrepetition | 2024-01-15 |  | https://github.com/evelynmitchell/spacedrepetition |  |
+| llm-autoeval | 2024-01-10 | Automatically evaluate your LLMs in Google Colab | https://github.com/evelynmitchell/llm-autoeval | https://github.com/mlabonne/llm-autoeval |

@@ -801,6 +801,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "ProteinFlow",
+    "createdAt": "2024-09-04T14:30:26Z",
+    "description": "Versatile computational pipeline for processing protein structure data for deep learning applications.",
+    "url": "https://github.com/evelynmitchell/ProteinFlow",
+    "parent_url": "https://github.com/adaptyvbio/ProteinFlow",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "anthropic-quickstarts",
     "createdAt": "2024-09-04T01:51:13Z",
     "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API",
@@ -1872,6 +1881,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "llamafile-convert_gguf_UI",
+    "createdAt": "2024-04-19T00:02:44Z",
+    "description": "This GUI aims to simplify the process of converting GGUF files to llamafile format by providing an intuitive and convenient way for users to interact with the underlying conversion script.",
+    "url": "https://github.com/evelynmitchell/llamafile-convert_gguf_UI",
+    "parent_url": "https://github.com/DjagbleyEmmanuel/llamafile-convert_gguf_UI",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "recurrentgemma",
     "createdAt": "2024-04-13T02:09:21Z",
     "description": "Open weights language model from Google DeepMind, based on Griffin.",
@@ -2052,6 +2070,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "ArxivPapers",
+    "createdAt": "2024-03-17T01:57:05Z",
+    "description": "Code behind Arxiv Papers ",
+    "url": "https://github.com/evelynmitchell/ArxivPapers",
+    "parent_url": "https://github.com/imelnyk/ArxivPapers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "aici",
     "createdAt": "2024-03-11T20:00:35Z",
     "description": "AICI: Prompts as (Wasm) Programs",
@@ -2070,6 +2097,78 @@
     "repositoryTopics": null
   },
   {
+    "name": "RingAttention",
+    "createdAt": "2024-02-20T17:27:48Z",
+    "description": "Transformers with Arbitrarily Large Context",
+    "url": "https://github.com/evelynmitchell/RingAttention",
+    "parent_url": "https://github.com/haoliuhl/ringattention",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "gpt_paper_assistant",
+    "createdAt": "2024-02-18T23:20:33Z",
+    "description": "GPT4 based personalized ArXiv paper assistant bot",
+    "url": "https://github.com/evelynmitchell/gpt_paper_assistant",
+    "parent_url": "https://github.com/tatsu-lab/gpt_paper_assistant",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SPIN",
+    "createdAt": "2024-02-18T14:50:52Z",
+    "description": "The official implementation of Self-Play Fine-Tuning (SPIN)",
+    "url": "https://github.com/evelynmitchell/SPIN",
+    "parent_url": "https://github.com/uclaml/SPIN",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "universal_neural_functional",
+    "createdAt": "2024-02-18T00:29:00Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/universal_neural_functional",
+    "parent_url": "https://github.com/AllanYangZhou/universal_neural_functional",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "FRIDAY",
+    "createdAt": "2024-02-17T21:39:03Z",
+    "description": "An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks. ",
+    "url": "https://github.com/evelynmitchell/FRIDAY",
+    "parent_url": "https://github.com/OS-Copilot/OS-Copilot",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "LESS",
+    "createdAt": "2024-02-17T17:32:04Z",
+    "description": "Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning",
+    "url": "https://github.com/evelynmitchell/LESS",
+    "parent_url": "https://github.com/princeton-nlp/LESS",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "contrastors",
+    "createdAt": "2024-02-16T01:52:08Z",
+    "description": "Train Models Contrastively in Pytorch",
+    "url": "https://github.com/evelynmitchell/contrastors",
+    "parent_url": "https://github.com/nomic-ai/contrastors",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "StableCascade",
+    "createdAt": "2024-02-14T00:02:07Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/StableCascade",
+    "parent_url": "https://github.com/Stability-AI/StableCascade",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "prismatic-vlms",
     "createdAt": "2024-02-13T21:25:09Z",
     "description": "A flexible and efficient codebase for training visually-conditioned language models (VLMs)",
@@ -2079,11 +2178,74 @@
     "repositoryTopics": null
   },
   {
+    "name": "llama-cpp-wasm",
+    "createdAt": "2024-02-13T20:37:45Z",
+    "description": "WebAssembly (Wasm) Build and Bindings for llama.cpp",
+    "url": "https://github.com/evelynmitchell/llama-cpp-wasm",
+    "parent_url": "https://github.com/tangledgroup/llama-cpp-wasm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "awesome-ssm-ml",
+    "createdAt": "2024-02-12T22:01:23Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/awesome-ssm-ml",
+    "parent_url": "https://github.com/AvivBick/awesome-ssm-ml",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "hulyplatform",
+    "createdAt": "2024-02-12T18:22:30Z",
+    "description": "Huly Platform \u2014 All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more",
+    "url": "https://github.com/evelynmitchell/hulyplatform",
+    "parent_url": "https://github.com/hcengineering/platform",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "OpenToM",
+    "createdAt": "2024-02-12T17:21:51Z",
+    "description": "The official repository of the OpenToM dataset",
+    "url": "https://github.com/evelynmitchell/OpenToM",
+    "parent_url": "https://github.com/seacowx/OpenToM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "tsmixer",
     "createdAt": "2024-02-11T16:36:53Z",
     "description": "Time Series Mixer forecasting multivariate time series",
     "url": "https://github.com/evelynmitchell/tsmixer",
     "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TensorRT",
+    "createdAt": "2024-02-10T23:48:47Z",
+    "description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "url": "https://github.com/evelynmitchell/TensorRT",
+    "parent_url": "https://github.com/NVIDIA/TensorRT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ScalableVectorSearch",
+    "createdAt": "2024-02-10T01:48:36Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/ScalableVectorSearch",
+    "parent_url": "https://github.com/intel/ScalableVectorSearch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "gsplat",
+    "createdAt": "2024-02-10T01:23:49Z",
+    "description": "CUDA accelerated rasterization of gaussian splatting",
+    "url": "https://github.com/evelynmitchell/gsplat",
+    "parent_url": "https://github.com/nerfstudio-project/gsplat",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2133,6 +2295,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "self-rewarding-lm-pytorch",
+    "createdAt": "2024-01-22T21:41:11Z",
+    "description": "Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI",
+    "url": "https://github.com/evelynmitchell/self-rewarding-lm-pytorch",
+    "parent_url": "https://github.com/lucidrains/self-rewarding-lm-pytorch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "MyWay",
     "createdAt": "2024-01-19T19:02:52Z",
     "description": "",
@@ -2156,6 +2327,15 @@
     "description": "",
     "url": "https://github.com/evelynmitchell/spacedrepetition",
     "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "llm-autoeval",
+    "createdAt": "2024-01-10T02:07:23Z",
+    "description": "Automatically evaluate your LLMs in Google Colab",
+    "url": "https://github.com/evelynmitchell/llm-autoeval",
+    "parent_url": "https://github.com/mlabonne/llm-autoeval",
     "labels": [],
     "repositoryTopics": null
   }
