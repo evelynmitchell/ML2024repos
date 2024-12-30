@@ -112,22 +112,42 @@
 | OpenHands | 2024-09-04 | 🙌 OpenHands: Code Less, Make More | https://github.com/evelynmitchell/OpenHands | https://github.com/All-Hands-AI/OpenHands |
 | AlphaFold3 | 2024-09-04 | Open source implementation of AlphaFold3 | https://github.com/evelynmitchell/AlphaFold3 | https://github.com/Ligo-Biosciences/AlphaFold3 |
 | ProteinFlow | 2024-09-04 | Versatile computational pipeline for processing protein structure data for deep learning applications. | https://github.com/evelynmitchell/ProteinFlow | https://github.com/adaptyvbio/ProteinFlow |
+| ProteinFlow | 2024-09-04 | Versatile computational pipeline for processing protein structure data for deep learning applications. | https://github.com/evelynmitchell/ProteinFlow | https://github.com/adaptyvbio/ProteinFlow |
+| anthropic-quickstarts | 2024-09-04 | A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API | https://github.com/evelynmitchell/anthropic-quickstarts | https://github.com/anthropics/anthropic-quickstarts |
 | anthropic-quickstarts | 2024-09-04 | A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API | https://github.com/evelynmitchell/anthropic-quickstarts | https://github.com/anthropics/anthropic-quickstarts |
 | openaievals | 2024-09-01 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | https://github.com/evelynmitchell/openaievals | https://github.com/openai/evals |
+| openaievals | 2024-09-01 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | https://github.com/evelynmitchell/openaievals | https://github.com/openai/evals |
+| l2hmc-qcd | 2024-08-28 | Application of the L2HMC algorithm to simulations in lattice QCD. | https://github.com/evelynmitchell/l2hmc-qcd | https://github.com/saforem2/l2hmc-qcd |
+| Minitron | 2024-08-26 | A family of compressed models obtained via pruning and knowledge distillation | https://github.com/evelynmitchell/Minitron | https://github.com/NVlabs/Minitron |
 | Minitron | 2024-08-26 | A family of compressed models obtained via pruning and knowledge distillation | https://github.com/evelynmitchell/Minitron | https://github.com/NVlabs/Minitron |
 | dataset-viber | 2024-08-20 | Dataset Viber is your chill repo for data collection, annotation and vibe checks. | https://github.com/evelynmitchell/dataset-viber | https://github.com/davidberenstein1957/dataset-viber |
+| dataset-viber | 2024-08-20 | Dataset Viber is your chill repo for data collection, annotation and vibe checks. | https://github.com/evelynmitchell/dataset-viber | https://github.com/davidberenstein1957/dataset-viber |
+| ADAS | 2024-08-19 | Automated Design of Agentic Systems | https://github.com/evelynmitchell/ADAS | https://github.com/ShengranHu/ADAS |
 | ADAS | 2024-08-19 | Automated Design of Agentic Systems | https://github.com/evelynmitchell/ADAS | https://github.com/ShengranHu/ADAS |
 | distilabel | 2024-08-19 | Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. | https://github.com/evelynmitchell/distilabel | https://github.com/argilla-io/distilabel |
+| distilabel | 2024-08-19 | Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. | https://github.com/evelynmitchell/distilabel | https://github.com/argilla-io/distilabel |
+| ProxyCLIP | 2024-08-19 | [ECCV2024] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | https://github.com/evelynmitchell/ProxyCLIP | https://github.com/mc-lan/ProxyCLIP |
 | ProxyCLIP | 2024-08-19 | [ECCV2024] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | https://github.com/evelynmitchell/ProxyCLIP | https://github.com/mc-lan/ProxyCLIP |
 | OSWorld | 2024-08-19 | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | https://github.com/evelynmitchell/OSWorld | https://github.com/xlang-ai/OSWorld |
+| OSWorld | 2024-08-19 | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | https://github.com/evelynmitchell/OSWorld | https://github.com/xlang-ai/OSWorld |
 | ScribeWizard | 2024-08-17 | ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3 | https://github.com/evelynmitchell/ScribeWizard | https://github.com/Bklieger/ScribeWizard |
+| ScribeWizard | 2024-08-17 | ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3 | https://github.com/evelynmitchell/ScribeWizard | https://github.com/Bklieger/ScribeWizard |
+| threadPlotter | 2024-08-16 |  | https://github.com/evelynmitchell/threadPlotter | https://github.com/LiciaHe/threadPlotter |
+| ai-toolkit | 2024-08-16 | Various AI scripts. Mostly Stable Diffusion stuff. | https://github.com/evelynmitchell/ai-toolkit | https://github.com/ostris/ai-toolkit |
 | ai-toolkit | 2024-08-16 | Various AI scripts. Mostly Stable Diffusion stuff. | https://github.com/evelynmitchell/ai-toolkit | https://github.com/ostris/ai-toolkit |
 | duckdb | 2024-08-16 | DuckDB is an analytical in-process SQL database management system | https://github.com/evelynmitchell/duckdb | https://github.com/duckdb/duckdb |
+| duckdb | 2024-08-16 | DuckDB is an analytical in-process SQL database management system | https://github.com/evelynmitchell/duckdb | https://github.com/duckdb/duckdb |
+| Graph-CoT | 2024-08-15 | Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024) | https://github.com/evelynmitchell/Graph-CoT | https://github.com/PeterGriffinJin/Graph-CoT |
 | Graph-CoT | 2024-08-15 | Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024) | https://github.com/evelynmitchell/Graph-CoT | https://github.com/PeterGriffinJin/Graph-CoT |
 | OpenResearcher | 2024-08-15 |  | https://github.com/evelynmitchell/OpenResearcher | https://github.com/GAIR-NLP/OpenResearcher |
+| OpenResearcher | 2024-08-15 |  | https://github.com/evelynmitchell/OpenResearcher | https://github.com/GAIR-NLP/OpenResearcher |
+| LongWriter | 2024-08-15 | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | https://github.com/evelynmitchell/LongWriter | https://github.com/THUDM/LongWriter |
 | LongWriter | 2024-08-15 | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | https://github.com/evelynmitchell/LongWriter | https://github.com/THUDM/LongWriter |
 | multi-agent-concierge | 2024-08-15 |  | https://github.com/evelynmitchell/multi-agent-concierge | https://github.com/run-llama/multi-agent-concierge |
+| multi-agent-concierge | 2024-08-15 |  | https://github.com/evelynmitchell/multi-agent-concierge | https://github.com/run-llama/multi-agent-concierge |
 | Zamba2 | 2024-08-14 | PyTorch implementation of models from the Zamba2 series. | https://github.com/evelynmitchell/Zamba2 | https://github.com/Zyphra/Zamba2 |
+| Zamba2 | 2024-08-14 | PyTorch implementation of models from the Zamba2 series. | https://github.com/evelynmitchell/Zamba2 | https://github.com/Zyphra/Zamba2 |
+| DeepSeek-Math | 2024-08-14 | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models | https://github.com/evelynmitchell/DeepSeek-Math | https://github.com/deepseek-ai/DeepSeek-Math |
 | aiconfig | 2024-08-13 | AIConfig is a config-based framework to build generative AI applications. | https://github.com/evelynmitchell/aiconfig | https://github.com/lastmile-ai/aiconfig |
 | knitscape | 2024-08-12 | Knitscape is a chart-based design and simulation tool for knitting stitch patterns. | https://github.com/evelynmitchell/knitscape | https://github.com/knitscape/knitscape |
 | tree_attention | 2024-08-12 | Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters | https://github.com/evelynmitchell/tree_attention | https://github.com/Zyphra/tree_attention |
