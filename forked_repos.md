@@ -107,6 +107,7 @@
 | LongWriter | 2024-08-15 | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | https://github.com/evelynmitchell/LongWriter | https://github.com/THUDM/LongWriter |
 | multi-agent-concierge | 2024-08-15 |  | https://github.com/evelynmitchell/multi-agent-concierge | https://github.com/run-llama/multi-agent-concierge |
 | Zamba2 | 2024-08-14 | PyTorch implementation of models from the Zamba2 series. | https://github.com/evelynmitchell/Zamba2 | https://github.com/Zyphra/Zamba2 |
+| aiconfig | 2024-08-13 | AIConfig is a config-based framework to build generative AI applications. | https://github.com/evelynmitchell/aiconfig | https://github.com/lastmile-ai/aiconfig |
 | knitscape | 2024-08-12 | Knitscape is a chart-based design and simulation tool for knitting stitch patterns. | https://github.com/evelynmitchell/knitscape | https://github.com/knitscape/knitscape |
 | tree_attention | 2024-08-12 | Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters | https://github.com/evelynmitchell/tree_attention | https://github.com/Zyphra/tree_attention |
 | data-portraits | 2024-08-11 | Documenting large text datasets 🖼️ 📚 | https://github.com/evelynmitchell/data-portraits | https://github.com/ruyimarone/data-portraits |
@@ -145,6 +146,7 @@
 | tiptap | 2024-07-12 | The headless rich text editor framework for web artisans. | https://github.com/evelynmitchell/tiptap | https://github.com/ueberdosis/tiptap |
 | learn-generating-functions | 2024-07-12 | I blog about learning generating functions. | https://github.com/evelynmitchell/learn-generating-functions | https://github.com/jsh/learn-generating-functions |
 | jetson-containers | 2024-07-12 | Machine Learning Containers for NVIDIA Jetson and JetPack-L4T | https://github.com/evelynmitchell/jetson-containers | https://github.com/dusty-nv/jetson-containers |
+| contrastive_metrics | 2024-07-11 |  | https://github.com/evelynmitchell/contrastive_metrics | https://github.com/vivekmyers/contrastive_metrics |
 | twenty | 2024-07-10 | Building a modern alternative to Salesforce, powered by the community. | https://github.com/evelynmitchell/twenty | https://github.com/twentyhq/twenty |
 | ttt-lm-pytorch | 2024-07-08 | Official PyTorch implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States | https://github.com/evelynmitchell/ttt-lm-pytorch | https://github.com/test-time-training/ttt-lm-pytorch |
 | Depth-Anything-V2 | 2024-07-08 | Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation | https://github.com/evelynmitchell/Depth-Anything-V2 | https://github.com/DepthAnything/Depth-Anything-V2 |
@@ -159,33 +161,49 @@
 | LeanCopilot | 2024-06-30 | LLMs as Copilots for Theorem Proving in Lean | https://github.com/evelynmitchell/LeanCopilot | https://github.com/lean-dojo/LeanCopilot |
 | namviek | 2024-06-29 | The open-source project manager for tiny teams | https://github.com/evelynmitchell/namviek | https://github.com/hudy9x/namviek |
 | AgentGym | 2024-06-29 | Code and implementations for the paper "AgentGym: Evolving Large Language Model-based Agents across Diverse Environments" by Zhiheng Xi et al. | https://github.com/evelynmitchell/AgentGym | https://github.com/WooooDyy/AgentGym |
+| CodeR | 2024-06-29 |  | https://github.com/evelynmitchell/CodeR | https://github.com/NL2Code/CodeR |
 | shap | 2024-06-29 | A game theoretic approach to explain the output of any machine learning model. | https://github.com/evelynmitchell/shap | https://github.com/shap/shap |
 | mirage | 2024-06-27 | A multi-level tensor algebra superoptimizer | https://github.com/evelynmitchell/mirage | https://github.com/mirage-project/mirage |
 | ml-4m | 2024-06-26 | 4M: Massively Multimodal Masked Modeling | https://github.com/evelynmitchell/ml-4m | https://github.com/apple/ml-4m |
 | pgai | 2024-06-25 | Bring AI models closer to your PostgreSQL data | https://github.com/evelynmitchell/pgai | https://github.com/timescale/pgai |
+| bug-in-the-code-stack | 2024-06-24 | A new benchmark for measuring LLM's capability to detect bugs in large codebase. | https://github.com/evelynmitchell/bug-in-the-code-stack | https://github.com/HammingHQ/bug-in-the-code-stack |
 | MARS5-TTS | 2024-06-24 | MARS5 speech model (TTS) from CAMB.AI | https://github.com/evelynmitchell/MARS5-TTS | https://github.com/Camb-ai/MARS5-TTS |
 | MixEval | 2024-06-22 | The official evaluation suite and dynamic data release for MixEval. | https://github.com/evelynmitchell/MixEval | https://github.com/Psycoy/MixEval |
 | grokfast | 2024-06-22 | Official repository for the paper "Grokfast: Accelerated Grokking by Amplifying Slow Gradients" | https://github.com/evelynmitchell/grokfast | https://github.com/ironjr/grokfast |
 | nablaDFT | 2024-06-21 | nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset | https://github.com/evelynmitchell/nablaDFT | https://github.com/AIRI-Institute/nablaDFT |
 | inspect_ai | 2024-06-19 | Inspect: A framework for large language model evaluations | https://github.com/evelynmitchell/inspect_ai | https://github.com/UKGovernmentBEIS/inspect_ai |
 | goldfish-loss | 2024-06-19 | Official implementation of Goldfish Loss: Mitigating Memorization in Generative LLMs | https://github.com/evelynmitchell/goldfish-loss | https://github.com/ahans30/goldfish-loss |
+| Convolutional-KANs | 2024-06-18 | This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel. | https://github.com/evelynmitchell/Convolutional-KANs | https://github.com/AntonioTepsich/Convolutional-KANs |
 | audioseal | 2024-06-18 | Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector | https://github.com/evelynmitchell/audioseal | https://github.com/facebookresearch/audioseal |
 | gs-quant | 2024-06-18 | Python toolkit for quantitative finance | https://github.com/evelynmitchell/gs-quant | https://github.com/goldmansachs/gs-quant |
 | burr | 2024-06-17 | Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, persist, and execute on your own infrastructure. | https://github.com/evelynmitchell/burr | https://github.com/DAGWorks-Inc/burr |
 | fabric | 2024-06-17 | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. | https://github.com/evelynmitchell/fabric | https://github.com/danielmiessler/fabric |
 | MM-NIAH | 2024-06-17 | This is the official implementation of the paper "Needle In A Multimodal Haystack" | https://github.com/evelynmitchell/MM-NIAH | https://github.com/OpenGVLab/MM-NIAH |
 | schemathesis | 2024-06-16 | Supercharge your API testing, catch bugs, and ensure compliance | https://github.com/evelynmitchell/schemathesis | https://github.com/schemathesis/schemathesis |
+| Fredformer | 2024-06-16 |  | https://github.com/evelynmitchell/Fredformer | https://github.com/chenzRG/Fredformer |
+| fizzbee | 2024-06-14 | Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications | https://github.com/evelynmitchell/fizzbee | https://github.com/fizzbee-io/fizzbee |
 | LiveBench | 2024-06-14 | LiveBench: A Challenging, Contamination-Free LLM Benchmark | https://github.com/evelynmitchell/LiveBench | https://github.com/LiveBench/LiveBench |
 | swarms-evals | 2024-06-13 | Implementation of all the evals of the swarm evals for the swarm paper. | https://github.com/evelynmitchell/swarms-evals | https://github.com/The-Swarm-Corporation/swarms-evals |
 | DiscoPOP | 2024-06-13 | Code for Discovering Preference Optimization Algorithms with and for Large Language Models | https://github.com/evelynmitchell/DiscoPOP | https://github.com/luchris429/DiscoPOP |
+| posteriors | 2024-06-13 | Uncertainty quantification with PyTorch | https://github.com/evelynmitchell/posteriors | https://github.com/normal-computing/posteriors |
 | textgrad | 2024-06-12 | Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. | https://github.com/evelynmitchell/textgrad | https://github.com/zou-group/textgrad |
 | ARC-AGI | 2024-06-12 | The Abstraction and Reasoning Corpus | https://github.com/evelynmitchell/ARC-AGI | https://github.com/fchollet/ARC-AGI |
+| logfire | 2024-06-11 | Uncomplicated Observability for Python and beyond! 🪵🔥 | https://github.com/evelynmitchell/logfire | https://github.com/pydantic/logfire |
+| Husky-v1 | 2024-06-11 | Code for Husky, an open-source language agent that solves complex, multi-step reasoning tasks. Husky v1 addresses numerical, tabular and knowledge-based reasoning tasks. | https://github.com/evelynmitchell/Husky-v1 | https://github.com/agent-husky/Husky-v1 |
+| inspectus | 2024-06-11 | LLM Analytics | https://github.com/evelynmitchell/inspectus | https://github.com/labmlai/inspectus |
+| ShiftAddLLM | 2024-06-11 | ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization | https://github.com/evelynmitchell/ShiftAddLLM | https://github.com/GATECH-EIC/ShiftAddLLM |
+| Mixture-of-Swarms | 2024-06-10 |  | https://github.com/evelynmitchell/Mixture-of-Swarms |  |
+| matmulfreellm | 2024-06-09 | Implementation for MatMul-free LM. | https://github.com/evelynmitchell/matmulfreellm | https://github.com/ridgerchu/matmulfreellm |
 | or-tools | 2024-06-06 | Google's Operations Research tools: | https://github.com/evelynmitchell/or-tools | https://github.com/google/or-tools |
+| litellm | 2024-06-02 | Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs) | https://github.com/evelynmitchell/litellm | https://github.com/BerriAI/litellm |
 | firecrawl | 2024-05-25 | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API. | https://github.com/evelynmitchell/firecrawl | https://github.com/mendableai/firecrawl |
+| indexify | 2024-05-24 | A scalable realtime and continuous indexing and structured extraction engine for Unstructured Data to build Generative AI Applications | https://github.com/evelynmitchell/indexify | https://github.com/tensorlakeai/indexify |
+| langtrace | 2024-05-23 | Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊 | https://github.com/evelynmitchell/langtrace | https://github.com/Scale3-Labs/langtrace |
 | openfold | 2024-05-13 | Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2 | https://github.com/evelynmitchell/openfold | https://github.com/aqlaboratory/openfold |
 | ThunderKittens | 2024-05-13 | Tile primitives for speedy kernels | https://github.com/evelynmitchell/ThunderKittens | https://github.com/HazyResearch/ThunderKittens |
 | timesfm | 2024-05-11 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | https://github.com/evelynmitchell/timesfm | https://github.com/google-research/timesfm |
 | ollama | 2024-05-09 | Get up and running with Llama 3, Mistral, Gemma, and other large language models. | https://github.com/evelynmitchell/ollama | https://github.com/ollama/ollama |
+| efficient-kan | 2024-05-08 | An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). | https://github.com/evelynmitchell/efficient-kan | https://github.com/Blealtan/efficient-kan |
 | Sequoia | 2024-05-05 | scalable and robust tree-based speculative decoding algorithm | https://github.com/evelynmitchell/Sequoia | https://github.com/Infini-AI-Lab/Sequoia |
 | kanrl | 2024-05-04 | Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments | https://github.com/evelynmitchell/kanrl | https://github.com/riiswa/kanrl |
 | shouldersOfGiants.rs | 2024-04-08 | I have no idea what I'm doing , but llm.c in rust | https://github.com/evelynmitchell/shouldersOfGiants.rs |  |
@@ -198,7 +216,9 @@
 | prismatic-vlms | 2024-02-13 | A flexible and efficient codebase for training visually-conditioned language models (VLMs) | https://github.com/evelynmitchell/prismatic-vlms | https://github.com/TRI-ML/prismatic-vlms |
 | tsmixer | 2024-02-11 | Time Series Mixer forecasting multivariate time series | https://github.com/evelynmitchell/tsmixer |  |
 | AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/evelynmitchell/AQLM | https://github.com/Vahe1994/AQLM |
+| cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/evelynmitchell/cleanrl | https://github.com/vwxyzjn/cleanrl |
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | https://github.com/evelynmitchell/TinyTimeMixers |  |
+| open-instruct | 2024-02-02 |  | https://github.com/evelynmitchell/open-instruct | https://github.com/allenai/open-instruct |
 | MyWay | 2024-01-19 |  | https://github.com/evelynmitchell/MyWay |  |
 | DimensionMixer | 2024-01-18 | Dimension Mixer model  | https://github.com/evelynmitchell/DimensionMixer |  |
 | spacedrepetition | 2024-01-15 |  | https://github.com/evelynmitchell/spacedrepetition |  |
