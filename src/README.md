@@ -2,7 +2,17 @@
 
 This directory contains scripts for processing GitHub repositories and extracting their parent information.
 
-## Main Script: `process_repos.py`
+## Scripts
+
+### `process_repos_v2.py` (Recommended)
+
+This is the updated version of the script that uses the GitHub Repositories API instead of the Search API. This version:
+- Is more reliable as it doesn't depend on GitHub's search functionality
+- Can handle a larger number of repositories
+- Has better rate limiting and error handling
+- Provides more accurate repository counts
+
+### `process_repos.py` (Legacy)
 
 This script fetches repository information from GitHub, extracts parent URLs for forked repos, and updates both JSON and Markdown files with the information.
 
