@@ -3,23 +3,43 @@
 | Name | Created At | Description | URL | Parent URL |
 |------|------------|-------------|-----|------------|
 | ML2024repos | 2024-12-29 | Machine Learning in 2024 | https://github.com/evelynmitchell/ML2024repos |  |
+| ML2024repos | 2024-12-29 | Machine Learning in 2024 | https://github.com/evelynmitchell/ML2024repos |  |
+| SEAL-js | 2024-12-24 | Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication to media. | https://github.com/evelynmitchell/SEAL-js | https://github.com/bgon/SEAL-js |
 | SEAL-js | 2024-12-24 | Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication to media. | https://github.com/evelynmitchell/SEAL-js | https://github.com/bgon/SEAL-js |
 | llm-consortium | 2024-12-22 | llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus. | https://github.com/evelynmitchell/llm-consortium | https://github.com/irthomasthomas/llm-consortium |
+| llm-consortium | 2024-12-22 | llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus. | https://github.com/evelynmitchell/llm-consortium | https://github.com/irthomasthomas/llm-consortium |
+| Genesis | 2024-12-20 | A generative world for general-purpose robotics & embodied AI learning. | https://github.com/evelynmitchell/Genesis | https://github.com/Genesis-Embodied-AI/Genesis |
 | Genesis | 2024-12-20 | A generative world for general-purpose robotics & embodied AI learning. | https://github.com/evelynmitchell/Genesis | https://github.com/Genesis-Embodied-AI/Genesis |
 | AgentHands | 2024-12-20 | OpenHands Agents | https://github.com/evelynmitchell/AgentHands |  |
+| AgentHands | 2024-12-20 | OpenHands Agents | https://github.com/evelynmitchell/AgentHands |  |
+| TheAgentCompany | 2024-12-19 | An agent benchmark with tasks in a simulated software company. | https://github.com/evelynmitchell/TheAgentCompany | https://github.com/TheAgentCompany/TheAgentCompany |
 | TheAgentCompany | 2024-12-19 | An agent benchmark with tasks in a simulated software company. | https://github.com/evelynmitchell/TheAgentCompany | https://github.com/TheAgentCompany/TheAgentCompany |
 | EXA-1 | 2024-12-19 | An EXA-Scale repository of Multi-Modality AI resources from papers and models, to foundational libraries! | https://github.com/evelynmitchell/EXA-1 | https://github.com/kyegomez/EXA-1 |
+| EXA-1 | 2024-12-19 | An EXA-Scale repository of Multi-Modality AI resources from papers and models, to foundational libraries! | https://github.com/evelynmitchell/EXA-1 | https://github.com/kyegomez/EXA-1 |
+| PAE | 2024-12-18 |  | https://github.com/evelynmitchell/PAE | https://github.com/amazon-science/PAE |
 | PAE | 2024-12-18 |  | https://github.com/evelynmitchell/PAE | https://github.com/amazon-science/PAE |
 | Godel_Agent | 2024-12-17 | Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement | https://github.com/evelynmitchell/Godel_Agent | https://github.com/Arvid-pku/Godel_Agent |
+| Godel_Agent | 2024-12-17 | Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement | https://github.com/evelynmitchell/Godel_Agent | https://github.com/Arvid-pku/Godel_Agent |
+| pysa-action | 2024-12-17 | GitHub Action for Pysa | https://github.com/evelynmitchell/pysa-action | https://github.com/facebook/pysa-action |
 | pysa-action | 2024-12-17 | GitHub Action for Pysa | https://github.com/evelynmitchell/pysa-action | https://github.com/facebook/pysa-action |
 | evalica | 2024-12-17 | Evalica, your favourite evaluation toolkit | https://github.com/evelynmitchell/evalica | https://github.com/dustalov/evalica |
+| evalica | 2024-12-17 | Evalica, your favourite evaluation toolkit | https://github.com/evelynmitchell/evalica | https://github.com/dustalov/evalica |
+| tidybot2 | 2024-12-17 | TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning | https://github.com/evelynmitchell/tidybot2 | https://github.com/jimmyyhwu/tidybot2 |
 | tidybot2 | 2024-12-17 | TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning | https://github.com/evelynmitchell/tidybot2 | https://github.com/jimmyyhwu/tidybot2 |
 | garak | 2024-12-16 | the LLM vulnerability scanner | https://github.com/evelynmitchell/garak | https://github.com/NVIDIA/garak |
+| garak | 2024-12-16 | the LLM vulnerability scanner | https://github.com/evelynmitchell/garak | https://github.com/NVIDIA/garak |
+| blt | 2024-12-16 | Code for BLT research paper | https://github.com/evelynmitchell/blt | https://github.com/facebookresearch/blt |
 | blt | 2024-12-16 | Code for BLT research paper | https://github.com/evelynmitchell/blt | https://github.com/facebookresearch/blt |
 | large_concept_model | 2024-12-14 | Large Concept Models: Language modeling in a sentence representation space | https://github.com/evelynmitchell/large_concept_model | https://github.com/facebookresearch/large_concept_model |
+| large_concept_model | 2024-12-14 | Large Concept Models: Language modeling in a sentence representation space | https://github.com/evelynmitchell/large_concept_model | https://github.com/facebookresearch/large_concept_model |
 | ExploreToM | 2024-12-14 | Code for TrackTheMind | https://github.com/evelynmitchell/ExploreToM | https://github.com/facebookresearch/ExploreToM |
+| ExploreToM | 2024-12-14 | Code for TrackTheMind | https://github.com/evelynmitchell/ExploreToM | https://github.com/facebookresearch/ExploreToM |
+| fmx | 2024-12-14 | Conditional Flow Matching using JAX | https://github.com/evelynmitchell/fmx | https://github.com/albcab/fmx |
+| writer-framework | 2024-12-13 | No-code in the front, Python in the back. An open-source framework for creating data apps. | https://github.com/evelynmitchell/writer-framework | https://github.com/writer/writer-framework |
 | writer-framework | 2024-12-13 | No-code in the front, Python in the back. An open-source framework for creating data apps. | https://github.com/evelynmitchell/writer-framework | https://github.com/writer/writer-framework |
 | multi-agent-orchestrator | 2024-12-13 | Flexible and powerful framework for managing multiple AI agents and handling complex conversations | https://github.com/evelynmitchell/multi-agent-orchestrator | https://github.com/awslabs/multi-agent-orchestrator |
+| multi-agent-orchestrator | 2024-12-13 | Flexible and powerful framework for managing multiple AI agents and handling complex conversations | https://github.com/evelynmitchell/multi-agent-orchestrator | https://github.com/awslabs/multi-agent-orchestrator |
+| openai-python | 2024-12-11 | The official Python library for the OpenAI API | https://github.com/evelynmitchell/openai-python | https://github.com/openai/openai-python |
 | openai-python | 2024-12-11 | The official Python library for the OpenAI API | https://github.com/evelynmitchell/openai-python | https://github.com/openai/openai-python |
 | HyperFL | 2024-12-11 | A New Federated Learning Framework Against Gradient Inversion Attacks [AAAI 2025]. | https://github.com/evelynmitchell/HyperFL | https://github.com/Pengxin-Guo/HyperFL |
 | GraPE | 2024-12-11 | Official Codebase for GraPE: https://arxiv.org/abs/2412.06089 | https://github.com/evelynmitchell/GraPE | https://github.com/dair-iitd/GraPE |
