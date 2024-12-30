@@ -156,8 +156,9 @@ def main():
     """Main function to run the repository processing."""
     parser = argparse.ArgumentParser(description='Process GitHub repositories and extract parent information.')
     parser.add_argument('--page', type=int, default=1, help='Page number to process')
-    parser.add_argument('--batch-size', type=int, default=None, help='Number of repos to process per batch')
+    parser.add_argument('--batch-size', type=int, default=20, help='Number of repos to process per batch')
     parser.add_argument('--output-dir', default='/workspace/ML2024repos', help='Output directory')
+    parser.add_argument('--dry-run', action='store_true', help='Only show what would be processed without making changes')
     
     args = parser.parse_args()
     
@@ -180,6 +181,17 @@ def main():
     
     if not found_2024:
         print("\nNo repositories from 2024 found on this page.")
+        return
+    
+    print(f"\nFound {len(processed_repos)} repositories from 2024 on page {args.page}")
+    
+    if args.dry_run:
+        print("\nDry run - would process these repositories:")
+        for repo in processed_repos:
+            print(f"- {repo['name']}")
+            print(f"  Created: {repo['createdAt'][:10]}")
+            print(f"  URL: {repo['url']}")
+            print(f"  Parent: {repo['parent_url']}")
         return
     
     # Update files
