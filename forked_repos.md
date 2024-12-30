@@ -135,6 +135,7 @@
 | k8smanager | 2024-07-22 | Autonomic computing 2407.14402 | https://github.com/evelynmitchell/k8smanager |  |
 | OgbujiPT | 2024-07-22 | Client-side toolkit for using large language models, including where self-hosted | https://github.com/evelynmitchell/OgbujiPT | https://github.com/OoriData/OgbujiPT |
 | PlanRAG | 2024-07-20 | Repository for “PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers”, NAACL24 | https://github.com/evelynmitchell/PlanRAG | https://github.com/myeon9h/PlanRAG |
+| northwind-mongo | 2024-07-20 | Northwind dumped to MongoDB | https://github.com/evelynmitchell/northwind-mongo | https://github.com/tmcnab/northwind-mongo |
 | LLaMA-Factory | 2024-07-19 | A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024) | https://github.com/evelynmitchell/LLaMA-Factory | https://github.com/hiyouga/LLaMA-Factory |
 | storm | 2024-07-19 | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | https://github.com/evelynmitchell/storm | https://github.com/stanford-oval/storm |
 | Streamlit_practice_oso | 2024-07-18 |  | https://github.com/evelynmitchell/Streamlit_practice_oso | https://github.com/OSOSerious/Streamlit_practice |
@@ -207,8 +208,10 @@
 | timesfm | 2024-05-11 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | https://github.com/evelynmitchell/timesfm | https://github.com/google-research/timesfm |
 | ollama | 2024-05-09 | Get up and running with Llama 3, Mistral, Gemma, and other large language models. | https://github.com/evelynmitchell/ollama | https://github.com/ollama/ollama |
 | efficient-kan | 2024-05-08 | An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). | https://github.com/evelynmitchell/efficient-kan | https://github.com/Blealtan/efficient-kan |
+| order-embedding | 2024-05-06 | Implementation of caption-image retrieval from the paper "Order-Embeddings of Images and Language" | https://github.com/evelynmitchell/order-embedding | https://github.com/ivendrov/order-embedding |
 | Sequoia | 2024-05-05 | scalable and robust tree-based speculative decoding algorithm | https://github.com/evelynmitchell/Sequoia | https://github.com/Infini-AI-Lab/Sequoia |
 | kanrl | 2024-05-04 | Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments | https://github.com/evelynmitchell/kanrl | https://github.com/riiswa/kanrl |
+| cuda-convnet | 2024-05-03 | Alex Krizhevsky's original code from Google Code | https://github.com/evelynmitchell/cuda-convnet | https://github.com/ulrichstern/cuda-convnet |
 | GPT-Fathom | 2024-04-23 | [NAACL'24 Findings] GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings. | https://github.com/evelynmitchell/GPT-Fathom | https://github.com/GPT-Fathom/GPT-Fathom |
 | codellama | 2024-04-21 | Inference code for CodeLlama models | https://github.com/evelynmitchell/codellama | https://github.com/meta-llama/codellama |
 | llamafile-convert_gguf_UI | 2024-04-19 | This GUI aims to simplify the process of converting GGUF files to llamafile format by providing an intuitive and convenient way for users to interact with the underlying conversion script. | https://github.com/evelynmitchell/llamafile-convert_gguf_UI | https://github.com/DjagbleyEmmanuel/llamafile-convert_gguf_UI |
@@ -232,6 +235,7 @@
 | AIOS | 2024-03-27 | AIOS: LLM Agent Operating System | https://github.com/evelynmitchell/AIOS | https://github.com/agiresearch/AIOS |
 | chronos-forecasting | 2024-03-25 | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting | https://github.com/evelynmitchell/chronos-forecasting | https://github.com/amazon-science/chronos-forecasting |
 | ib_async | 2024-03-19 | Python sync/async framework for Interactive Brokers API (replaces ib_insync) | https://github.com/evelynmitchell/ib_async | https://github.com/ib-api-reloaded/ib_async |
+| structureshrink | 2024-03-18 | Structured shrinking of unknown file formats | https://github.com/evelynmitchell/structureshrink | https://github.com/DRMacIver/structureshrink |
 | ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/evelynmitchell/ArxivPapers | https://github.com/imelnyk/ArxivPapers |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/evelynmitchell/aici | https://github.com/microsoft/aici |
 | evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evelynmitchell/evo | https://github.com/evo-design/evo |
