@@ -1197,6 +1197,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "northwind-mongo",
+    "createdAt": "2024-07-20T00:44:38Z",
+    "description": "Northwind dumped to MongoDB",
+    "url": "https://github.com/evelynmitchell/northwind-mongo",
+    "parent_url": "https://github.com/tmcnab/northwind-mongo",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "LLaMA-Factory",
     "createdAt": "2024-07-19T22:03:02Z",
     "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
@@ -1845,6 +1854,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "order-embedding",
+    "createdAt": "2024-05-06T15:56:52Z",
+    "description": "Implementation of caption-image retrieval from the paper \"Order-Embeddings of Images and Language\"",
+    "url": "https://github.com/evelynmitchell/order-embedding",
+    "parent_url": "https://github.com/ivendrov/order-embedding",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "Sequoia",
     "createdAt": "2024-05-05T15:50:05Z",
     "description": "scalable and robust tree-based speculative decoding algorithm",
@@ -1859,6 +1877,15 @@
     "description": "Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments",
     "url": "https://github.com/evelynmitchell/kanrl",
     "parent_url": "https://github.com/riiswa/kanrl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "cuda-convnet",
+    "createdAt": "2024-05-03T23:41:46Z",
+    "description": "Alex Krizhevsky's original code from Google Code",
+    "url": "https://github.com/evelynmitchell/cuda-convnet",
+    "parent_url": "https://github.com/ulrichstern/cuda-convnet",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2066,6 +2093,15 @@
     "description": "Python sync/async framework for Interactive Brokers API (replaces ib_insync)",
     "url": "https://github.com/evelynmitchell/ib_async",
     "parent_url": "https://github.com/ib-api-reloaded/ib_async",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "structureshrink",
+    "createdAt": "2024-03-18T23:45:56Z",
+    "description": "Structured shrinking of unknown file formats",
+    "url": "https://github.com/evelynmitchell/structureshrink",
+    "parent_url": "https://github.com/DRMacIver/structureshrink",
     "labels": [],
     "repositoryTopics": null
   },
