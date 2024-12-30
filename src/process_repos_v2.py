@@ -22,17 +22,30 @@ class GitHubAPI:
         self.base_url = 'https://api.github.com'
 
     def _make_request(self, url: str, params: Optional[Dict] = None, max_retries: int = 3) -> Optional[Dict]:
-        """Make a request to GitHub API with retries."""
+        """Make a request to GitHub API with retries and rate limiting."""
         for attempt in range(max_retries):
             try:
-                response = requests.get(url, headers=self.headers, params=params, timeout=10)
+                response = requests.get(url, headers=self.headers, params=params, timeout=30)
+                
+                # Check for rate limiting
+                remaining = int(response.headers.get('X-RateLimit-Remaining', 0))
+                if remaining < 10:
+                    reset_time = int(response.headers.get('X-RateLimit-Reset', 0))
+                    wait_time = max(reset_time - time.time(), 0)
+                    print(f"\nRate limit low ({remaining} remaining). Waiting {wait_time:.0f} seconds...")
+                    time.sleep(wait_time + 1)
+                
                 response.raise_for_status()
                 return response.json()
+            except requests.exceptions.Timeout:
+                print(f"Timeout on attempt {attempt + 1}/{max_retries}. Retrying...")
+                time.sleep(5 * (attempt + 1))  # Exponential backoff
             except Exception as e:
                 if attempt == max_retries - 1:
                     print(f"Error after {max_retries} attempts: {e}")
                     return None
-                time.sleep(2)
+                print(f"Error on attempt {attempt + 1}/{max_retries}: {e}. Retrying...")
+                time.sleep(2 * (attempt + 1))  # Exponential backoff
         return None
 
     def get_repos_page(self, page: int = 1, per_page: int = 100) -> List[Dict]:
@@ -116,7 +129,11 @@ class RepoProcessor:
                 "repositoryTopics": None
             }
             processed_repos.append(repo_info)
-            time.sleep(1)  # Rate limiting
+            # Add a small delay between requests to avoid hitting rate limits
+            if i % 10 == 0:  # Add a longer delay every 10 requests
+                time.sleep(2)
+            else:
+                time.sleep(0.5)
             
         return processed_repos, found_2024_repos
 
