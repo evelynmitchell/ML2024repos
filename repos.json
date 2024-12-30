@@ -945,6 +945,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "aiconfig",
+    "createdAt": "2024-08-13T16:26:50Z",
+    "description": "AIConfig is a config-based framework to build generative AI applications.",
+    "url": "https://github.com/evelynmitchell/aiconfig",
+    "parent_url": "https://github.com/lastmile-ai/aiconfig",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "knitscape",
     "createdAt": "2024-08-12T14:21:34Z",
     "description": "Knitscape is a chart-based design and simulation tool for knitting stitch patterns.",
@@ -1287,6 +1296,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "contrastive_metrics",
+    "createdAt": "2024-07-11T14:38:04Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/contrastive_metrics",
+    "parent_url": "https://github.com/vivekmyers/contrastive_metrics",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "twenty",
     "createdAt": "2024-07-10T23:50:45Z",
     "description": "Building a modern alternative to Salesforce, powered by the community.",
@@ -1413,6 +1431,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "CodeR",
+    "createdAt": "2024-06-29T23:39:31Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/CodeR",
+    "parent_url": "https://github.com/NL2Code/CodeR",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "shap",
     "createdAt": "2024-06-29T23:36:49Z",
     "description": "A game theoretic approach to explain the output of any machine learning model.",
@@ -1445,6 +1472,15 @@
     "description": "Bring AI models closer to your PostgreSQL data",
     "url": "https://github.com/evelynmitchell/pgai",
     "parent_url": "https://github.com/timescale/pgai",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "bug-in-the-code-stack",
+    "createdAt": "2024-06-24T21:29:03Z",
+    "description": "A new benchmark for measuring LLM's capability to detect bugs in large codebase.",
+    "url": "https://github.com/evelynmitchell/bug-in-the-code-stack",
+    "parent_url": "https://github.com/HammingHQ/bug-in-the-code-stack",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1503,6 +1539,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "Convolutional-KANs",
+    "createdAt": "2024-06-18T19:11:23Z",
+    "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.",
+    "url": "https://github.com/evelynmitchell/Convolutional-KANs",
+    "parent_url": "https://github.com/AntonioTepsich/Convolutional-KANs",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "audioseal",
     "createdAt": "2024-06-18T18:21:36Z",
     "description": "Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector",
@@ -1557,6 +1602,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "Fredformer",
+    "createdAt": "2024-06-16T00:59:44Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/Fredformer",
+    "parent_url": "https://github.com/chenzRG/Fredformer",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fizzbee",
+    "createdAt": "2024-06-14T20:02:13Z",
+    "description": "Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications",
+    "url": "https://github.com/evelynmitchell/fizzbee",
+    "parent_url": "https://github.com/fizzbee-io/fizzbee",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "LiveBench",
     "createdAt": "2024-06-14T01:23:24Z",
     "description": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
@@ -1584,6 +1647,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "posteriors",
+    "createdAt": "2024-06-13T17:05:08Z",
+    "description": "Uncertainty quantification with PyTorch",
+    "url": "https://github.com/evelynmitchell/posteriors",
+    "parent_url": "https://github.com/normal-computing/posteriors",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "textgrad",
     "createdAt": "2024-06-12T13:41:34Z",
     "description": "Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients.",
@@ -1602,6 +1674,60 @@
     "repositoryTopics": null
   },
   {
+    "name": "logfire",
+    "createdAt": "2024-06-11T23:10:23Z",
+    "description": "Uncomplicated Observability for Python and beyond! \ud83e\udeb5\ud83d\udd25",
+    "url": "https://github.com/evelynmitchell/logfire",
+    "parent_url": "https://github.com/pydantic/logfire",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Husky-v1",
+    "createdAt": "2024-06-11T22:25:28Z",
+    "description": "Code for Husky, an open-source language agent that solves complex, multi-step reasoning tasks. Husky v1 addresses numerical, tabular and knowledge-based reasoning tasks.",
+    "url": "https://github.com/evelynmitchell/Husky-v1",
+    "parent_url": "https://github.com/agent-husky/Husky-v1",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "inspectus",
+    "createdAt": "2024-06-11T18:49:23Z",
+    "description": "LLM Analytics",
+    "url": "https://github.com/evelynmitchell/inspectus",
+    "parent_url": "https://github.com/labmlai/inspectus",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ShiftAddLLM",
+    "createdAt": "2024-06-11T13:45:02Z",
+    "description": "ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization",
+    "url": "https://github.com/evelynmitchell/ShiftAddLLM",
+    "parent_url": "https://github.com/GATECH-EIC/ShiftAddLLM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Mixture-of-Swarms",
+    "createdAt": "2024-06-10T20:27:11Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/Mixture-of-Swarms",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "matmulfreellm",
+    "createdAt": "2024-06-09T18:20:11Z",
+    "description": "Implementation for MatMul-free LM.",
+    "url": "https://github.com/evelynmitchell/matmulfreellm",
+    "parent_url": "https://github.com/ridgerchu/matmulfreellm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "or-tools",
     "createdAt": "2024-06-06T16:46:51Z",
     "description": "Google's Operations Research tools:",
@@ -1611,11 +1737,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "litellm",
+    "createdAt": "2024-06-02T23:35:48Z",
+    "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+    "url": "https://github.com/evelynmitchell/litellm",
+    "parent_url": "https://github.com/BerriAI/litellm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "firecrawl",
     "createdAt": "2024-05-25T02:40:53Z",
     "description": "\ud83d\udd25 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
     "url": "https://github.com/evelynmitchell/firecrawl",
     "parent_url": "https://github.com/mendableai/firecrawl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "indexify",
+    "createdAt": "2024-05-24T00:23:13Z",
+    "description": "A scalable realtime and continuous indexing and structured extraction engine for Unstructured Data to build Generative AI Applications",
+    "url": "https://github.com/evelynmitchell/indexify",
+    "parent_url": "https://github.com/tensorlakeai/indexify",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "langtrace",
+    "createdAt": "2024-05-23T01:35:34Z",
+    "description": "Langtrace \ud83d\udd0d is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. \ud83d\ude80\ud83d\udcbb\ud83d\udcca",
+    "url": "https://github.com/evelynmitchell/langtrace",
+    "parent_url": "https://github.com/Scale3-Labs/langtrace",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1652,6 +1805,15 @@
     "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
     "url": "https://github.com/evelynmitchell/ollama",
     "parent_url": "https://github.com/ollama/ollama",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "efficient-kan",
+    "createdAt": "2024-05-08T17:56:19Z",
+    "description": "An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).",
+    "url": "https://github.com/evelynmitchell/efficient-kan",
+    "parent_url": "https://github.com/Blealtan/efficient-kan",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1764,11 +1926,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "cleanrl",
+    "createdAt": "2024-02-04T20:51:21Z",
+    "description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+    "url": "https://github.com/evelynmitchell/cleanrl",
+    "parent_url": "https://github.com/vwxyzjn/cleanrl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "TinyTimeMixers",
     "createdAt": "2024-02-02T20:11:08Z",
     "description": "Tiny Time Mixers - a time series model 2401.03955",
     "url": "https://github.com/evelynmitchell/TinyTimeMixers",
     "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "open-instruct",
+    "createdAt": "2024-02-02T17:17:15Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/open-instruct",
+    "parent_url": "https://github.com/allenai/open-instruct",
     "labels": [],
     "repositoryTopics": null
   },
