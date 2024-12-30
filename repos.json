@@ -1872,6 +1872,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "bug-in-the-code-stack",
+    "createdAt": "2024-06-24T21:29:03Z",
+    "description": "A new benchmark for measuring LLM's capability to detect bugs in large codebase.",
+    "url": "https://github.com/evelynmitchell/bug-in-the-code-stack",
+    "parent_url": "https://github.com/HammingHQ/bug-in-the-code-stack",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AI-Feynman",
+    "createdAt": "2024-06-24T21:13:36Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/AI-Feynman",
+    "parent_url": "https://github.com/SJ001/AI-Feynman",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "MARS5-TTS",
     "createdAt": "2024-06-24T20:59:35Z",
     "description": "MARS5 speech model (TTS) from CAMB.AI",
@@ -1881,11 +1899,83 @@
     "repositoryTopics": null
   },
   {
+    "name": "MARS5-TTS",
+    "createdAt": "2024-06-24T20:59:35Z",
+    "description": "MARS5 speech model (TTS) from CAMB.AI",
+    "url": "https://github.com/evelynmitchell/MARS5-TTS",
+    "parent_url": "https://github.com/Camb-ai/MARS5-TTS",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "latex_templates",
+    "createdAt": "2024-06-24T20:30:46Z",
+    "description": "Prof. S. Boyd's LaTeX Templates",
+    "url": "https://github.com/evelynmitchell/latex_templates",
+    "parent_url": "https://github.com/michaelchanwahyan/latex_templates",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "dtv",
+    "createdAt": "2024-06-24T02:04:46Z",
+    "description": "The official code release for Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization",
+    "url": "https://github.com/evelynmitchell/dtv",
+    "parent_url": "https://github.com/jinpz/dtv",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "notes",
+    "createdAt": "2024-06-24T00:24:20Z",
+    "description": "simple CLI notes-app, for quick-reference on the fly, like TLDR, CHEAT or MAN PAGES, but with your own entries for faster lookup.",
+    "url": "https://github.com/evelynmitchell/notes",
+    "parent_url": "https://github.com/Scotchman0/notes",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "MixEval",
     "createdAt": "2024-06-22T21:09:13Z",
     "description": "The official evaluation suite and dynamic data release for MixEval.",
     "url": "https://github.com/evelynmitchell/MixEval",
     "parent_url": "https://github.com/Psycoy/MixEval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MixEval",
+    "createdAt": "2024-06-22T21:09:13Z",
+    "description": "The official evaluation suite and dynamic data release for MixEval.",
+    "url": "https://github.com/evelynmitchell/MixEval",
+    "parent_url": "https://github.com/Psycoy/MixEval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "cliffordlayers",
+    "createdAt": "2024-06-22T16:27:23Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/cliffordlayers",
+    "parent_url": "https://github.com/microsoft/cliffordlayers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Triton-Puzzles",
+    "createdAt": "2024-06-22T16:22:48Z",
+    "description": "Puzzles for learning Triton",
+    "url": "https://github.com/evelynmitchell/Triton-Puzzles",
+    "parent_url": "https://github.com/srush/Triton-Puzzles",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "grokfast",
+    "createdAt": "2024-06-22T13:06:11Z",
+    "description": "Official repository for the paper \"Grokfast: Accelerated Grokking by Amplifying Slow Gradients\"",
+    "url": "https://github.com/evelynmitchell/grokfast",
+    "parent_url": "https://github.com/ironjr/grokfast",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1908,6 +1998,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "nablaDFT",
+    "createdAt": "2024-06-21T20:42:14Z",
+    "description": "nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset",
+    "url": "https://github.com/evelynmitchell/nablaDFT",
+    "parent_url": "https://github.com/AIRI-Institute/nablaDFT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "inspect_ai",
     "createdAt": "2024-06-19T20:28:52Z",
     "description": "Inspect: A framework for large language model evaluations",
@@ -1917,11 +2016,65 @@
     "repositoryTopics": null
   },
   {
+    "name": "inspect_ai",
+    "createdAt": "2024-06-19T20:28:52Z",
+    "description": "Inspect: A framework for large language model evaluations",
+    "url": "https://github.com/evelynmitchell/inspect_ai",
+    "parent_url": "https://github.com/UKGovernmentBEIS/inspect_ai",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "stitch-by-stitch",
+    "createdAt": "2024-06-19T18:53:44Z",
+    "description": "Code and Data for \"Programming mechanics in knitted materials, stitch by stitch\"",
+    "url": "https://github.com/evelynmitchell/stitch-by-stitch",
+    "parent_url": "https://github.com/sabetta/stitch-by-stitch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "goldfish-loss",
     "createdAt": "2024-06-19T17:06:24Z",
     "description": "Official implementation of Goldfish Loss: Mitigating Memorization in Generative LLMs",
     "url": "https://github.com/evelynmitchell/goldfish-loss",
     "parent_url": "https://github.com/ahans30/goldfish-loss",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "goldfish-loss",
+    "createdAt": "2024-06-19T17:06:24Z",
+    "description": "Official implementation of Goldfish Loss: Mitigating Memorization in Generative LLMs",
+    "url": "https://github.com/evelynmitchell/goldfish-loss",
+    "parent_url": "https://github.com/ahans30/goldfish-loss",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "notation",
+    "createdAt": "2024-06-18T20:16:02Z",
+    "description": "Collection of quotes on notation design & how it affects thought.",
+    "url": "https://github.com/evelynmitchell/notation",
+    "parent_url": "https://github.com/kai-qu/notation",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ProtTrans",
+    "createdAt": "2024-06-18T19:14:08Z",
+    "description": "ProtTrans is providing state of the art pretrained language models for proteins. ProtTrans was trained on thousands of GPUs from Summit and hundreds of Google TPUs using Transformers Models.",
+    "url": "https://github.com/evelynmitchell/ProtTrans",
+    "parent_url": "https://github.com/agemagician/ProtTrans",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Convolutional-KANs",
+    "createdAt": "2024-06-18T19:11:23Z",
+    "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.",
+    "url": "https://github.com/evelynmitchell/Convolutional-KANs",
+    "parent_url": "https://github.com/AntonioTepsich/Convolutional-KANs",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1940,6 +2093,33 @@
     "description": "Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector",
     "url": "https://github.com/evelynmitchell/audioseal",
     "parent_url": "https://github.com/facebookresearch/audioseal",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "audioseal",
+    "createdAt": "2024-06-18T18:21:36Z",
+    "description": "Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector",
+    "url": "https://github.com/evelynmitchell/audioseal",
+    "parent_url": "https://github.com/facebookresearch/audioseal",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "evalverse-IFEval",
+    "createdAt": "2024-06-18T17:44:07Z",
+    "description": "Submodule of evalverse forked from [google-research/instruction_following_eval](https://github.com/google-research/google-research/tree/master/instruction_following_eval)",
+    "url": "https://github.com/evelynmitchell/evalverse-IFEval",
+    "parent_url": "https://github.com/UpstageAI/evalverse-IFEval",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "gs-quant",
+    "createdAt": "2024-06-18T00:59:16Z",
+    "description": "Python toolkit for quantitative finance",
+    "url": "https://github.com/evelynmitchell/gs-quant",
+    "parent_url": "https://github.com/goldmansachs/gs-quant",
     "labels": [],
     "repositoryTopics": null
   },
