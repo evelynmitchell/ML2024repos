@@ -9,11 +9,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "ML2024repos",
+    "createdAt": "2024-12-29T00:29:44Z",
+    "description": "Machine Learning in 2024",
+    "url": "https://github.com/evelynmitchell/ML2024repos",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "SEAL-js",
     "createdAt": "2024-12-24T02:09:15Z",
     "description": "Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication to media.",
     "url": "https://github.com/evelynmitchell/SEAL-js",
     "parent_url": "https://github.com/bgon/SEAL-js",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "SEAL-js",
+    "createdAt": "2024-12-24T02:09:15Z",
+    "description": "Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication to media.",
+    "url": "https://github.com/evelynmitchell/SEAL-js",
+    "parent_url": "https://github.com/bgon/SEAL-js",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "llm-consortium",
+    "createdAt": "2024-12-22T20:24:26Z",
+    "description": "llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus.",
+    "url": "https://github.com/evelynmitchell/llm-consortium",
+    "parent_url": "https://github.com/irthomasthomas/llm-consortium",
     "labels": [],
     "repositoryTopics": null
   },
@@ -36,11 +63,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "Genesis",
+    "createdAt": "2024-12-20T22:30:14Z",
+    "description": "A generative world for general-purpose robotics & embodied AI learning.",
+    "url": "https://github.com/evelynmitchell/Genesis",
+    "parent_url": "https://github.com/Genesis-Embodied-AI/Genesis",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "AgentHands",
     "createdAt": "2024-12-20T18:28:50Z",
     "description": "OpenHands Agents",
     "url": "https://github.com/evelynmitchell/AgentHands",
     "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AgentHands",
+    "createdAt": "2024-12-20T18:28:50Z",
+    "description": "OpenHands Agents",
+    "url": "https://github.com/evelynmitchell/AgentHands",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "TheAgentCompany",
+    "createdAt": "2024-12-19T15:15:06Z",
+    "description": "An agent benchmark with tasks in a simulated software company.",
+    "url": "https://github.com/evelynmitchell/TheAgentCompany",
+    "parent_url": "https://github.com/TheAgentCompany/TheAgentCompany",
     "labels": [],
     "repositoryTopics": null
   },
@@ -63,11 +117,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "EXA-1",
+    "createdAt": "2024-12-19T03:11:50Z",
+    "description": "An EXA-Scale repository of Multi-Modality AI resources from papers and models, to foundational libraries!",
+    "url": "https://github.com/evelynmitchell/EXA-1",
+    "parent_url": "https://github.com/kyegomez/EXA-1",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "PAE",
     "createdAt": "2024-12-18T16:37:32Z",
     "description": "",
     "url": "https://github.com/evelynmitchell/PAE",
     "parent_url": "https://github.com/amazon-science/PAE",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "PAE",
+    "createdAt": "2024-12-18T16:37:32Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/PAE",
+    "parent_url": "https://github.com/amazon-science/PAE",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Godel_Agent",
+    "createdAt": "2024-12-17T23:50:05Z",
+    "description": "G\u00f6del Agent: A Self-Referential Agent Framework for Recursive Self-Improvement",
+    "url": "https://github.com/evelynmitchell/Godel_Agent",
+    "parent_url": "https://github.com/Arvid-pku/Godel_Agent",
     "labels": [],
     "repositoryTopics": null
   },
@@ -90,11 +171,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "pysa-action",
+    "createdAt": "2024-12-17T18:46:55Z",
+    "description": "GitHub Action for Pysa",
+    "url": "https://github.com/evelynmitchell/pysa-action",
+    "parent_url": "https://github.com/facebook/pysa-action",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "evalica",
     "createdAt": "2024-12-17T16:26:23Z",
     "description": "Evalica, your favourite evaluation toolkit",
     "url": "https://github.com/evelynmitchell/evalica",
     "parent_url": "https://github.com/dustalov/evalica",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "evalica",
+    "createdAt": "2024-12-17T16:26:23Z",
+    "description": "Evalica, your favourite evaluation toolkit",
+    "url": "https://github.com/evelynmitchell/evalica",
+    "parent_url": "https://github.com/dustalov/evalica",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "tidybot2",
+    "createdAt": "2024-12-17T16:20:38Z",
+    "description": "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning",
+    "url": "https://github.com/evelynmitchell/tidybot2",
+    "parent_url": "https://github.com/jimmyyhwu/tidybot2",
     "labels": [],
     "repositoryTopics": null
   },
@@ -117,11 +225,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "garak",
+    "createdAt": "2024-12-16T03:09:35Z",
+    "description": "the LLM vulnerability scanner",
+    "url": "https://github.com/evelynmitchell/garak",
+    "parent_url": "https://github.com/NVIDIA/garak",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "blt",
     "createdAt": "2024-12-16T03:00:57Z",
     "description": "Code for BLT research paper",
     "url": "https://github.com/evelynmitchell/blt",
     "parent_url": "https://github.com/facebookresearch/blt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "blt",
+    "createdAt": "2024-12-16T03:00:57Z",
+    "description": "Code for BLT research paper",
+    "url": "https://github.com/evelynmitchell/blt",
+    "parent_url": "https://github.com/facebookresearch/blt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "large_concept_model",
+    "createdAt": "2024-12-14T13:32:49Z",
+    "description": "Large Concept Models: Language modeling in a sentence representation space",
+    "url": "https://github.com/evelynmitchell/large_concept_model",
+    "parent_url": "https://github.com/facebookresearch/large_concept_model",
     "labels": [],
     "repositoryTopics": null
   },
@@ -144,6 +279,33 @@
     "repositoryTopics": null
   },
   {
+    "name": "ExploreToM",
+    "createdAt": "2024-12-14T13:31:09Z",
+    "description": "Code for TrackTheMind",
+    "url": "https://github.com/evelynmitchell/ExploreToM",
+    "parent_url": "https://github.com/facebookresearch/ExploreToM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fmx",
+    "createdAt": "2024-12-14T13:26:12Z",
+    "description": "Conditional Flow Matching using JAX",
+    "url": "https://github.com/evelynmitchell/fmx",
+    "parent_url": "https://github.com/albcab/fmx",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "writer-framework",
+    "createdAt": "2024-12-13T03:17:05Z",
+    "description": "No-code in the front, Python in the back. An open-source framework for creating data apps.",
+    "url": "https://github.com/evelynmitchell/writer-framework",
+    "parent_url": "https://github.com/writer/writer-framework",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "writer-framework",
     "createdAt": "2024-12-13T03:17:05Z",
     "description": "No-code in the front, Python in the back. An open-source framework for creating data apps.",
@@ -158,6 +320,24 @@
     "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
     "url": "https://github.com/evelynmitchell/multi-agent-orchestrator",
     "parent_url": "https://github.com/awslabs/multi-agent-orchestrator",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "multi-agent-orchestrator",
+    "createdAt": "2024-12-13T00:28:07Z",
+    "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+    "url": "https://github.com/evelynmitchell/multi-agent-orchestrator",
+    "parent_url": "https://github.com/awslabs/multi-agent-orchestrator",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "openai-python",
+    "createdAt": "2024-12-11T23:22:18Z",
+    "description": "The official Python library for the OpenAI API",
+    "url": "https://github.com/evelynmitchell/openai-python",
+    "parent_url": "https://github.com/openai/openai-python",
     "labels": [],
     "repositoryTopics": null
   },
