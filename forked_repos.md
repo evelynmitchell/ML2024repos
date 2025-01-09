@@ -2,11 +2,11 @@
 
 | Name | Created At | Description | Parent URL | Rem | URL |
 |------|------------|-------------|------------|-----|-----|
-| ML2024repos | 2024-12-29 | Machine Learning in 2024 |  | [ ] | https://github.com/evelynmitchell/ML2024repos |
+| ML2024repos | 2024-12-29 | Machine Learning in 2024 | None | [ ] | https://github.com/evelynmitchell/ML2024repos |
 | SEAL-js | 2024-12-24 | Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication | https://github.com/bgon/SEAL-js | [ ] | https://github.com/evelynmitchell/SEAL-js |
 | llm-consortium | 2024-12-22 | llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus. | https://github.com/irthomasthomas/llm-consortium |  | https://github.com/evelynmitchell/llm-consortium |
 | Genesis | 2024-12-20 | A generative world for general-purpose robotics & embodied AI learning. | https://github.com/Genesis-Embodied-AI/Genesis |  | https://github.com/evelynmitchell/Genesis |
-| AgentHands | 2024-12-20 | OpenHands Agents |  |  | https://github.com/evelynmitchell/AgentHands |
+| AgentHands | 2024-12-20 | OpenHands Agents | None |  | https://github.com/evelynmitchell/AgentHands |
 | TheAgentCompany | 2024-12-19 | An agent benchmark with tasks in a simulated software company. | https://github.com/TheAgentCompany/TheAgentCompany |  | https://github.com/evelynmitchell/TheAgentCompany |
 | EXA-1 | 2024-12-19 | An EXA-Scale repository of Multi-Modality AI resources from papers and models, to foundational libraries! | https://github.com/kyegomez/EXA-1 |  | https://github.com/evelynmitchell/EXA-1 |
 | PAE | 2024-12-18 |  | https://github.com/amazon-science/PAE |  | https://github.com/evelynmitchell/PAE |
@@ -32,7 +32,7 @@
 | baml | 2024-12-07 | BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground | https://github.com/BoundaryML/baml |  | https://github.com/evelynmitchell/baml |
 | greptimedb | 2024-12-06 | An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. | https://github.com/GreptimeTeam/greptimedb |  | https://github.com/evelynmitchell/greptimedb |
 | swarm-models | 2024-12-03 | A simple to use package to call various model providers such as openai, anthropic, and others with utmost reliability, security, and performance. | https://github.com/The-Swarm-Corporation/swarm-models |  | https://github.com/evelynmitchell/swarm-models |
-| DailyWork | 2024-12-02 |  |  |  | https://github.com/evelynmitchell/DailyWork |
+| DailyWork | 2024-12-02 |  | None |  | https://github.com/evelynmitchell/DailyWork |
 | beans | 2024-12-02 | BEANS: The Benchmark of Animal Sounds | https://github.com/earthspecies/beans |  | https://github.com/evelynmitchell/beans |
 | inform | 2024-11-29 | The core software distribution for the Inform 7 programming language. | https://github.com/ganelson/inform |  | https://github.com/evelynmitchell/inform |
 | ComfyUI-TPU | 2024-11-28 | ComfyUI for TPUs/XLA devices | https://github.com/radna0/ComfyUI-XLA |  | https://github.com/evelynmitchell/ComfyUI-TPU |
@@ -56,13 +56,13 @@
 | swarms-cloud | 2024-11-09 | Deploy your autonomous agents to production grade environments with 99% Uptime Guarantee, Infinite Scalability, and self-healing. | https://github.com/The-Swarm-Corporation/swarms-cloud |  | https://github.com/evelynmitchell/swarms-cloud |
 | swarms-platform | 2024-11-09 | The Agent Marketplace | https://github.com/The-Swarm-Corporation/swarms-platform |  | https://github.com/evelynmitchell/swarms-platform |
 | agoralab-website | 2024-11-09 | The website of agoralab.ai | https://github.com/Agora-Lab-AI/agoralab-website |  | https://github.com/evelynmitchell/agoralab-website |
-| sophie | 2024-11-06 | A personal assistant |  |  | https://github.com/evelynmitchell/sophie |
+| sophie | 2024-11-06 | A personal assistant | None |  | https://github.com/evelynmitchell/sophie |
 | LeReT | 2024-11-03 | Learning to Retrieve by Trying - Source code for Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval | https://github.com/sher222/LeReT |  | https://github.com/evelynmitchell/LeReT |
-| fictional-happiness | 2024-11-01 | Trying out a few things |  |  | https://github.com/evelynmitchell/fictional-happiness |
+| fictional-happiness | 2024-11-01 | Trying out a few things | None |  | https://github.com/evelynmitchell/fictional-happiness |
 | paper-qa | 2024-11-01 | High accuracy RAG for answering questions from scientific documents with citations | https://github.com/Future-House/paper-qa |  | https://github.com/evelynmitchell/paper-qa |
 | pglite | 2024-10-31 | Lightweight WASM Postgres with real-time, reactive bindings. | https://github.com/electric-sql/pglite |  | https://github.com/evelynmitchell/pglite |
 | openpom | 2024-10-31 | Replication of the Principal Odor Map paper by Lee et al (2022). The model is implemented such that it integrates with DeepChem | https://github.com/BioMachineLearning/openpom |  | https://github.com/evelynmitchell/openpom |
-| bootstrapFlywheel | 2024-10-27 |  |  |  | https://github.com/evelynmitchell/bootstrapFlywheel |
+| bootstrapFlywheel | 2024-10-27 |  | None |  | https://github.com/evelynmitchell/bootstrapFlywheel |
 | PostMark | 2024-10-26 | Official repository for "PostMark: A Robust Blackbox Watermark for Large Language Models" | https://github.com/lilakk/PostMark |  | https://github.com/evelynmitchell/PostMark |
 | bee-agent-framework | 2024-10-26 | The framework for building scalable agentic applications. | https://github.com/i-am-bee/bee-agent-framework |  | https://github.com/evelynmitchell/bee-agent-framework |
 | Daft | 2024-10-26 | Distributed data engine for Python/SQL designed for the cloud, powered by Rust | https://github.com/Eventual-Inc/Daft |  | https://github.com/evelynmitchell/Daft |
@@ -122,29 +122,29 @@
 | groq-api-cookbook | 2024-08-03 |  | https://github.com/groq/groq-api-cookbook |  | https://github.com/evelynmitchell/groq-api-cookbook |
 | fasthtml-example | 2024-08-02 | Example fasthtml applications demonstrating a range of web programming techniques | https://github.com/AnswerDotAI/fasthtml-example |  | https://github.com/evelynmitchell/fasthtml-example |
 | agent-zero | 2024-08-02 | Agent Zero AI framework | https://github.com/frdel/agent-zero |  | https://github.com/evelynmitchell/agent-zero |
-| firstnodejs | 2024-08-01 |  |  |  | https://github.com/evelynmitchell/firstnodejs |
+| firstnodejs | 2024-08-01 |  | None |  | https://github.com/evelynmitchell/firstnodejs |
 | groq-python | 2024-08-01 | The official Python Library for the Groq API | https://github.com/groq/groq-python |  | https://github.com/evelynmitchell/groq-python |
 | dataline | 2024-07-31 | Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite... | https://github.com/RamiAwar/dataline |  | https://github.com/evelynmitchell/dataline |
-| AITinkerersDenver2024 | 2024-07-30 |  |  |  | https://github.com/evelynmitchell/AITinkerersDenver2024 |
+| AITinkerersDenver2024 | 2024-07-30 |  | None |  | https://github.com/evelynmitchell/AITinkerersDenver2024 |
 | damo | 2024-07-29 | DAMON user-space tool | https://github.com/awslabs/damo |  | https://github.com/evelynmitchell/damo |
 | Open-Reasoning-Tasks | 2024-07-26 | A comprehensive repository of reasoning tasks for LLMs (and beyond) | https://github.com/NousResearch/Open-Reasoning-Tasks |  | https://github.com/evelynmitchell/Open-Reasoning-Tasks |
 | wat | 2024-07-26 | Deep inspection of Python objects | https://github.com/igrek51/wat |  | https://github.com/evelynmitchell/wat |
 | mandala | 2024-07-24 | A simple & elegant experiment tracking framework that integrates persistence logic & best practices directly into Python | https://github.com/amakelov/mandala |  | https://github.com/evelynmitchell/mandala |
 | huggingface-llama-recipes | 2024-07-24 |  | https://github.com/huggingface/huggingface-llama-recipes |  | https://github.com/evelynmitchell/huggingface-llama-recipes |
 | bayesian-flow-networks | 2024-07-22 | This is the official code release for Bayesian Flow Networks. | https://github.com/nnaisense/bayesian-flow-networks |  | https://github.com/evelynmitchell/bayesian-flow-networks |
-| k8smanager | 2024-07-22 | Autonomic computing 2407.14402 |  |  | https://github.com/evelynmitchell/k8smanager |
+| k8smanager | 2024-07-22 | Autonomic computing 2407.14402 | None |  | https://github.com/evelynmitchell/k8smanager |
 | OgbujiPT | 2024-07-22 | Client-side toolkit for using large language models, including where self-hosted | https://github.com/OoriData/OgbujiPT |  | https://github.com/evelynmitchell/OgbujiPT |
 | PlanRAG | 2024-07-20 | Repository for “PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers”, NAACL24 | https://github.com/myeon9h/PlanRAG |  | https://github.com/evelynmitchell/PlanRAG |
 | northwind-mongo | 2024-07-20 | Northwind dumped to MongoDB | https://github.com/tmcnab/northwind-mongo |  | https://github.com/evelynmitchell/northwind-mongo |
 | LLaMA-Factory | 2024-07-19 | A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024) | https://github.com/hiyouga/LLaMA-Factory |  | https://github.com/evelynmitchell/LLaMA-Factory |
 | storm | 2024-07-19 | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | https://github.com/stanford-oval/storm |  | https://github.com/evelynmitchell/storm |
-| Streamlit_practice_oso | 2024-07-18 |  |  |  | https://github.com/evelynmitchell/Streamlit_practice_oso |
+| Streamlit_practice_oso | 2024-07-18 |  | https://github.com/OSOSerious/Streamlit_practice |  | https://github.com/evelynmitchell/Streamlit_practice_oso |
 | GoldFinch-paper | 2024-07-18 | GoldFinch and other hybrid transformer components | https://github.com/recursal/GoldFinch-paper |  | https://github.com/evelynmitchell/GoldFinch-paper |
 | streamlit | 2024-07-17 | Streamlit — A faster way to build and share data apps. | https://github.com/streamlit/streamlit |  | https://github.com/evelynmitchell/streamlit |
 | augmentoolkit | 2024-07-17 | Convert Compute And Books Into Instruct-Tuning Datasets (or classifiers)! | https://github.com/e-p-armstrong/augmentoolkit |  | https://github.com/evelynmitchell/augmentoolkit |
-| polylit | 2024-07-16 | Streamlit  with polygon data |  |  | https://github.com/evelynmitchell/polylit |
+| polylit | 2024-07-16 | Streamlit  with polygon data | None |  | https://github.com/evelynmitchell/polylit |
 | M6-methods | 2024-07-15 | Data, Benchmarks, and methods submitted to the M6 forecasting competition | https://github.com/Mcompetitions/M6-methods |  | https://github.com/evelynmitchell/M6-methods |
-| SOPSelfOptimizingProcedures | 2024-07-15 |  |  |  | https://github.com/evelynmitchell/SOPSelfOptimizingProcedures |
+| SOPSelfOptimizingProcedures | 2024-07-15 |  | None |  | https://github.com/evelynmitchell/SOPSelfOptimizingProcedures |
 | tiptap | 2024-07-12 | The headless rich text editor framework for web artisans. | https://github.com/ueberdosis/tiptap |  | https://github.com/evelynmitchell/tiptap |
 | learn-generating-functions | 2024-07-12 | I blog about learning generating functions. | https://github.com/jsh/learn-generating-functions |  | https://github.com/evelynmitchell/learn-generating-functions |
 | jetson-containers | 2024-07-12 | Machine Learning Containers for NVIDIA Jetson and JetPack-L4T | https://github.com/dusty-nv/jetson-containers |  | https://github.com/evelynmitchell/jetson-containers |
@@ -195,7 +195,7 @@
 | Husky-v1 | 2024-06-11 | Code for Husky, an open-source language agent that solves complex, multi-step reasoning tasks. Husky v1 addresses numerical, tabular and knowledge-based reasoning tasks. | https://github.com/agent-husky/Husky-v1 |  | https://github.com/evelynmitchell/Husky-v1 |
 | inspectus | 2024-06-11 | LLM Analytics | https://github.com/labmlai/inspectus |  | https://github.com/evelynmitchell/inspectus |
 | ShiftAddLLM | 2024-06-11 | ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization | https://github.com/GATECH-EIC/ShiftAddLLM |  | https://github.com/evelynmitchell/ShiftAddLLM |
-| Mixture-of-Swarms | 2024-06-10 |  |  |  | https://github.com/evelynmitchell/Mixture-of-Swarms |
+| Mixture-of-Swarms | 2024-06-10 |  | None |  | https://github.com/evelynmitchell/Mixture-of-Swarms |
 | matmulfreellm | 2024-06-09 | Implementation for MatMul-free LM. | https://github.com/ridgerchu/matmulfreellm |  | https://github.com/evelynmitchell/matmulfreellm |
 | or-tools | 2024-06-06 | Google's Operations Research tools: | https://github.com/google/or-tools |  | https://github.com/evelynmitchell/or-tools |
 | litellm | 2024-06-02 | Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs) | https://github.com/BerriAI/litellm |  | https://github.com/evelynmitchell/litellm |
@@ -220,7 +220,7 @@
 | open-gpu-kernel-modules | 2024-04-13 | NVIDIA Linux open GPU with P2P support | https://github.com/tinygrad/open-gpu-kernel-modules |  | https://github.com/evelynmitchell/open-gpu-kernel-modules |
 | survey | 2024-04-11 | A golang library for building interactive and accessible prompts with full support for windows and posix terminals. | https://github.com/plandex-ai/survey |  | https://github.com/evelynmitchell/survey |
 | plandex | 2024-04-11 | An AI coding engine for complex tasks | https://github.com/plandex-ai/plandex |  | https://github.com/evelynmitchell/plandex |
-| shouldersOfGiants.rs | 2024-04-08 | I have no idea what I'm doing , but llm.c in rust |  |  | https://github.com/evelynmitchell/shouldersOfGiants.rs |
+| shouldersOfGiants.rs | 2024-04-08 | I have no idea what I'm doing , but llm.c in rust | None |  | https://github.com/evelynmitchell/shouldersOfGiants.rs |
 | clevergpt | 2024-04-08 | Training GPTs to solve interaction nets | https://github.com/reissbaker/clevergpt |  | https://github.com/evelynmitchell/clevergpt |
 | dbrx | 2024-04-08 | Code examples and resources for DBRX, a large language model developed by Databricks | https://github.com/databricks/dbrx |  | https://github.com/evelynmitchell/dbrx |
 | ragflow | 2024-04-05 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | https://github.com/infiniflow/ragflow |  | https://github.com/evelynmitchell/ragflow |
@@ -235,7 +235,7 @@
 | AIOS | 2024-03-27 | AIOS: LLM Agent Operating System | https://github.com/agiresearch/AIOS |  | https://github.com/evelynmitchell/AIOS |
 | chronos-forecasting | 2024-03-25 | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting | https://github.com/amazon-science/chronos-forecasting |  | https://github.com/evelynmitchell/chronos-forecasting |
 | ib_async | 2024-03-19 | Python sync/async framework for Interactive Brokers API (replaces ib_insync) | https://github.com/ib-api-reloaded/ib_async |  | https://github.com/evelynmitchell/ib_async |
-| structureshrink | 2024-03-18 | Structured shrinking of unknown file formats |  |  | https://github.com/evelynmitchell/structureshrink |
+| structureshrink | 2024-03-18 | Structured shrinking of unknown file formats | https://github.com/DRMacIver/structureshrink |  | https://github.com/evelynmitchell/structureshrink |
 | ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/imelnyk/ArxivPapers |  | https://github.com/evelynmitchell/ArxivPapers |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/microsoft/aici |  | https://github.com/evelynmitchell/aici |
 | evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evo-design/evo |  | https://github.com/evelynmitchell/evo |
@@ -254,23 +254,23 @@
 | awesome-ssm-ml | 2024-02-12 |  | https://github.com/AvivBick/awesome-ssm-ml |  | https://github.com/evelynmitchell/awesome-ssm-ml |
 | hulyplatform | 2024-02-12 | Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more | https://github.com/hcengineering/platform |  | https://github.com/evelynmitchell/hulyplatform |
 | OpenToM | 2024-02-12 | The official repository of the OpenToM dataset | https://github.com/seacowx/OpenToM |  | https://github.com/evelynmitchell/OpenToM |
-| tsmixer | 2024-02-11 | Time Series Mixer forecasting multivariate time series |  |  | https://github.com/evelynmitchell/tsmixer |
+| tsmixer | 2024-02-11 | Time Series Mixer forecasting multivariate time series | None |  | https://github.com/evelynmitchell/tsmixer |
 | TensorRT | 2024-02-10 | NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. | https://github.com/NVIDIA/TensorRT |  | https://github.com/evelynmitchell/TensorRT |
 | ScalableVectorSearch | 2024-02-10 |  | https://github.com/intel/ScalableVectorSearch |  | https://github.com/evelynmitchell/ScalableVectorSearch |
 | gsplat | 2024-02-10 | CUDA accelerated rasterization of gaussian splatting | https://github.com/nerfstudio-project/gsplat |  | https://github.com/evelynmitchell/gsplat |
 | AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/Vahe1994/AQLM |  | https://github.com/evelynmitchell/AQLM |
 | cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/vwxyzjn/cleanrl |  | https://github.com/evelynmitchell/cleanrl |
 | tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/ibm-granite/granite-tsfm |  | https://github.com/evelynmitchell/tsfm |
-| TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 |  |  | https://github.com/evelynmitchell/TinyTimeMixers |
+| TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | None |  | https://github.com/evelynmitchell/TinyTimeMixers |
 | open-instruct | 2024-02-02 |  | https://github.com/allenai/open-instruct |  | https://github.com/evelynmitchell/open-instruct |
 | pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/deployradiant/pychatml |  | https://github.com/evelynmitchell/pychatml |
 | self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/lucidrains/self-rewarding-lm-pytorch |  | https://github.com/evelynmitchell/self-rewarding-lm-pytorch |
-| MyWay | 2024-01-19 |  |  |  | https://github.com/evelynmitchell/MyWay |
-| DimensionMixer | 2024-01-18 | Dimension Mixer model  |  |  | https://github.com/evelynmitchell/DimensionMixer |
+| MyWay | 2024-01-19 |  | None |  | https://github.com/evelynmitchell/MyWay |
+| DimensionMixer | 2024-01-18 | Dimension Mixer model  | None |  | https://github.com/evelynmitchell/DimensionMixer |
 | privy | 2024-01-18 | Your private coding assistant | https://github.com/srikanth235/privy |  | https://github.com/evelynmitchell/privy |
 | vstar | 2024-01-16 | PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs" | https://github.com/penghao-wu/vstar |  | https://github.com/evelynmitchell/vstar |
 | sleeper-agents-paper | 2024-01-16 | Contains random samples referenced in the paper "Sleeper Agents: Training Robustly Deceptive LLMs that Persist Through Safety Training". | https://github.com/anthropics/sleeper-agents-paper |  | https://github.com/evelynmitchell/sleeper-agents-paper |
-| spacedrepetition | 2024-01-15 |  |  |  | https://github.com/evelynmitchell/spacedrepetition |
+| spacedrepetition | 2024-01-15 |  | None |  | https://github.com/evelynmitchell/spacedrepetition |
 | SubjQA | 2024-01-13 | A question-answering dataset with a focus on subjective information | https://github.com/megagonlabs/SubjQA |  | https://github.com/evelynmitchell/SubjQA |
 | libdwarf-code | 2024-01-12 | Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake. | https://github.com/davea42/libdwarf-code |  | https://github.com/evelynmitchell/libdwarf-code |
 | ast_t5 | 2024-01-10 |  | https://github.com/gonglinyuan/ast_t5 |  | https://github.com/evelynmitchell/ast_t5 |
