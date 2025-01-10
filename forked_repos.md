@@ -2,7 +2,6 @@
 
 | Name | Created At | Description | Parent URL | Rem | URL |
 |------|------------|-------------|------------|-----|-----|
-| ML2024repos | 2024-12-29 | Machine Learning in 2024 | None | [ ] | https://github.com/evelynmitchell/ML2024repos |
 | SEAL-js | 2024-12-24 | Typescript implementation of SEAL (Secure Evidence Attribution Label): an open solution for assigning attribution with authentication | https://github.com/bgon/SEAL-js | [ ] | https://github.com/evelynmitchell/SEAL-js |
 | llm-consortium | 2024-12-22 | llm-consortium orchestrates mulitple LLMs, iteratively refines & achieves consensus. | https://github.com/irthomasthomas/llm-consortium |  | https://github.com/evelynmitchell/llm-consortium |
 | Genesis | 2024-12-20 | A generative world for general-purpose robotics & embodied AI learning. | https://github.com/Genesis-Embodied-AI/Genesis |  | https://github.com/evelynmitchell/Genesis |
@@ -13,7 +12,7 @@
 | Godel_Agent | 2024-12-17 | Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement | https://github.com/Arvid-pku/Godel_Agent |  | https://github.com/evelynmitchell/Godel_Agent |
 | pysa-action | 2024-12-17 | GitHub Action for Pysa | https://github.com/facebook/pysa-action |  | https://github.com/evelynmitchell/pysa-action |
 | evalica | 2024-12-17 | Evalica, your favourite evaluation toolkit | https://github.com/dustalov/evalica |  | https://github.com/evelynmitchell/evalica |
-| tidybot2 | 2024-12-17 | TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning | https://github.com/jimmyyhwu/tidybot2 |  | https://github.com/evelynmitchell/tidybot2 |
+| tidybot2 | 2024-12-17 | TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning | https://github.com/jimmyyhwu/tidybot2 | [x] | |
 | garak | 2024-12-16 | the LLM vulnerability scanner | https://github.com/NVIDIA/garak |  | https://github.com/evelynmitchell/garak |
 | blt | 2024-12-16 | Code for BLT research paper | https://github.com/facebookresearch/blt |  | https://github.com/evelynmitchell/blt |
 | large_concept_model | 2024-12-14 | Large Concept Models: Language modeling in a sentence representation space | https://github.com/facebookresearch/large_concept_model |  | https://github.com/evelynmitchell/large_concept_model |
