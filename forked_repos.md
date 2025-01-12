@@ -32,21 +32,21 @@
 | greptimedb | 2024-12-06 | An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud. | https://github.com/GreptimeTeam/greptimedb | [ x]  | https://github.com/evelynmitchell/greptimedb |
 | swarm-models | 2024-12-03 | A simple to use package to call various model providers such as openai, anthropic, and others with utmost reliability, security, and performance. | https://github.com/The-Swarm-Corporation/swarm-models |  | https://github.com/evelynmitchell/swarm-models |
 | DailyWork | 2024-12-02 |  | None |  | https://github.com/evelynmitchell/DailyWork |
-| beans | 2024-12-02 | BEANS: The Benchmark of Animal Sounds | https://github.com/earthspecies/beans |  | https://github.com/evelynmitchell/beans |
-| inform | 2024-11-29 | The core software distribution for the Inform 7 programming language. | https://github.com/ganelson/inform |  | https://github.com/evelynmitchell/inform |
-| ComfyUI-TPU | 2024-11-28 | ComfyUI for TPUs/XLA devices | https://github.com/radna0/ComfyUI-XLA |  | https://github.com/evelynmitchell/ComfyUI-TPU |
+| beans | 2024-12-02 | BEANS: The Benchmark of Animal Sounds | https://github.com/earthspecies/beans |[x]  | https://github.com/evelynmitchell/beans |
+| inform | 2024-11-29 | The core software distribution for the Inform 7 programming language. | https://github.com/ganelson/inform |[x]  | https://github.com/evelynmitchell/inform |
+| ComfyUI-TPU | 2024-11-28 | ComfyUI for TPUs/XLA devices | https://github.com/radna0/ComfyUI-XLA | [x] | https://github.com/evelynmitchell/ComfyUI-TPU |
 | awesome-multi-agent-papers | 2024-11-28 | A compilation of the best multi-agent papers | https://github.com/kyegomez/awesome-multi-agent-papers |  | https://github.com/evelynmitchell/awesome-multi-agent-papers |
 | swarms | 2024-11-26 | The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503 | https://github.com/kyegomez/swarms |  | https://github.com/evelynmitchell/swarms |
-| adopt | 2024-11-26 | Official Implementation of "ADOPT: Modified Adam Can Converge with Any β2 with the Optimal Rate" | https://github.com/iShohei220/adopt |  | https://github.com/evelynmitchell/adopt |
-| SOAP | 2024-11-26 |  | https://github.com/ClashLuke/SOAP |  | https://github.com/evelynmitchell/SOAP |
-| purejaxrl | 2024-11-23 | Really Fast End-to-End Jax RL Implementations | https://github.com/luchris429/purejaxrl |  | https://github.com/evelynmitchell/purejaxrl |
-| purejaxql | 2024-11-22 | Simple single-file baselines for Q-Learning in pure-GPU setting | https://github.com/mttga/purejaxql |  | https://github.com/evelynmitchell/purejaxql |
-| Craftax | 2024-11-22 | (Crafter + NetHack) in JAX.  ICML 2024 Spotlight. | https://github.com/MichaelTMatthews/Craftax |  | https://github.com/evelynmitchell/Craftax |
+| adopt | 2024-11-26 | Official Implementation of "ADOPT: Modified Adam Can Converge with Any β2 with the Optimal Rate" | https://github.com/iShohei220/adopt | [x] | https://github.com/evelynmitchell/adopt |
+| SOAP | 2024-11-26 | SOAP optimizer from SOAP: Improving and Stabilizing Shampoo using Adam.   | https://github.com/ClashLuke/SOAP |[x]  | https://github.com/evelynmitchell/SOAP |
+| purejaxrl | 2024-11-23 | Really Fast End-to-End Jax RL Implementations | https://github.com/luchris429/purejaxrl |[x]  | https://github.com/evelynmitchell/purejaxrl |
+| purejaxql | 2024-11-22 | Simple single-file baselines for Q-Learning in pure-GPU setting | https://github.com/mttga/purejaxql |[x]  | https://github.com/evelynmitchell/purejaxql |
+| Craftax | 2024-11-22 | (Crafter + NetHack) in JAX.  ICML 2024 Spotlight. | https://github.com/MichaelTMatthews/Craftax | [x] | https://github.com/evelynmitchell/Craftax |
 | stripe-agent-toolkit | 2024-11-21 | Python and TypeScript library for integrating the Stripe API into agentic workflows | https://github.com/stripe/agent-toolkit |  | https://github.com/evelynmitchell/stripe-agent-toolkit |
-| ydata-synthetic | 2024-11-20 | Synthetic data generators for tabular and time-series data | https://github.com/ydataai/ydata-synthetic |  | https://github.com/evelynmitchell/ydata-synthetic |
-| ngpt | 2024-11-18 | Normalized Transformer (nGPT) | https://github.com/NVIDIA/ngpt |  | https://github.com/evelynmitchell/ngpt |
+| ydata-synthetic | 2024-11-20 | Synthetic data generators for tabular and time-series data | https://github.com/ydataai/ydata-synthetic |[x]  | https://github.com/evelynmitchell/ydata-synthetic |
+| ngpt | 2024-11-18 | Normalized Transformer (nGPT) | https://github.com/NVIDIA/ngpt | [x] | https://github.com/evelynmitchell/ngpt |
 | uni2ts | 2024-11-16 | Unified Training of Universal Time Series Forecasting Transformers | https://github.com/SalesforceAIResearch/uni2ts |  | https://github.com/evelynmitchell/uni2ts |
-| ort | 2024-11-14 | Fast ML inference & training for Rust with ONNX Runtime | https://github.com/pykeio/ort |  | https://github.com/evelynmitchell/ort |
+| ort | 2024-11-14 | Fast ML inference & training for Rust with ONNX Runtime | https://github.com/pykeio/ort |[x]  | https://github.com/evelynmitchell/ort |
 | zizmor | 2024-11-13 | A tool for finding security issues in GitHub Actions setups. | https://github.com/woodruffw/zizmor |  | https://github.com/evelynmitchell/zizmor |
 | openreplay | 2024-11-13 | Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product. | https://github.com/openreplay/openreplay |  | https://github.com/evelynmitchell/openreplay |
 | KeYmaeraX-release | 2024-11-11 | KeYmaera X: An aXiomatic Tactical Theorem Prover for Hybrid Systems (release) | https://github.com/LS-Lab/KeYmaeraX-release |  | https://github.com/evelynmitchell/KeYmaeraX-release |
