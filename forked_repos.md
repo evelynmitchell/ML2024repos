@@ -48,7 +48,7 @@
 | uni2ts | 2024-11-16 | Unified Training of Universal Time Series Forecasting Transformers | https://github.com/SalesforceAIResearch/uni2ts |  | https://github.com/evelynmitchell/uni2ts |
 | ort | 2024-11-14 | Fast ML inference & training for Rust with ONNX Runtime | https://github.com/pykeio/ort |[x]  | https://github.com/evelynmitchell/ort |
 | zizmor | 2024-11-13 | A tool for finding security issues in GitHub Actions setups. | https://github.com/woodruffw/zizmor |  | https://github.com/evelynmitchell/zizmor |
-| openreplay | 2024-11-13 | Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product. | https://github.com/openreplay/openreplay |  | https://github.com/evelynmitchell/openreplay |
+| openreplay | 2024-11-13 | Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product. | https://github.com/openreplay/openreplay | [x] | https://github.com/evelynmitchell/openreplay |
 | KeYmaeraX-release | 2024-11-11 | KeYmaera X: An aXiomatic Tactical Theorem Prover for Hybrid Systems (release) | https://github.com/LS-Lab/KeYmaeraX-release |  | https://github.com/evelynmitchell/KeYmaeraX-release |
 | docling | 2024-11-11 | Get your documents ready for gen AI | https://github.com/DS4SD/docling |  | https://github.com/evelynmitchell/docling |
 | kserve | 2024-11-10 | Standardized Serverless ML Inference Platform on Kubernetes | https://github.com/kserve/kserve |  | https://github.com/evelynmitchell/kserve |
@@ -56,49 +56,48 @@
 | swarms-platform | 2024-11-09 | The Agent Marketplace | https://github.com/The-Swarm-Corporation/swarms-platform |  | https://github.com/evelynmitchell/swarms-platform |
 | agoralab-website | 2024-11-09 | The website of agoralab.ai | https://github.com/Agora-Lab-AI/agoralab-website |  | https://github.com/evelynmitchell/agoralab-website |
 | sophie | 2024-11-06 | A personal assistant | None |  | https://github.com/evelynmitchell/sophie |
-| LeReT | 2024-11-03 | Learning to Retrieve by Trying - Source code for Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval | https://github.com/sher222/LeReT |  | https://github.com/evelynmitchell/LeReT |
-| fictional-happiness | 2024-11-01 | Trying out a few things | None |  | https://github.com/evelynmitchell/fictional-happiness |
-| paper-qa | 2024-11-01 | High accuracy RAG for answering questions from scientific documents with citations | https://github.com/Future-House/paper-qa |  | https://github.com/evelynmitchell/paper-qa |
-| pglite | 2024-10-31 | Lightweight WASM Postgres with real-time, reactive bindings. | https://github.com/electric-sql/pglite |  | https://github.com/evelynmitchell/pglite |
-| openpom | 2024-10-31 | Replication of the Principal Odor Map paper by Lee et al (2022). The model is implemented such that it integrates with DeepChem | https://github.com/BioMachineLearning/openpom |  | https://github.com/evelynmitchell/openpom |
+| LeReT | 2024-11-03 | Learning to Retrieve by Trying - Source code for Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval | https://github.com/sher222/LeReT |[x]  | https://github.com/evelynmitchell/LeReT |
+| paper-qa | 2024-11-01 | High accuracy RAG for answering questions from scientific documents with citations | https://github.com/Future-House/paper-qa | [x] | https://github.com/evelynmitchell/paper-qa |
+| pglite | 2024-10-31 | Lightweight WASM Postgres with real-time, reactive bindings. | https://github.com/electric-sql/pglite | [x] | https://github.com/evelynmitchell/pglite |
+| openpom | 2024-10-31 | Replication of the Principal Odor Map paper by Lee et al (2022). The model is implemented such that it integrates with DeepChem | https://github.com/BioMachineLearning/openpom |[x]  | https://github.com/evelynmitchell/openpom |
 | bootstrapFlywheel | 2024-10-27 |  | None |  | https://github.com/evelynmitchell/bootstrapFlywheel |
 | PostMark | 2024-10-26 | Official repository for "PostMark: A Robust Blackbox Watermark for Large Language Models" | https://github.com/lilakk/PostMark |  | https://github.com/evelynmitchell/PostMark |
 | bee-agent-framework | 2024-10-26 | The framework for building scalable agentic applications. | https://github.com/i-am-bee/bee-agent-framework |  | https://github.com/evelynmitchell/bee-agent-framework |
-| Daft | 2024-10-26 | Distributed data engine for Python/SQL designed for the cloud, powered by Rust | https://github.com/Eventual-Inc/Daft |  | https://github.com/evelynmitchell/Daft |
-| hoppscotch | 2024-10-25 | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) | https://github.com/hoppscotch/hoppscotch |  | https://github.com/evelynmitchell/hoppscotch |
-| usearch12 | 2024-10-24 | Open-source usearch | https://github.com/rcedgar/usearch12 |  | https://github.com/evelynmitchell/usearch12 |
+| Daft | 2024-10-26 | Distributed data engine for Python/SQL designed for the cloud, powered by Rust | https://github.com/Eventual-Inc/Daft | [x] | https://github.com/evelynmitchell/Daft |
+| hoppscotch | 2024-10-25 | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) | https://github.com/hoppscotch/hoppscotch |[x]  | https://github.com/evelynmitchell/hoppscotch |
+| usearch12 | 2024-10-24 | Open-source usearch | https://github.com/rcedgar/usearch12 |[x]  | https://github.com/evelynmitchell/usearch12 |
 | AgentTorch | 2024-10-22 | large population models | https://github.com/AgentTorch/AgentTorch |  | https://github.com/evelynmitchell/AgentTorch |
-| plansearch | 2024-10-22 | e | https://github.com/scaleapi/plansearch |  | https://github.com/evelynmitchell/plansearch |
-| PufferLib | 2024-10-22 | Simplifying reinforcement learning for complex game environments | https://github.com/PufferAI/PufferLib |  | https://github.com/evelynmitchell/PufferLib |
-| motleycrew | 2024-10-21 | Flexible and powerful multi-agent AI framework | https://github.com/ShoggothAI/motleycrew |  | https://github.com/evelynmitchell/motleycrew |
-| BitNet | 2024-10-20 | Official inference framework for 1-bit LLMs | https://github.com/microsoft/BitNet |  | https://github.com/evelynmitchell/BitNet |
-| swarm | 2024-10-12 | Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework. | https://github.com/openai/swarm |  | https://github.com/evelynmitchell/swarm |
-| Aria | 2024-10-11 | Codebase for Aria - an Open Multimodal Native MoE | https://github.com/rhymes-ai/Aria |  | https://github.com/evelynmitchell/Aria |
+| plansearch | 2024-10-22 | PlanSearch: Planning In Natural Language Improves LLM Search For Code Generation | https://github.com/scaleapi/plansearch | [x] | https://github.com/evelynmitchell/plansearch |
+| PufferLib | 2024-10-22 | Simplifying reinforcement learning for complex game environments | https://github.com/PufferAI/PufferLib |[x]  | https://github.com/evelynmitchell/PufferLib |
+| motleycrew | 2024-10-21 | Flexible and powerful multi-agent AI framework | https://github.com/ShoggothAI/motleycrew |[x]  | https://github.com/evelynmitchell/motleycrew |
+| BitNet | 2024-10-20 | Official inference framework for 1-bit LLMs | https://github.com/microsoft/BitNet | [x] | https://github.com/evelynmitchell/BitNet |
+| swarm | 2024-10-12 | Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework. | https://github.com/openai/swarm |[x]  | https://github.com/evelynmitchell/swarm |
+| Aria | 2024-10-11 | Codebase for Aria - an Open Multimodal Native MoE | https://github.com/rhymes-ai/Aria | [x] | https://github.com/evelynmitchell/Aria |
 | KAN4TSF | 2024-10-09 | Kolmogorov Arnold Network (KAN) for Time Series Forecasting (TSF) | https://github.com/2448845600/EasyTSF |  | https://github.com/evelynmitchell/KAN4TSF |
-| GOT-OCR2.0 | 2024-10-07 | Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model | https://github.com/Ucas-HaoranWei/GOT-OCR2.0 |  | https://github.com/evelynmitchell/GOT-OCR2.0 |
-| MaskLLM | 2024-10-07 | [NeurIPS 24 Spotlight] MaskLLM: Learnable Semi-structured Sparsity for Large Language Models | https://github.com/NVlabs/MaskLLM |  | https://github.com/evelynmitchell/MaskLLM |
+| GOT-OCR2.0 | 2024-10-07 | Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model | https://github.com/Ucas-HaoranWei/GOT-OCR2.0 |[x]  | https://github.com/evelynmitchell/GOT-OCR2.0 |
+| MaskLLM | 2024-10-07 | [NeurIPS 24 Spotlight] MaskLLM: Learnable Semi-structured Sparsity for Large Language Models | https://github.com/NVlabs/MaskLLM |[x]  | https://github.com/evelynmitchell/MaskLLM |
 | entropix | 2024-10-05 | Entropy Based Sampling and Parallel CoT Decoding  | https://github.com/xjdr-alt/entropix |  | https://github.com/evelynmitchell/entropix |
 | ProteinColabDesign | 2024-10-03 | Making Protein Design accessible to all via Google Colab!  | https://github.com/sokrypton/ColabDesign |  | https://github.com/evelynmitchell/ProteinColabDesign |
 | SO-ARM100 | 2024-10-03 | Standard Open Arm 100 | https://github.com/TheRobotStudio/SO-ARM100 |  | https://github.com/evelynmitchell/SO-ARM100 |
-| SeqVerify | 2024-10-03 | Analyzes whole genome sequencing data for gene-editing verification | https://github.com/mpiersonsmela/SeqVerify |  | https://github.com/evelynmitchell/SeqVerify |
+| SeqVerify | 2024-10-03 | Analyzes whole genome sequencing data for gene-editing verification | https://github.com/mpiersonsmela/SeqVerify |[x]  | https://github.com/evelynmitchell/SeqVerify |
 | screenpipe | 2024-09-30 | 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust. | https://github.com/mediar-ai/screenpipe |  | https://github.com/evelynmitchell/screenpipe |
-| PIXIU | 2024-09-21 | This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI). | https://github.com/The-FinAI/PIXIU |  | https://github.com/evelynmitchell/PIXIU |
+| PIXIU | 2024-09-21 | This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI). | https://github.com/The-FinAI/PIXIU |[x]  | https://github.com/evelynmitchell/PIXIU |
 | SillyTavern | 2024-09-15 | LLM Frontend for Power Users. | https://github.com/SillyTavern/SillyTavern |  | https://github.com/evelynmitchell/SillyTavern |
 | alphaflow | 2024-09-13 | AlphaFold Meets Flow Matching for Generating Protein Ensembles | https://github.com/bjing2016/alphaflow |  | https://github.com/evelynmitchell/alphaflow |
 | optillm | 2024-09-13 | Optimizing inference proxy for LLMs | https://github.com/codelion/optillm |  | https://github.com/evelynmitchell/optillm |
 | llamafile | 2024-09-11 | Distribute and run LLMs with a single file. | https://github.com/Mozilla-Ocho/llamafile |  | https://github.com/evelynmitchell/llamafile |
-| chai-lab | 2024-09-09 | Chai-1, SOTA model for biomolecular structure prediction | https://github.com/chaidiscovery/chai-lab |  | https://github.com/evelynmitchell/chai-lab |
+| chai-lab | 2024-09-09 | Chai-1, SOTA model for biomolecular structure prediction | https://github.com/chaidiscovery/chai-lab |[x]  | https://github.com/evelynmitchell/chai-lab |
 | OpenHands | 2024-09-04 | 🙌 OpenHands: Code Less, Make More | https://github.com/All-Hands-AI/OpenHands |  | https://github.com/evelynmitchell/OpenHands |
-| AlphaFold3 | 2024-09-04 | Open source implementation of AlphaFold3 | https://github.com/Ligo-Biosciences/AlphaFold3 |  | https://github.com/evelynmitchell/AlphaFold3 |
-| ProteinFlow | 2024-09-04 | Versatile computational pipeline for processing protein structure data for deep learning applications. | https://github.com/adaptyvbio/ProteinFlow |  | https://github.com/evelynmitchell/ProteinFlow |
+| AlphaFold3 | 2024-09-04 | Open source implementation of AlphaFold3 | https://github.com/Ligo-Biosciences/AlphaFold3 |[x]  | https://github.com/evelynmitchell/AlphaFold3 |
+| ProteinFlow | 2024-09-04 | Versatile computational pipeline for processing protein structure data for deep learning applications. | https://github.com/adaptyvbio/ProteinFlow | [x] | https://github.com/evelynmitchell/ProteinFlow |
 | anthropic-quickstarts | 2024-09-04 | A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API | https://github.com/anthropics/anthropic-quickstarts |  | https://github.com/evelynmitchell/anthropic-quickstarts |
 | openaievals | 2024-09-01 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | https://github.com/openai/evals |  | https://github.com/evelynmitchell/openaievals |
-| Minitron | 2024-08-26 | A family of compressed models obtained via pruning and knowledge distillation | https://github.com/NVlabs/Minitron |  | https://github.com/evelynmitchell/Minitron |
+| Minitron | 2024-08-26 | A family of compressed models obtained via pruning and knowledge distillation | https://github.com/NVlabs/Minitron |[x]  | https://github.com/evelynmitchell/Minitron |
 | dataset-viber | 2024-08-20 | Dataset Viber is your chill repo for data collection, annotation and vibe checks. | https://github.com/davidberenstein1957/dataset-viber |  | https://github.com/evelynmitchell/dataset-viber |
-| ADAS | 2024-08-19 | Automated Design of Agentic Systems | https://github.com/ShengranHu/ADAS |  | https://github.com/evelynmitchell/ADAS |
+| ADAS | 2024-08-19 | Automated Design of Agentic Systems | https://github.com/ShengranHu/ADAS | [x] | https://github.com/evelynmitchell/ADAS |
 | distilabel | 2024-08-19 | Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. | https://github.com/argilla-io/distilabel |  | https://github.com/evelynmitchell/distilabel |
-| ProxyCLIP | 2024-08-19 | [ECCV2024] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | https://github.com/mc-lan/ProxyCLIP |  | https://github.com/evelynmitchell/ProxyCLIP |
-| OSWorld | 2024-08-19 | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | https://github.com/xlang-ai/OSWorld |  | https://github.com/evelynmitchell/OSWorld |
+| ProxyCLIP | 2024-08-19 | [ECCV2024] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | https://github.com/mc-lan/ProxyCLIP | [x] | https://github.com/evelynmitchell/ProxyCLIP |
+| OSWorld | 2024-08-19 | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | https://github.com/xlang-ai/OSWorld |[x]  | https://github.com/evelynmitchell/OSWorld |
 | ScribeWizard | 2024-08-17 | ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3 | https://github.com/Bklieger/ScribeWizard |  | https://github.com/evelynmitchell/ScribeWizard |
 | ai-toolkit | 2024-08-16 | Various AI scripts. Mostly Stable Diffusion stuff. | https://github.com/ostris/ai-toolkit |  | https://github.com/evelynmitchell/ai-toolkit |
 | duckdb | 2024-08-16 | DuckDB is an analytical in-process SQL database management system | https://github.com/duckdb/duckdb |  | https://github.com/evelynmitchell/duckdb |
