@@ -98,45 +98,44 @@
 | distilabel | 2024-08-19 | Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. | https://github.com/argilla-io/distilabel |  | https://github.com/evelynmitchell/distilabel |
 | ProxyCLIP | 2024-08-19 | [ECCV2024] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation | https://github.com/mc-lan/ProxyCLIP | [x] | https://github.com/evelynmitchell/ProxyCLIP |
 | OSWorld | 2024-08-19 | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments | https://github.com/xlang-ai/OSWorld |[x]  | https://github.com/evelynmitchell/OSWorld |
-| ScribeWizard | 2024-08-17 | ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3 | https://github.com/Bklieger/ScribeWizard |  | https://github.com/evelynmitchell/ScribeWizard |
-| ai-toolkit | 2024-08-16 | Various AI scripts. Mostly Stable Diffusion stuff. | https://github.com/ostris/ai-toolkit |  | https://github.com/evelynmitchell/ai-toolkit |
-| duckdb | 2024-08-16 | DuckDB is an analytical in-process SQL database management system | https://github.com/duckdb/duckdb |  | https://github.com/evelynmitchell/duckdb |
+| ScribeWizard | 2024-08-17 | ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3 | https://github.com/Bklieger/ScribeWizard |[x]  | https://github.com/evelynmitchell/ScribeWizard |
+| ai-toolkit | 2024-08-16 | Various AI scripts. Mostly Stable Diffusion stuff. | https://github.com/ostris/ai-toolkit | [x] | https://github.com/evelynmitchell/ai-toolkit |
+| duckdb | 2024-08-16 | DuckDB is an analytical in-process SQL database management system | https://github.com/duckdb/duckdb |[x]  | https://github.com/evelynmitchell/duckdb |
 | Graph-CoT | 2024-08-15 | Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024) | https://github.com/PeterGriffinJin/Graph-CoT |  | https://github.com/evelynmitchell/Graph-CoT |
 | OpenResearcher | 2024-08-15 |  | https://github.com/GAIR-NLP/OpenResearcher |  | https://github.com/evelynmitchell/OpenResearcher |
-| LongWriter | 2024-08-15 | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | https://github.com/THUDM/LongWriter |  | https://github.com/evelynmitchell/LongWriter |
+| LongWriter | 2024-08-15 | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | https://github.com/THUDM/LongWriter | [x] | https://github.com/evelynmitchell/LongWriter |
 | multi-agent-concierge | 2024-08-15 |  | https://github.com/run-llama/multi-agent-concierge |  | https://github.com/evelynmitchell/multi-agent-concierge |
-| Zamba2 | 2024-08-14 | PyTorch implementation of models from the Zamba2 series. | https://github.com/Zyphra/Zamba2 |  | https://github.com/evelynmitchell/Zamba2 |
-| aiconfig | 2024-08-13 | AIConfig is a config-based framework to build generative AI applications. | https://github.com/lastmile-ai/aiconfig |  | https://github.com/evelynmitchell/aiconfig |
+| Zamba2 | 2024-08-14 | PyTorch implementation of models from the Zamba2 series. | https://github.com/Zyphra/Zamba2 | [x] | https://github.com/evelynmitchell/Zamba2 |
+| aiconfig | 2024-08-13 | AIConfig is a config-based framework to build generative AI applications. | https://github.com/lastmile-ai/aiconfig |[x]  | https://github.com/evelynmitchell/aiconfig |
 | knitscape | 2024-08-12 | Knitscape is a chart-based design and simulation tool for knitting stitch patterns. | https://github.com/knitscape/knitscape |  | https://github.com/evelynmitchell/knitscape |
 | tree_attention | 2024-08-12 | Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters | https://github.com/Zyphra/tree_attention |  | https://github.com/evelynmitchell/tree_attention |
-| data-portraits | 2024-08-11 | Documenting large text datasets 🖼️ 📚 | https://github.com/ruyimarone/data-portraits |  | https://github.com/evelynmitchell/data-portraits |
-| StructEval | 2024-08-11 | This is the office repository for ACL 2024 paper "StructEval: Deepen and Broaden Large Language Assessment via Structured Evaluation" | https://github.com/c-box/StructEval |  | https://github.com/evelynmitchell/StructEval |
-| llmsec | 2024-08-10 |  | https://github.com/gregretkowski/llmsec |  | https://github.com/evelynmitchell/llmsec |
-| savvi | 2024-08-10 | savvi is a package for Safe Anytime Valid Inference | https://github.com/assuncaolfi/savvi |  | https://github.com/evelynmitchell/savvi |
-| DistillKit | 2024-08-10 | An Open Source Toolkit For LLM Distillation | https://github.com/arcee-ai/DistillKit |  | https://github.com/evelynmitchell/DistillKit |
-| ZeroEval | 2024-08-10 | A simple unified framework for evaluating LLMs | https://github.com/WildEval/ZeroEval |  | https://github.com/evelynmitchell/ZeroEval |
-| CARBonAra | 2024-08-07 |  | https://github.com/LBM-EPFL/CARBonAra |  | https://github.com/evelynmitchell/CARBonAra |
-| mosGraphFlow | 2024-08-07 | Multi-Scale Multi-Hop Flow for Interpreting Mechanism of Signaling | https://github.com/FuhaiLiAiLab/mosGraphFlow |  | https://github.com/evelynmitchell/mosGraphFlow |
-| groq-api-cookbook | 2024-08-03 |  | https://github.com/groq/groq-api-cookbook |  | https://github.com/evelynmitchell/groq-api-cookbook |
-| fasthtml-example | 2024-08-02 | Example fasthtml applications demonstrating a range of web programming techniques | https://github.com/AnswerDotAI/fasthtml-example |  | https://github.com/evelynmitchell/fasthtml-example |
+| data-portraits | 2024-08-11 | Documenting large text datasets 🖼️ 📚 | https://github.com/ruyimarone/data-portraits | [x] | https://github.com/evelynmitchell/data-portraits |
+| StructEval | 2024-08-11 | This is the office repository for ACL 2024 paper "StructEval: Deepen and Broaden Large Language Assessment via Structured Evaluation" | https://github.com/c-box/StructEval | [x] | https://github.com/evelynmitchell/StructEval |
+| llmsec | 2024-08-10 |  | https://github.com/gregretkowski/llmsec | [x] | https://github.com/evelynmitchell/llmsec |
+| savvi | 2024-08-10 | savvi is a package for Safe Anytime Valid Inference | https://github.com/assuncaolfi/savvi |[x]  | https://github.com/evelynmitchell/savvi |
+| DistillKit | 2024-08-10 | An Open Source Toolkit For LLM Distillation | https://github.com/arcee-ai/DistillKit |[x]  | https://github.com/evelynmitchell/DistillKit |
+| ZeroEval | 2024-08-10 | A simple unified framework for evaluating LLMs | https://github.com/WildEval/ZeroEval |[x]  | https://github.com/evelynmitchell/ZeroEval |
+| CARBonAra | 2024-08-07 |  | https://github.com/LBM-EPFL/CARBonAra |[x]  | https://github.com/evelynmitchell/CARBonAra |
+| mosGraphFlow | 2024-08-07 | Multi-Scale Multi-Hop Flow for Interpreting Mechanism of Signaling | https://github.com/FuhaiLiAiLab/mosGraphFlow |[x]  | https://github.com/evelynmitchell/mosGraphFlow |
+| groq-api-cookbook | 2024-08-03 |  | https://github.com/groq/groq-api-cookbook | [x] | https://github.com/evelynmitchell/groq-api-cookbook |
+| fasthtml-example | 2024-08-02 | Example fasthtml applications demonstrating a range of web programming techniques | https://github.com/AnswerDotAI/fasthtml-example |[x]  | https://github.com/evelynmitchell/fasthtml-example |
 | agent-zero | 2024-08-02 | Agent Zero AI framework | https://github.com/frdel/agent-zero |  | https://github.com/evelynmitchell/agent-zero |
-| firstnodejs | 2024-08-01 |  | None |  | https://github.com/evelynmitchell/firstnodejs |
-| groq-python | 2024-08-01 | The official Python Library for the Groq API | https://github.com/groq/groq-python |  | https://github.com/evelynmitchell/groq-python |
+| groq-python | 2024-08-01 | The official Python Library for the Groq API | https://github.com/groq/groq-python | [x] | https://github.com/evelynmitchell/groq-python |
 | dataline | 2024-07-31 | Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite... | https://github.com/RamiAwar/dataline |  | https://github.com/evelynmitchell/dataline |
 | AITinkerersDenver2024 | 2024-07-30 |  | None |  | https://github.com/evelynmitchell/AITinkerersDenver2024 |
 | damo | 2024-07-29 | DAMON user-space tool | https://github.com/awslabs/damo |  | https://github.com/evelynmitchell/damo |
 | Open-Reasoning-Tasks | 2024-07-26 | A comprehensive repository of reasoning tasks for LLMs (and beyond) | https://github.com/NousResearch/Open-Reasoning-Tasks |  | https://github.com/evelynmitchell/Open-Reasoning-Tasks |
 | wat | 2024-07-26 | Deep inspection of Python objects | https://github.com/igrek51/wat |  | https://github.com/evelynmitchell/wat |
 | mandala | 2024-07-24 | A simple & elegant experiment tracking framework that integrates persistence logic & best practices directly into Python | https://github.com/amakelov/mandala |  | https://github.com/evelynmitchell/mandala |
-| huggingface-llama-recipes | 2024-07-24 |  | https://github.com/huggingface/huggingface-llama-recipes |  | https://github.com/evelynmitchell/huggingface-llama-recipes |
+| huggingface-llama-recipes | 2024-07-24 |  | https://github.com/huggingface/huggingface-llama-recipes |[x]  | https://github.com/evelynmitchell/huggingface-llama-recipes |
 | bayesian-flow-networks | 2024-07-22 | This is the official code release for Bayesian Flow Networks. | https://github.com/nnaisense/bayesian-flow-networks |  | https://github.com/evelynmitchell/bayesian-flow-networks |
 | k8smanager | 2024-07-22 | Autonomic computing 2407.14402 | None |  | https://github.com/evelynmitchell/k8smanager |
 | OgbujiPT | 2024-07-22 | Client-side toolkit for using large language models, including where self-hosted | https://github.com/OoriData/OgbujiPT |  | https://github.com/evelynmitchell/OgbujiPT |
 | PlanRAG | 2024-07-20 | Repository for “PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers”, NAACL24 | https://github.com/myeon9h/PlanRAG |  | https://github.com/evelynmitchell/PlanRAG |
-| northwind-mongo | 2024-07-20 | Northwind dumped to MongoDB | https://github.com/tmcnab/northwind-mongo |  | https://github.com/evelynmitchell/northwind-mongo |
-| LLaMA-Factory | 2024-07-19 | A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024) | https://github.com/hiyouga/LLaMA-Factory |  | https://github.com/evelynmitchell/LLaMA-Factory |
-| storm | 2024-07-19 | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | https://github.com/stanford-oval/storm |  | https://github.com/evelynmitchell/storm |
-| Streamlit_practice_oso | 2024-07-18 |  | https://github.com/OSOSerious/Streamlit_practice |  | https://github.com/evelynmitchell/Streamlit_practice_oso |
+| northwind-mongo | 2024-07-20 | Northwind dumped to MongoDB | https://github.com/tmcnab/northwind-mongo | [x] | https://github.com/evelynmitchell/northwind-mongo |
+| LLaMA-Factory | 2024-07-19 | A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024) | https://github.com/hiyouga/LLaMA-Factory | [x] | https://github.com/evelynmitchell/LLaMA-Factory |
+| storm | 2024-07-19 | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | https://github.com/stanford-oval/storm |[x]  | https://github.com/evelynmitchell/storm |
+| Streamlit_practice_oso | 2024-07-18 |  | https://github.com/OSOSerious/Streamlit_practice | [x] | https://github.com/evelynmitchell/Streamlit_practice_oso |
 | GoldFinch-paper | 2024-07-18 | GoldFinch and other hybrid transformer components | https://github.com/recursal/GoldFinch-paper |  | https://github.com/evelynmitchell/GoldFinch-paper |
 | streamlit | 2024-07-17 | Streamlit — A faster way to build and share data apps. | https://github.com/streamlit/streamlit |  | https://github.com/evelynmitchell/streamlit |
 | augmentoolkit | 2024-07-17 | Convert Compute And Books Into Instruct-Tuning Datasets (or classifiers)! | https://github.com/e-p-armstrong/augmentoolkit |  | https://github.com/evelynmitchell/augmentoolkit |
