@@ -215,8 +215,8 @@
 | open-eqa | 2024-04-13 | OpenEQA Embodied Question Answering in the Era of Foundation Models | https://github.com/facebookresearch/open-eqa |[x]  | https://github.com/evelynmitchell/open-eqa |
 | open-gpu-kernel-modules | 2024-04-13 | NVIDIA Linux open GPU with P2P support | https://github.com/tinygrad/open-gpu-kernel-modules |[x]  | https://github.com/evelynmitchell/open-gpu-kernel-modules |
 | survey | 2024-04-11 | A golang library for building interactive and accessible prompts with full support for windows and posix terminals. | https://github.com/plandex-ai/survey |[x] | https://github.com/evelynmitchell/survey |
-| plandex | 2024-04-11 | An AI coding engine for complex tasks | https://github.com/plandex-ai/plandex |  | https://github.com/evelynmitchell/plandex |
-| shouldersOfGiants.rs | 2024-04-08 | I have no idea what I'm doing , but llm.c in rust | None |  | https://github.com/evelynmitchell/shouldersOfGiants.rs |
+| plandex | 2024-04-11 | An AI coding engine for complex tasks | https://github.com/plandex-ai/plandex |[x]  | https://github.com/evelynmitchell/plandex |
+| shouldersOfGiants.rs | 2024-04-08 | I have no idea what I'm doing , but llm.c in rust | None | [a] | https://github.com/evelynmitchell/shouldersOfGiants.rs |
 | clevergpt | 2024-04-08 | Training GPTs to solve interaction nets | https://github.com/reissbaker/clevergpt |  | https://github.com/evelynmitchell/clevergpt |
 | dbrx | 2024-04-08 | Code examples and resources for DBRX, a large language model developed by Databricks | https://github.com/databricks/dbrx |  | https://github.com/evelynmitchell/dbrx |
 | ragflow | 2024-04-05 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | https://github.com/infiniflow/ragflow |  | https://github.com/evelynmitchell/ragflow |
