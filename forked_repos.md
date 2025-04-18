@@ -228,20 +228,20 @@
 | nvidia-container-toolkit | 2024-04-01 | Build and run containers leveraging NVIDIA GPUs | https://github.com/NVIDIA/nvidia-container-toolkit |  | https://github.com/evelynmitchell/nvidia-container-toolkit |
 | MiniGemini | 2024-04-01 | Official implementation for Mini-Gemini | https://github.com/dvlab-research/MGM | [x] | https://github.com/evelynmitchell/MiniGemini |
 | lightning-thunder | 2024-03-29 | Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once. | https://github.com/Lightning-AI/lightning-thunder |[x]  | https://github.com/evelynmitchell/lightning-thunder |
-| AIOS | 2024-03-27 | AIOS: LLM Agent Operating System | https://github.com/agiresearch/AIOS |  | https://github.com/evelynmitchell/AIOS |
-| chronos-forecasting | 2024-03-25 | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting | https://github.com/amazon-science/chronos-forecasting |  | https://github.com/evelynmitchell/chronos-forecasting |
-| ib_async | 2024-03-19 | Python sync/async framework for Interactive Brokers API (replaces ib_insync) | https://github.com/ib-api-reloaded/ib_async |  | https://github.com/evelynmitchell/ib_async |
-| structureshrink | 2024-03-18 | Structured shrinking of unknown file formats | https://github.com/DRMacIver/structureshrink |  | https://github.com/evelynmitchell/structureshrink |
-| ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/imelnyk/ArxivPapers |  | https://github.com/evelynmitchell/ArxivPapers |
+| AIOS | 2024-03-27 | AIOS: LLM Agent Operating System | https://github.com/agiresearch/AIOS | [x] | https://github.com/evelynmitchell/AIOS |
+| chronos-forecasting | 2024-03-25 | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting | https://github.com/amazon-science/chronos-forecasting |[x]  | https://github.com/evelynmitchell/chronos-forecasting |
+| ib_async | 2024-03-19 | Python sync/async framework for Interactive Brokers API (replaces ib_insync) | https://github.com/ib-api-reloaded/ib_async |[x]  | https://github.com/evelynmitchell/ib_async |
+| structureshrink | 2024-03-18 | Structured shrinking of unknown file formats | https://github.com/DRMacIver/structureshrink | [x] | https://github.com/evelynmitchell/structureshrink |
+| ArxivPapers | 2024-03-17 | Code behind Arxiv Papers  | https://github.com/imelnyk/ArxivPapers |[x]  | https://github.com/evelynmitchell/ArxivPapers |
 | aici | 2024-03-11 | AICI: Prompts as (Wasm) Programs | https://github.com/microsoft/aici |  | https://github.com/evelynmitchell/aici |
-| evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evo-design/evo |  | https://github.com/evelynmitchell/evo |
-| py-llm-core | 2024-02-22 | A pythonic library providing light-weighted interface with LLMs | https://github.com/advanced-stack/py-llm-core |  | https://github.com/evelynmitchell/py-llm-core |
+| evo | 2024-02-27 | DNA foundation modeling from molecular to genome scale | https://github.com/evo-design/evo | [x] | https://github.com/evelynmitchell/evo |
+| py-llm-core | 2024-02-22 | A pythonic library providing light-weighted interface with LLMs | https://github.com/advanced-stack/py-llm-core | [x] | https://github.com/evelynmitchell/py-llm-core |
 | RingAttention | 2024-02-20 | Transformers with Arbitrarily Large Context | https://github.com/haoliuhl/ringattention |  | https://github.com/evelynmitchell/RingAttention |
-| gpt_paper_assistant | 2024-02-18 | GPT4 based personalized ArXiv paper assistant bot | https://github.com/tatsu-lab/gpt_paper_assistant |  | https://github.com/evelynmitchell/gpt_paper_assistant |
+| gpt_paper_assistant | 2024-02-18 | GPT4 based personalized ArXiv paper assistant bot | https://github.com/tatsu-lab/gpt_paper_assistant |[x]  | https://github.com/evelynmitchell/gpt_paper_assistant |
 | SPIN | 2024-02-18 | The official implementation of Self-Play Fine-Tuning (SPIN) | https://github.com/uclaml/SPIN |  | https://github.com/evelynmitchell/SPIN |
 | security-policies | 2024-02-18 | Security policies for Tailscale | https://github.com/tailscale/security-policies |  | https://github.com/evelynmitchell/security-policies |
 | universal_neural_functional | 2024-02-18 |  | https://github.com/AllanYangZhou/universal_neural_functional |  | https://github.com/evelynmitchell/universal_neural_functional |
-| FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/OS-Copilot/OS-Copilot |  | https://github.com/evelynmitchell/FRIDAY |
+| FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/OS-Copilot/OS-Copilot |[x]  | https://github.com/evelynmitchell/FRIDAY |
 | LESS | 2024-02-17 | Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning | https://github.com/princeton-nlp/LESS |  | https://github.com/evelynmitchell/LESS |
 | contrastors | 2024-02-16 | Train Models Contrastively in Pytorch | https://github.com/nomic-ai/contrastors |  | https://github.com/evelynmitchell/contrastors |
 | StableCascade | 2024-02-14 |  | https://github.com/Stability-AI/StableCascade |  | https://github.com/evelynmitchell/StableCascade |
