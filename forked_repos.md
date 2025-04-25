@@ -244,22 +244,22 @@
 | FRIDAY | 2024-02-17 | An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  | https://github.com/OS-Copilot/OS-Copilot |[x]  | https://github.com/evelynmitchell/FRIDAY |
 | LESS | 2024-02-17 | Preprint: Less: Selecting Influential Data for Targeted Instruction Tuning | https://github.com/princeton-nlp/LESS |  | https://github.com/evelynmitchell/LESS |
 | contrastors | 2024-02-16 | Train Models Contrastively in Pytorch | https://github.com/nomic-ai/contrastors |  | https://github.com/evelynmitchell/contrastors |
-| StableCascade | 2024-02-14 |  | https://github.com/Stability-AI/StableCascade |  | https://github.com/evelynmitchell/StableCascade |
-| prismatic-vlms | 2024-02-13 | A flexible and efficient codebase for training visually-conditioned language models (VLMs) | https://github.com/TRI-ML/prismatic-vlms |  | https://github.com/evelynmitchell/prismatic-vlms |
+| StableCascade | 2024-02-14 |  | https://github.com/Stability-AI/StableCascade | [x] | https://github.com/evelynmitchell/StableCascade |
+| prismatic-vlms | 2024-02-13 | A flexible and efficient codebase for training visually-conditioned language models (VLMs) | https://github.com/TRI-ML/prismatic-vlms |[x]  | https://github.com/evelynmitchell/prismatic-vlms |
 | llama-cpp-wasm | 2024-02-13 | WebAssembly (Wasm) Build and Bindings for llama.cpp | https://github.com/tangledgroup/llama-cpp-wasm |  | https://github.com/evelynmitchell/llama-cpp-wasm |
-| awesome-ssm-ml | 2024-02-12 |  | https://github.com/AvivBick/awesome-ssm-ml |  | https://github.com/evelynmitchell/awesome-ssm-ml |
+| awesome-ssm-ml | 2024-02-12 |  | https://github.com/AvivBick/awesome-ssm-ml |[x]  | https://github.com/evelynmitchell/awesome-ssm-ml |
 | hulyplatform | 2024-02-12 | Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more | https://github.com/hcengineering/platform |  | https://github.com/evelynmitchell/hulyplatform |
 | OpenToM | 2024-02-12 | The official repository of the OpenToM dataset | https://github.com/seacowx/OpenToM |  | https://github.com/evelynmitchell/OpenToM |
 | tsmixer | 2024-02-11 | Time Series Mixer forecasting multivariate time series | None |  | https://github.com/evelynmitchell/tsmixer |
-| TensorRT | 2024-02-10 | NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. | https://github.com/NVIDIA/TensorRT |  | https://github.com/evelynmitchell/TensorRT |
-| ScalableVectorSearch | 2024-02-10 |  | https://github.com/intel/ScalableVectorSearch |  | https://github.com/evelynmitchell/ScalableVectorSearch |
-| gsplat | 2024-02-10 | CUDA accelerated rasterization of gaussian splatting | https://github.com/nerfstudio-project/gsplat |  | https://github.com/evelynmitchell/gsplat |
-| AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/Vahe1994/AQLM |  | https://github.com/evelynmitchell/AQLM |
-| cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/vwxyzjn/cleanrl |  | https://github.com/evelynmitchell/cleanrl |
+| TensorRT | 2024-02-10 | NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. | https://github.com/NVIDIA/TensorRT |[x]  | https://github.com/evelynmitchell/TensorRT |
+| ScalableVectorSearch | 2024-02-10 |  | https://github.com/intel/ScalableVectorSearch |[x]  | https://github.com/evelynmitchell/ScalableVectorSearch |
+| gsplat | 2024-02-10 | CUDA accelerated rasterization of gaussian splatting | https://github.com/nerfstudio-project/gsplat |[x]  | https://github.com/evelynmitchell/gsplat |
+| AQLM | 2024-02-08 | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf | https://github.com/Vahe1994/AQLM |[x]  | https://github.com/evelynmitchell/AQLM |
+| cleanrl | 2024-02-04 | High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) | https://github.com/vwxyzjn/cleanrl | [x] | https://github.com/evelynmitchell/cleanrl |
 | tsfm | 2024-02-03 | Foundation Models for Time Series | https://github.com/ibm-granite/granite-tsfm |  | https://github.com/evelynmitchell/tsfm |
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | None |  | https://github.com/evelynmitchell/TinyTimeMixers |
 | open-instruct | 2024-02-02 |  | https://github.com/allenai/open-instruct |  | https://github.com/evelynmitchell/open-instruct |
-| pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/deployradiant/pychatml |  | https://github.com/evelynmitchell/pychatml |
+| pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/deployradiant/pychatml |[x]  | https://github.com/evelynmitchell/pychatml |
 | self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/lucidrains/self-rewarding-lm-pytorch |  | https://github.com/evelynmitchell/self-rewarding-lm-pytorch |
 | MyWay | 2024-01-19 |  | None |  | https://github.com/evelynmitchell/MyWay |
 | DimensionMixer | 2024-01-18 | Dimension Mixer model  | None |  | https://github.com/evelynmitchell/DimensionMixer |
