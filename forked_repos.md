@@ -260,16 +260,16 @@
 | TinyTimeMixers | 2024-02-02 | Tiny Time Mixers - a time series model 2401.03955 | None |  | https://github.com/evelynmitchell/TinyTimeMixers |
 | open-instruct | 2024-02-02 |  | https://github.com/allenai/open-instruct |  | https://github.com/evelynmitchell/open-instruct |
 | pychatml | 2024-01-27 | Chat Markup Language conversation library | https://github.com/deployradiant/pychatml |[x]  | https://github.com/evelynmitchell/pychatml |
-| self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/lucidrains/self-rewarding-lm-pytorch |  | https://github.com/evelynmitchell/self-rewarding-lm-pytorch |
-| MyWay | 2024-01-19 |  | None |  | https://github.com/evelynmitchell/MyWay |
+| self-rewarding-lm-pytorch | 2024-01-22 | Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI | https://github.com/lucidrains/self-rewarding-lm-pytorch |[x]  | https://github.com/evelynmitchell/self-rewarding-lm-pytorch |
+| MyWay | 2024-01-19 |  | None | [x] | https://github.com/evelynmitchell/MyWay |
 | DimensionMixer | 2024-01-18 | Dimension Mixer model  | None |  | https://github.com/evelynmitchell/DimensionMixer |
-| privy | 2024-01-18 | Your private coding assistant | https://github.com/srikanth235/privy |  | https://github.com/evelynmitchell/privy |
-| vstar | 2024-01-16 | PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs" | https://github.com/penghao-wu/vstar |  | https://github.com/evelynmitchell/vstar |
+| privy | 2024-01-18 | Your private coding assistant | https://github.com/srikanth235/privy |[x]  | https://github.com/evelynmitchell/privy |
+| vstar | 2024-01-16 | PyTorch Implementation of "V* : Guided Visual Search as a Core Mechanism in Multimodal LLMs" | https://github.com/penghao-wu/vstar |[x] | https://github.com/evelynmitchell/vstar |
 | sleeper-agents-paper | 2024-01-16 | Contains random samples referenced in the paper "Sleeper Agents: Training Robustly Deceptive LLMs that Persist Through Safety Training". | https://github.com/anthropics/sleeper-agents-paper |  | https://github.com/evelynmitchell/sleeper-agents-paper |
-| spacedrepetition | 2024-01-15 |  | None |  | https://github.com/evelynmitchell/spacedrepetition |
+| spacedrepetition | 2024-01-15 |  | None | [x] | https://github.com/evelynmitchell/spacedrepetition |
 | SubjQA | 2024-01-13 | A question-answering dataset with a focus on subjective information | https://github.com/megagonlabs/SubjQA |  | https://github.com/evelynmitchell/SubjQA |
-| libdwarf-code | 2024-01-12 | Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake. | https://github.com/davea42/libdwarf-code |  | https://github.com/evelynmitchell/libdwarf-code |
-| ast_t5 | 2024-01-10 |  | https://github.com/gonglinyuan/ast_t5 |  | https://github.com/evelynmitchell/ast_t5 |
+| libdwarf-code | 2024-01-12 | Contains source for libdwarf, a library for reading DWARF2 and later DWARF. Contains  source to create dwarfdump, a program which prints DWARF2 and later DWARF in readable format. Has a very limited DWARF writer set of functions in libdwarfp (producer library). Builds using GNU configure, meson, or cmake. | https://github.com/davea42/libdwarf-code | [x] | https://github.com/evelynmitchell/libdwarf-code |
+| ast_t5 | 2024-01-10 |  | https://github.com/gonglinyuan/ast_t5 |[x]  | https://github.com/evelynmitchell/ast_t5 |
 | HeCBench | 2024-01-10 |  | https://github.com/zjin-lcf/HeCBench |  | https://github.com/evelynmitchell/HeCBench |
 | llm-autoeval | 2024-01-10 | Automatically evaluate your LLMs in Google Colab | https://github.com/mlabonne/llm-autoeval |  | https://github.com/evelynmitchell/llm-autoeval |
 | persuasive_jailbreaker | 2024-01-10 | Persuasive Jailbreaker: we can persuade LLMs to jailbreak them! | https://github.com/CHATS-lab/persuasive_jailbreaker |  | https://github.com/evelynmitchell/persuasive_jailbreaker |
