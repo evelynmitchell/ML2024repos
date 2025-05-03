@@ -272,13 +272,13 @@
 | ast_t5 | 2024-01-10 |  | https://github.com/gonglinyuan/ast_t5 |[x]  | https://github.com/evelynmitchell/ast_t5 |
 | HeCBench | 2024-01-10 |  | https://github.com/zjin-lcf/HeCBench |  | https://github.com/evelynmitchell/HeCBench |
 | llm-autoeval | 2024-01-10 | Automatically evaluate your LLMs in Google Colab | https://github.com/mlabonne/llm-autoeval |  | https://github.com/evelynmitchell/llm-autoeval |
-| persuasive_jailbreaker | 2024-01-10 | Persuasive Jailbreaker: we can persuade LLMs to jailbreak them! | https://github.com/CHATS-lab/persuasive_jailbreaker |  | https://github.com/evelynmitchell/persuasive_jailbreaker |
-| selfextend | 2024-01-08 | an implementation of Self-Extend, to expand the context window via grouped attention | https://github.com/sdan/selfextend |  | https://github.com/evelynmitchell/selfextend |
-| open-muse | 2024-01-07 | Open reproduction of MUSE for fast text2image generation.  | https://github.com/huggingface/open-muse |  | https://github.com/evelynmitchell/open-muse |
-| Faithful-COT | 2024-01-06 | Code and data accompanying our paper on arXiv "Faithful Chain-of-Thought Reasoning". | https://github.com/veronica320/Faithful-COT |  | https://github.com/evelynmitchell/Faithful-COT |
-| TinyLlama | 2024-01-05 | The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. | https://github.com/jzhang38/TinyLlama |  | https://github.com/evelynmitchell/TinyLlama |
+| persuasive_jailbreaker | 2024-01-10 | Persuasive Jailbreaker: we can persuade LLMs to jailbreak them! | https://github.com/CHATS-lab/persuasive_jailbreaker |[x]  | https://github.com/evelynmitchell/persuasive_jailbreaker |
+| selfextend | 2024-01-08 | an implementation of Self-Extend, to expand the context window via grouped attention | https://github.com/sdan/selfextend |[x]  | https://github.com/evelynmitchell/selfextend |
+| open-muse | 2024-01-07 | Open reproduction of MUSE for fast text2image generation.  | https://github.com/huggingface/open-muse | [x] | https://github.com/evelynmitchell/open-muse |
+| Faithful-COT | 2024-01-06 | Code and data accompanying our paper on arXiv "Faithful Chain-of-Thought Reasoning". | https://github.com/veronica320/Faithful-COT |[x]  | https://github.com/evelynmitchell/Faithful-COT |
+| TinyLlama | 2024-01-05 | The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. | https://github.com/jzhang38/TinyLlama | [x] | https://github.com/evelynmitchell/TinyLlama |
 | laser-code | 2024-01-05 | The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction | https://github.com/pratyushasharma/laser |  | https://github.com/evelynmitchell/laser-code |
-| act-plus-plus | 2024-01-05 | Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN | https://github.com/MarkFzp/act-plus-plus |  | https://github.com/evelynmitchell/act-plus-plus |
-| mobile-aloha | 2024-01-05 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | https://github.com/MarkFzp/mobile-aloha |  | https://github.com/evelynmitchell/mobile-aloha |
+| act-plus-plus | 2024-01-05 | Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN | https://github.com/MarkFzp/act-plus-plus | [x] | https://github.com/evelynmitchell/act-plus-plus |
+| mobile-aloha | 2024-01-05 | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation | https://github.com/MarkFzp/mobile-aloha | [x] | https://github.com/evelynmitchell/mobile-aloha |
 | Rust_algorithms | 2024-01-02 |  All Algorithms implemented in Rust  | https://github.com/TheAlgorithms/Rust |  | https://github.com/evelynmitchell/Rust_algorithms |
 | tch-rs | 2024-01-02 | Rust bindings for the C++ api of PyTorch. | https://github.com/LaurentMazare/tch-rs |  | https://github.com/evelynmitchell/tch-rs |
